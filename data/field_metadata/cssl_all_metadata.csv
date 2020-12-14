@@ -1,0 +1,1852 @@
+sample_id,country_name,country_code,region_name,subdivision_name,subdivision_type,spc
+08_669,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.31371529
+08_670,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.32256179
+08_671,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.29160304
+08_672,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.31731123
+08_673,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.32564737
+08_674,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3372063
+08_675,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.33667055
+08_676,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3307299
+08_677,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.39582893
+08_683,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.37965897
+08_693,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.26540498
+08_694,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.29986012
+08_695,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.31796069
+08_696,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.33268858
+08_697,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.3261129
+08_698,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.28007518
+08_699,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.30910434
+08_700,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.28569874
+08_701,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.28501886
+08_706,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.25146348
+08_718,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.42635413
+08_719,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41875094
+08_720,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.42927642
+08_721,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.38039316
+08_722,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.36694209
+08_723,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41251795
+08_730,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.47670408
+09_864,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.46434326
+09_892,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.34864943
+09_904,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.32483135
+09_921,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.34828922
+09_945,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.36305439
+09_960,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.34110494
+09_973,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3719936
+09_982,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3840563
+09_989,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.34133513
+10_003,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.32094154
+1002,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55796877
+1003,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52220461
+1004,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54679564
+1005,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61109176
+1006,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55004945
+1007,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58246312
+1008,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51887143
+1009,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49709657
+1010,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58892742
+1011,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51202694
+1012,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52768108
+1013,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60584882
+1014,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47839524
+1015,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47867362
+1016,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54121944
+1017,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49838652
+1018,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59577617
+1019,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61203951
+1020,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54085016
+1021,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.38910922
+1022,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53169212
+1023,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57224703
+1024,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.45312038
+1025,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.50009365
+1026,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.7242108
+1027,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58561307
+1028,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52490145
+1029,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.50318711
+1030,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58614016
+1031,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49453214
+1032,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61391515
+1033,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.4415805
+1034,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.35588974
+1035,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48073921
+1036,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59045163
+1037,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52980721
+1038,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.47577967
+1039,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.36372054
+1040,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.56327045
+1041,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50763085
+1042,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49678193
+1043,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.49875632
+1044,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48149438
+1045,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.46613848
+1046,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52363551
+1047,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51885739
+1048,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.47576405
+1049,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53872564
+1050,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.36868206
+1051,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53223008
+1052,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5260793
+11_1035,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.39227085
+11_1036,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.39745714
+11_937,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.35874161
+11_976,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.38226552
+13_2072,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.24447453
+13_2073,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.25232141
+13_2074,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.26249685
+13_2075,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.37026642
+13_2076,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.37026784
+13_2077,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.44531178
+13_2078,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.36990358
+13_2079,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.40859574
+13_2080,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.40914005
+13_2102,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.46314959
+13_2103,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.49542134
+13_2104,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.47558795
+13_2105,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.43283591
+13_2106,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.40758988
+13_2107,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41292925
+13_2108,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.51681104
+13_2109,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.39916173
+13_2110,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.43561004
+13_2111,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.46402463
+13_2112,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.43366355
+13_2113,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.48269424
+13_2114,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3949883
+13_2115,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.47195488
+13_2116,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.43830994
+13_2117,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.47400132
+13_2118,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41807374
+13_2119,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.47190532
+13_2120,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.49806814
+13_2121,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.469065
+13_2122,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.46777835
+13_2123,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.40802979
+13_2124,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.51072519
+13_2125,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.4603889
+13_2126,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.42362072
+13_2127,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.473914
+13_2128,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.3911238
+13_2129,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.44221541
+13_2130,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.40322167
+13_2131,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.44587392
+13_2132,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41931003
+13_2133,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.4784198
+13_2134,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.49036443
+13_2135,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.50276759
+13_2136,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.50528316
+13_2137,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.44968732
+13_2138,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.37021962
+13_2139,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41784255
+13_2140,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.39169547
+13_2141,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.43253458
+13_2142,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.44838414
+13_2143,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.41641842
+13_2144,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.49151099
+13_2145,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,0.49144168
+18-03_KB_0_10_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.44998513
+18-03_KB_0_10_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.48095162
+18-03_KB_10_20_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47536983
+18-03_KB_10_20_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54304215
+18-03_KB_20_30_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.44855973
+18-03_KB_20_30_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49637109
+18-03_KB_20_30_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.62110102
+18-03_KB_30_40_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57112342
+18-03_KB_30_50_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.497273
+18-03_KB_30_50_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47082233
+18-03_KB_40_50_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61026439
+18-03_KB_50_60_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60696191
+18-03_KB_50_70_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.44626123
+18-03_KB_50_70_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49331369
+18-03_KB_60_70_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55348808
+18-03_KB_70_100_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50855735
+18-03_KB_70_100_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49470195
+18-03_KB_70_80_MS,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55729866
+18-03_YGB_GIL_0_15_3,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.28814206
+18-03_YGB_GIL_15_30_3,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36444977
+2668,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51757047
+2669,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.42692889
+2670,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.49692395
+2671,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.35925652
+2672,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54790172
+2673,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.47061214
+2674,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.33500724
+2675,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.50971788
+2676,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51625121
+2677,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.44620231
+88_742,Democratic Republic of Congo,COD,Kongo-Central,Tshela,Territoire,0.30796479
+88_744,Democratic Republic of Congo,COD,Kongo-Central,Tshela,Territoire,0.26685087
+89_1122,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.40845545
+89_1123,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.29710783
+89_1124,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.25824357
+89_1193,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,0.52622604
+89_1194,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,0.50026141
+89_1195,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,0.49517901
+89_1218,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.37472127
+89_1219,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.31658599
+89_1224,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.47798438
+89_1225,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.36294182
+89_1226,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.29213046
+89_1412,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,0.51040608
+89_1413,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,0.46072498
+89_1415,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,0.44298205
+89_1544,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.35986897
+89_1545,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.28979304
+89_1546,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.29310255
+89_1592,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.36244236
+89_1593,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.36131258
+89_1594,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,0.34882528
+89_231,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.37548895
+89_232,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.32801415
+89_233,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,0.26035329
+89_279,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.40991764
+89_280,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.28556946
+89_556,Democratic Republic of Congo,COD,Kongo-Central,NA,NA,0.37604152
+89_558,Democratic Republic of Congo,COD,Kongo-Central,NA,NA,0.44108346
+89_734,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.38201275
+89_736,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.32978609
+89_753,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.504354
+89_754,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,0.29022172
+89_783,Democratic Republic of Congo,COD,Kongo-Central,Matadi,Ville,0.35374098
+89_785,Democratic Republic of Congo,COD,Kongo-Central,Matadi,Ville,0.35441056
+89_804,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.45435651
+89_805,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.30197982
+89_806,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.27640535
+89_834,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.47565694
+89_835,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,0.30560507
+BAW_J01_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J01_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J01_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J02_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J02_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J02_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J03_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J03_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J03_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J04_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J04_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J04_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J05_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J05_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J05_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J06_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J06_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J06_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J08_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J08_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J08_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J11_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J11_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J11_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J12_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J12_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J12_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J13_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J13_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J13_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J14_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J14_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J14_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J15_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J15_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J15_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J16_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J16_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J16_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J17_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J17_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J17_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J20_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J20_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J20_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J21_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J21_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J21_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J22_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J22_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J22_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J23_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J23_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J24_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J24_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J26_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J26_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J26_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J27_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J27_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J27_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J28_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J28_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J28_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J29_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J29_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J29_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J30_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J30_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J30_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J31_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J31_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J31_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J32_C1,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J32_C2,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+BAW_J32_C3,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,NA
+bol_1x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40236688
+bol_1x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.28035478
+bol_1x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.52807915
+bol_1x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37533678
+bol_1x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.51432517
+bol_1x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32041737
+bol_1x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43218926
+bol_1x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36293055
+bol_2x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.45295131
+bol_2x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.45500928
+bol_2x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38556492
+bol_2x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35528025
+bol_2x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43544279
+bol_2x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40934961
+bol_2x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36602379
+bol_2x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46551412
+bol_pp_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.51470831
+bol_pp_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34548444
+bol_pp_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4395514
+bol_pp_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35006917
+bol_pp_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46541156
+bol_pp_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3843486
+bol_pp_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.53343281
+bol_pp_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35462412
+bon_1x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4296429
+bon_1x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35469469
+bon_1x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43383443
+bon_1x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3557173
+bon_1x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39099999
+bon_1x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39104106
+bon_1x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37095088
+bon_1x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40483585
+bon_2x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39391667
+bon_2x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35899949
+bon_2x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42140774
+bon_2x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38220482
+bon_2x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42512871
+bon_2x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40730026
+bon_2x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42114305
+bon_2x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40757568
+bon_pp_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43602012
+bon_pp_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40422964
+bon_pp_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.50648373
+bon_pp_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41941807
+bon_pp_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38924392
+bon_pp_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34742166
+bon_pp_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41827169
+bon_pp_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3762413
+cod_bku_2015-12-01_ag_rep01_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.63451964
+cod_bku_2015-12-01_ag_rep01_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57611424
+cod_bku_2015-12-01_ag_rep02_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54417905
+cod_bku_2015-12-01_ag_rep02_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.63679311
+cod_bku_2015-12-01_ag_rep03_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5327194
+cod_bku_2015-12-01_ag_rep03_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53606743
+cod_bku_2015-12-01_ag_rep04_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51376814
+cod_bku_2015-12-01_ag_rep04_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57655308
+cod_bku_2015-12-01_ag_rep05_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.63233927
+cod_bku_2015-12-01_ag_rep05_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53733706
+cod_bku_2015-12-01_ag_rep06_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54848351
+cod_bku_2015-12-01_ag_rep07_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60790953
+cod_bku_2015-12-01_ag_rep07_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53147054
+cod_bku_2015-12-01_fo_rep01_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57121482
+cod_bku_2015-12-01_fo_rep02_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55338559
+cod_bku_2015-12-01_fo_rep02_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5217554
+cod_bku_2015-12-01_fo_rep03_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58142543
+cod_bku_2015-12-01_fo_rep04a_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.45900635
+cod_bku_2015-12-01_fo_rep04a_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47573608
+cod_bku_2015-12-01_fo_rep04b_sub,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51119986
+cod_bku_2015-12-01_fo_rep04b_top,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.48776613
+cod_djo_sid-c_2016-09_fo_rep01_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32506588
+cod_djo_sid-c_2016-09_fo_rep01_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33349012
+cod_djo_sid-c_2016-09_fo_rep01_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33008704
+cod_djo_sid-c_2016-09_fo_rep01_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37997304
+cod_djo_sid-c_2016-09_fo_rep01_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38564746
+cod_djo_sid-c_2016-09_fo_rep02_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.48216057
+cod_djo_sid-c_2016-09_fo_rep02_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38346317
+cod_djo_sid-c_2016-09_fo_rep02_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41968641
+cod_djo_sid-c_2016-09_fo_rep02_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37736496
+cod_djo_sid-c_2016-09_fo_rep02_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35270427
+cod_djo_sid-c_2016-09_fo_rep03_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3065646
+cod_djo_sid-c_2016-09_fo_rep03_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32154243
+cod_djo_sid-c_2016-09_fo_rep03_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34350352
+cod_djo_sid-c_2016-09_fo_rep03_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31569162
+cod_djo_sid-c_2016-09_fo_rep03_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34696469
+cod_djo_sid-c_2016-09_fo_rep04_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34765084
+cod_djo_sid-c_2016-09_fo_rep04_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40410852
+cod_djo_sid-c_2016-09_fo_rep04_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39858341
+cod_djo_sid-c_2016-09_fo_rep04_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40361276
+cod_djo_sid-c_2016-09_fo_rep04_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34955585
+cod_djo_sid-c_2016-09_fo_rep05_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34658338
+cod_djo_sid-c_2016-09_fo_rep05_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37914236
+cod_djo_sid-c_2016-09_fo_rep05_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30448793
+cod_djo_sid-c_2016-09_fo_rep05_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31538878
+cod_djo_sid-c_2016-09_fo_rep05_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30067915
+cod_djo_sid-c_2016-09_fo_rep06_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41036239
+cod_djo_sid-c_2016-09_fo_rep06_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4330361
+cod_djo_sid-c_2016-09_fo_rep06_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40731189
+cod_djo_sid-c_2016-09_fo_rep06_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36228997
+cod_djo_sid-c_2016-09_fo_rep06_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31842418
+cod_djo_sid-c_2016-09_fo_rep07_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46082151
+cod_djo_sid-c_2016-09_fo_rep07_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35022201
+cod_djo_sid-c_2016-09_fo_rep07_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35001439
+cod_djo_sid-c_2016-09_fo_rep07_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3615578
+cod_djo_sid-c_2016-09_fo_rep07_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34244925
+cod_djo_sid-c_2016-09_fo_rep08_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43600944
+cod_djo_sid-c_2016-09_fo_rep08_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41363886
+cod_djo_sid-c_2016-09_fo_rep08_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39352255
+cod_djo_sid-c_2016-09_fo_rep08_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39123574
+cod_djo_sid-c_2016-09_fo_rep08_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32221609
+cod_djo_sid-c_2016-09_fo_rep09_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47717583
+cod_djo_sid-c_2016-09_fo_rep09_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37244479
+cod_djo_sid-c_2016-09_fo_rep09_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31606267
+cod_djo_sid-c_2016-09_fo_rep09_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32932815
+cod_djo_sid-c_2016-09_fo_rep09_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35412033
+cod_djo_sid-c_2016-09_fo_rep10_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45919389
+cod_djo_sid-c_2016-09_fo_rep10_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37650746
+cod_djo_sid-c_2016-09_fo_rep10_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31317034
+cod_djo_sid-c_2016-09_fo_rep10_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32918143
+cod_djo_sid-c_2016-09_fo_rep10_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31391449
+cod_djo_sid-c_2016-09_fo_rep11_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45895857
+cod_djo_sid-c_2016-09_fo_rep11_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41215004
+cod_djo_sid-c_2016-09_fo_rep11_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36944477
+cod_djo_sid-c_2016-09_fo_rep11_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35772665
+cod_djo_sid-c_2016-09_fo_rep11_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37643251
+cod_djo_sid-c_2016-09_fo_rep12_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45714399
+cod_djo_sid-c_2016-09_fo_rep12_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46812168
+cod_djo_sid-c_2016-09_fo_rep12_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.50720803
+cod_djo_sid-c_2016-09_fo_rep12_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38243908
+cod_djo_sid-c_2016-09_fo_rep12_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37184088
+cod_djo_sid-c_2016-09_fo_rep13_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42078701
+cod_djo_sid-c_2016-09_fo_rep13_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41776183
+cod_djo_sid-c_2016-09_fo_rep13_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36845025
+cod_djo_sid-c_2016-09_fo_rep13_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3695939
+cod_djo_sid-c_2016-09_fo_rep13_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33364506
+cod_djo_sid-c_2016-09_fo_rep14_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35405365
+cod_djo_sid-c_2016-09_fo_rep14_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37774064
+cod_djo_sid-c_2016-09_fo_rep14_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32653704
+cod_djo_sid-c_2016-09_fo_rep14_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32181588
+cod_djo_sid-c_2016-09_fo_rep14_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35705505
+cod_djo_sid-c_2016-09_fo_rep15_sl0-10,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37920418
+cod_djo_sid-c_2016-09_fo_rep15_sl10-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37739356
+cod_djo_sid-c_2016-09_fo_rep15_sl20-30,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3651282
+cod_djo_sid-c_2016-09_fo_rep15_sl30-50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34107989
+cod_djo_sid-c_2016-09_fo_rep15_sl50-100,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3367402
+cod_djo_sid-d_2016-09_ag_rep001_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44014446
+cod_djo_sid-d_2016-09_ag_rep002_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3556312
+cod_djo_sid-d_2016-09_ag_rep003_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40883859
+cod_djo_sid-d_2016-09_ag_rep004_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43830195
+cod_djo_sid-d_2016-09_ag_rep005_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41630928
+cod_djo_sid-d_2016-09_ag_rep006_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.48859656
+cod_djo_sid-d_2016-09_ag_rep007_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.78216359
+cod_djo_sid-d_2016-09_ag_rep008_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47471285
+cod_djo_sid-d_2016-09_ag_rep009_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35874447
+cod_djo_sid-d_2016-09_ag_rep010_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.51098609
+cod_djo_sid-d_2016-09_ag_rep012_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42726144
+cod_djo_sid-d_2016-09_ag_rep013_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40559882
+cod_djo_sid-d_2016-09_ag_rep014_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38348427
+cod_djo_sid-d_2016-09_ag_rep015_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41640913
+cod_djo_sid-d_2016-09_ag_rep016_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39950754
+cod_djo_sid-d_2016-09_ag_rep017_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3406707
+cod_djo_sid-d_2016-09_ag_rep018_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42161776
+cod_djo_sid-d_2016-09_ag_rep019_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.51338932
+cod_djo_sid-d_2016-09_ag_rep020_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43754783
+cod_djo_sid-d_2016-09_ag_rep021_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47371854
+cod_djo_sid-d_2016-09_ag_rep022_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44012114
+cod_djo_sid-d_2016-09_ag_rep023_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39270884
+cod_djo_sid-d_2016-09_ag_rep024_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42067516
+cod_djo_sid-d_2016-09_ag_rep025_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42888893
+cod_djo_sid-d_2016-09_ag_rep026_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47990659
+cod_djo_sid-d_2016-09_ag_rep027_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42345758
+cod_djo_sid-d_2016-09_ag_rep028_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44221146
+cod_djo_sid-d_2016-09_ag_rep029_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42208771
+cod_djo_sid-d_2016-09_ag_rep030_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.5426918
+cod_djo_sid-d_2016-09_ag_rep031_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43975848
+cod_djo_sid-d_2016-09_ag_rep032_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43917435
+cod_djo_sid-d_2016-09_ag_rep033_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41122411
+cod_djo_sid-d_2016-09_ag_rep034_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42485848
+cod_djo_sid-d_2016-09_ag_rep035_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4518586
+cod_djo_sid-d_2016-09_ag_rep036_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42724833
+cod_djo_sid-d_2016-09_ag_rep040_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.51982799
+cod_djo_sid-d_2016-09_ag_rep041_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39887784
+cod_djo_sid-d_2016-09_ag_rep042_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41575743
+cod_djo_sid-d_2016-09_ag_rep043_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41115296
+cod_djo_sid-d_2016-09_ag_rep045_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43295261
+cod_djo_sid-d_2016-09_ag_rep046_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41280395
+cod_djo_sid-d_2016-09_ag_rep048_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41631211
+cod_djo_sid-d_2016-09_ag_rep049_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.420598
+cod_djo_sid-d_2016-09_ag_rep050_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.62042511
+cod_djo_sid-d_2016-09_ag_rep051_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4159573
+cod_djo_sid-d_2016-09_ag_rep052_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45407349
+cod_djo_sid-d_2016-09_ag_rep053_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44795604
+cod_djo_sid-d_2016-09_ag_rep054_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44005625
+cod_djo_sid-d_2016-09_ag_rep055_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42018396
+cod_djo_sid-d_2016-09_ag_rep056_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33662227
+cod_djo_sid-d_2016-09_ag_rep057_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39311676
+cod_djo_sid-d_2016-09_ag_rep059_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45677686
+cod_djo_sid-d_2016-09_ag_rep061_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39977121
+cod_djo_sid-d_2016-09_ag_rep062_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46401411
+cod_djo_sid-d_2016-09_ag_rep063_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43590952
+cod_djo_sid-d_2016-09_ag_rep064_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.62358159
+cod_djo_sid-d_2016-09_ag_rep065_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.48424284
+cod_djo_sid-d_2016-09_ag_rep066_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.58482018
+cod_djo_sid-d_2016-09_ag_rep067_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4519244
+cod_djo_sid-d_2016-09_ag_rep070_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41631436
+cod_djo_sid-d_2016-09_ag_rep071_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46535198
+cod_djo_sid-d_2016-09_ag_rep072_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45336011
+cod_djo_sid-d_2016-09_ag_rep073_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.54482871
+cod_djo_sid-d_2016-09_ag_rep075_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.48431358
+cod_djo_sid-d_2016-09_ag_rep076_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4107677
+cod_djo_sid-d_2016-09_ag_rep079_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39186344
+cod_djo_sid-d_2016-09_ag_rep080_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41581833
+cod_djo_sid-d_2016-09_ag_rep081_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37747093
+cod_djo_sid-d_2016-09_ag_rep082_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42755039
+cod_djo_sid-d_2016-09_ag_rep083_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42591962
+cod_djo_sid-d_2016-09_ag_rep084_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46229702
+cod_djo_sid-d_2016-09_ag_rep086_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42818712
+cod_djo_sid-d_2016-09_ag_rep087_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.55269065
+cod_djo_sid-d_2016-09_ag_rep088_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45316352
+cod_djo_sid-d_2016-09_ag_rep089_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39603062
+cod_djo_sid-d_2016-09_ag_rep090_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4870972
+cod_djo_sid-d_2016-09_ag_rep092_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42034712
+cod_djo_sid-d_2016-09_ag_rep093_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.56829461
+cod_djo_sid-d_2016-09_ag_rep094_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.5309689
+cod_djo_sid-d_2016-09_ag_rep095_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42345354
+cod_djo_sid-d_2016-09_ag_rep097_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42437986
+cod_djo_sid-d_2016-09_ag_rep098_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42920323
+cod_djo_sid-d_2016-09_ag_rep099_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4327855
+cod_djo_sid-d_2016-09_ag_rep101_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39707832
+cod_djo_sid-d_2016-09_ag_rep102_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43446279
+cod_djo_sid-d_2016-09_ag_rep103_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43674964
+cod_djo_sid-d_2016-09_ag_rep107_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44621089
+cod_djo_sid-d_2016-09_ag_rep108_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37656036
+cod_djo_sid-d_2016-09_ag_rep109_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.63269147
+cod_djo_sid-d_2016-09_ag_rep111_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46518275
+cod_djo_sid-d_2016-09_ag_rep112_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40674317
+cod_djo_sid-d_2016-09_ag_rep113_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4345303
+cod_djo_sid-d_2016-09_ag_rep114_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43790703
+cod_djo_sid-d_2016-09_ag_rep115_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45066693
+cod_djo_sid-d_2016-09_ag_rep116_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4065901
+cod_djo_sid-d_2016-09_ag_rep117_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34198801
+cod_djo_sid-d_2016-09_ag_rep119_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4006321
+cod_djo_sid-d_2016-09_ag_rep120_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.50271431
+cod_djo_sid-d_2016-09_ag_rep121_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41619568
+cod_djo_sid-d_2016-09_ag_rep122_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33672328
+cod_djo_sid-d_2016-09_ag_rep123_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.63836098
+cod_djo_sid-d_2016-09_ag_rep124_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38516836
+cod_djo_sid-d_2016-09_ag_rep125_sl0-20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.54122233
+cod_kbg_2018-03-29_ag_rep001_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.43238963
+cod_kbg_2018-03-29_ag_rep001_sl5-20,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4371146
+cod_kbg_2018-03-29_ag_rep002_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51026019
+cod_kbg_2018-03-29_ag_rep002_sl5-20,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59240764
+cod_kbg_sid-e_2018-03_fo_rep07_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58783826
+cod_kbg_sid-e_2018-03_fo_rep08_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.46015863
+cod_kbg_sid-e_2018-03_fo_rep09_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49692127
+cod_kbg_sid-e_2018-03_fo_rep10_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.43063588
+cod_kbg_sid-e_2018-03_fo_rep11_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.53948738
+cod_kbg_sid-e_2018-03_fo_rep12_sl0-5,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.55112946
+cod_lub_rep01,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.28173049
+cod_lub_rep02,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.32095447
+cod_lub_rep03,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.31933343
+cod_lub_rep04,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.31416951
+cod_lub_rep05,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.3382345
+cod_lub_rep06,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.35051881
+cod_lub_rep07,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.35056852
+cod_lub_rep08,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.32573734
+cod_lub_rep09,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.34087487
+cod_lub_rep10,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.42838585
+cod_lub_rep11,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.40022062
+cod_lub_rep12,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.32330792
+cod_lub_rep13,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.32985158
+cod_lub_rep14,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.37663263
+cod_lub_rep15,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.43438284
+cod_lub_rep16,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.24367239
+cod_lub_rep17,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.5393205
+cod_lub_rep18,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.27310036
+cod_lub_rep19,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.27945173
+cod_lub_rep20,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.25672629
+cod_lub_rep21,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.33452925
+cod_lub_rep22,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.34983483
+cod_lub_rep23,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.49755494
+cod_lub_rep24,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.32018273
+cod_lub_rep25,Democratic Republic of Congo,COD,Haut-Katanga,Kipushi,Territoire,0.33152078
+cod_mbd_rep01_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.4339956
+cod_mbd_rep01_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.37100245
+cod_mbd_rep02_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.35601009
+cod_mbd_rep02_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.35150777
+cod_mbd_rep03_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.48880364
+cod_mbd_rep03_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.33538087
+cod_mbd_rep04_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.26649757
+cod_mbd_rep04_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.25817962
+cod_mbd_rep05_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.29515202
+cod_mbd_rep05_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.24524315
+cod_mbd_rep06_sl0-15,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.28684522
+cod_mbd_rep06_sl15-30,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,0.24156684
+cod_nyg_2018-03-21_fo_rep01,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,0.57568851
+cod_nyg_2018-03-21_fo_rep02,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,0.41924879
+cod_nyg_2018-03-21_fo_rep03,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,0.58684161
+cod_nyg_2018-03-21_fo_rep04,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,0.56160939
+cod_ygb_sid-f_2015-02_ar_rep04-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.43289925
+cod_ygb_sid-f_2015-02_ar_rep05-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36864951
+cod_ygb_sid-f_2015-02_ar_rep05-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40655082
+cod_ygb_sid-f_2015-02_ar_rep06-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.43861561
+cod_ygb_sid-f_2015-02_ar_rep06-9_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.47841808
+cod_ygb_sid-f_2015-02_ar_rep07-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.45614992
+cod_ygb_sid-f_2015-02_ar_rep08-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.35130852
+cod_ygb_sid-f_2015-02_ar_rep09-9_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.44966079
+cod_ygb_sid-f_2015-02_ar_rep10-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36745219
+cod_ygb_sid-f_2015-02_ar_rep11-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.47641127
+cod_ygb_sid-f_2015-02_ar_rep12-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36558105
+cod_ygb_sid-f_2015-02_ar_rep13-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.42741938
+cod_ygb_sid-f_2015-02_ar_rep14-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.42343034
+cod_ygb_sid-f_2015-02_ar_rep15-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.39269596
+cod_ygb_sid-f_2015-02_ar_rep17-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.42480895
+cod_ygb_sid-f_2015-02_ar_rep18-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40043649
+cod_ygb_sid-f_2015-02_ar_rep18-8_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.34317659
+cod_ygb_sid-f_2015-02_ar_rep19-4_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.33929597
+cod_ygb_sid-f_2015-02_ar_rep20-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.34418443
+cod_ygb_sid-f_2015-02_ar_rep21-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.3914142
+cod_ygb_sid-f_2015-02_ar_rep21-5_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.44493996
+cod_ygb_sid-f_2015-02_ar_rep22-7_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.34825149
+cod_ygb_sid-f_2015-02_ar_rep23-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.42126073000000003
+cod_ygb_sid-f_2015-02_ar_rep23-5_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.38817957
+cod_ygb_sid-f_2015-02_ar_rep25-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.52003503
+cod_ygb_sid-f_2015-02_ar_rep25-5_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36203212
+cod_ygb_sid-f_2015-02_ar_rep26-2_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.3642955
+cod_ygb_sid-f_2015-02_ar_rep26-4_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.37318748
+cod_ygb_sid-f_2015-02_ar_rep27-4_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.35691734
+cod_ygb_sid-f_2015-02_ar_rep28-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.36730483
+cod_ygb_sid-f_2015-02_ar_rep28-3_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.41928282
+cod_ygb_sid-f_2015-02_ar_rep29-1_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.45193973
+cod_ygb_sid-f_2015-02_ar_rep29-4_sl5-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.45419024
+cod_ygb_sid-g_2012-04_fo_rep01_sl0-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.4484048
+cod_ygb_sid-g_2012-04_fo_rep01_sl10-20,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40531868
+cod_ygb_sid-g_2012-04_fo_rep01_sl20-30,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.48204882
+cod_ygb_sid-g_2012-04_fo_rep01_sl30-50,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.38704579
+cod_ygb_sid-g_2012-04_fo_rep01_sl50-100,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.41233365
+cod_ygb_sid-g_2012-04_fo_rep02_sl0-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.463311
+cod_ygb_sid-g_2012-04_fo_rep02_sl10-20,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40332903
+cod_ygb_sid-g_2012-04_fo_rep02_sl20-30,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.39668179
+cod_ygb_sid-g_2012-04_fo_rep02_sl30-50,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40606318
+cod_ygb_sid-g_2012-04_fo_rep02_sl50-100,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.32754801
+cod_ygb_sid-g_2012-04_fo_rep03_sl0-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.39446746
+cod_ygb_sid-g_2012-04_fo_rep03_sl10-20,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.4301281
+cod_ygb_sid-g_2012-04_fo_rep03_sl20-30,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.44648919
+cod_ygb_sid-g_2012-04_fo_rep03_sl30-50,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.39919895
+cod_ygb_sid-g_2012-04_fo_rep03_sl50-100,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.43762335
+cod_ygb_sid-g_2012-04_fo_rep04_sl0-10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36039712
+cod_ygb_sid-g_2012-04_fo_rep04_sl10-20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42247143
+cod_ygb_sid-g_2012-04_fo_rep04_sl20-30,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41012706
+cod_ygb_sid-g_2012-04_fo_rep04_sl30-50,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40625645
+cod_ygb_sid-g_2012-04_fo_rep04_sl50-100,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41834132
+cod_ygb_sid-g_2012-04_fo_rep05_sl0-10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42907755
+cod_ygb_sid-g_2012-04_fo_rep05_sl10-20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41691251
+cod_ygb_sid-g_2012-04_fo_rep05_sl20-30,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.37273222
+cod_ygb_sid-g_2012-04_fo_rep05_sl30-50,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.3627948
+cod_ygb_sid-g_2012-04_fo_rep05_sl50-100,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36900291
+cod_ygb_sid-g_2012-04_fo_rep06_sl0-10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36219376
+cod_ygb_sid-g_2012-04_fo_rep06_sl10-20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.43134744
+cod_ygb_sid-g_2012-04_fo_rep06_sl20-30,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.32758339
+cod_ygb_sid-g_2012-04_fo_rep06_sl30-50,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.3556961
+cod_ygb_sid-g_2012-04_fo_rep06_sl50-100,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36983289
+cod_ygb_sid-g_2012-04_fo_rep07_sl0-10,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.3776003
+cod_ygb_sid-g_2012-04_fo_rep07_sl10-20,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.38198014
+cod_ygb_sid-g_2012-04_fo_rep07_sl20-30,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.38126202
+cod_ygb_sid-g_2012-04_fo_rep07_sl30-50,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.34947932
+cod_ygb_sid-g_2012-04_fo_rep07_sl50-100,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.35369937
+cod_ygb_sid-g_2012-04_fo_rep08_sl0-10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.34644818
+cod_ygb_sid-g_2012-04_fo_rep08_sl10-20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.34582424
+cod_ygb_sid-g_2012-04_fo_rep08_sl20-30,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.37844831
+cod_ygb_sid-g_2012-04_fo_rep08_sl30-50,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.37486593
+cod_ygb_sid-g_2012-04_fo_rep08_sl50-100,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.35716482
+cod_yok_sid-e_2018-03_fo_rep01_sl0-5,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.34197582
+cod_yok_sid-e_2018-03_fo_rep02_sl0-5,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.29701105
+cod_yok_sid-e_2018-03_fo_rep03_sl0-5,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.40911849
+cod_yok_sid-e_2018-03_fo_rep04_sl0-5,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.30783392
+cod_yok_sid-e_2018-03_fo_rep05_sl0-5,Democratic Republic of Congo,COD,Tshopo,Kisangani,Territoire,0.37926549
+cod_yok_sid-e_2018-03_fo_rep06_sl0-5,Democratic Republic of Congo,COD,Tshopo,Kisangani,Territoire,0.34856589
+ctr_in_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35059454
+ctr_in_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36219522
+ctr_in_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37997679
+ctr_in_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33326852
+ctr_in_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34174678000000003
+ctr_in_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36839211
+ctr_in_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37523945
+ctr_in_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34182526
+ctr_in_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3714817
+ctr_in_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35308504
+ctr_in_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34663224
+ctr_in_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34895836
+ctr_in_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35615346
+ctr_in_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35218811
+ctr_in_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37334226
+ctr_in_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.367791
+ctr_in_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34524527
+ctr_in_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32845934
+ctr_in_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34530161
+ctr_in_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37579961
+ctr_ni_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32155333
+ctr_ni_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29623523
+ctr_ni_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35440102
+ctr_ni_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32873905
+ctr_ni_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32013924
+ctr_ni_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.2916964
+ctr_ni_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36218469
+ctr_ni_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32961331
+ctr_ni_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35206468
+ctr_ni_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33104755
+ctr_ni_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30084951
+ctr_ni_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3345066
+ctr_ni_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30525339
+ctr_ni_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30291566
+ctr_ni_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29726595
+ctr_ni_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30348261
+ctr_ni_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29730581
+ctr_ni_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31741615
+ctr_ni_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31571142
+ctr_ni_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34156159
+DRCPL10C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61593741
+DRCPL10C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.77446783
+DRCPL10C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.66749242
+DRCPL10C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.6391786
+DRCPL11C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5851391
+DRCPL11C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61035535
+DRCPL11C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60217917
+DRCPL12C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.65270427
+DRCPL12C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.71604249
+DRCPL12C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.68625012
+DRCPL16C1,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.62637857
+DRCPL16C10,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.74282649
+DRCPL16C4,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.63585395
+DRCPL16C7,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.57918915
+DRCPL17C1,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.56844732
+DRCPL17C10,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.66582504
+DRCPL17C4,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.51918525
+DRCPL17C7,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.55867994
+DRCPL1C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57795382
+DRCPL1C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.67237926
+DRCPL1C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61139092
+DRCPL1C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.65368873
+DRCPL25C1,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.4501382
+DRCPL25C4,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.42428407
+DRCPL25C7,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48264177
+DRCPL28C1,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.5752112
+DRCPL28C10,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.60778487
+DRCPL28C4,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.52815518
+DRCPL28C7,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55375236
+DRCPL30C1,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.53376895
+DRCPL30C10,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.63484249
+DRCPL30C4,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54950312
+DRCPL30C7,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56439653
+DRCPL32C1,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.49528769
+DRCPL32C10,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.49250549
+DRCPL32C4,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48044029
+DRCPL32C7,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.46200012
+DRCPL34C1,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.5426231
+DRCPL34C10,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.73375162
+DRCPL34C4,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54014784
+DRCPL34C7,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.50643712
+DRCPL3C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.64249146
+DRCPL3C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.67578489
+DRCPL3C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.69531509
+DRCPL3C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.69102344
+DRCPL7C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.81256667
+DRCPL7C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.7555196
+DRCPL7C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51965865
+DRCPL8C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55372247
+DRCPL8C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.64936942
+DRCPL8C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61348629
+icr008305,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.52700898
+icr008306,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56387964
+icr008307,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56392556
+icr008308,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54424271
+icr008309,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.57123137
+icr008310,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54360732
+icr008312,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.58016646
+icr008313,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.57886064
+icr008315,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56747368
+icr008316,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56658787
+icr008317,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55694315
+icr008318,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55325466
+icr008319,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.57284823
+icr008320,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.5860351
+icr008322,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.58830577
+icr008323,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54833943
+icr008324,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51649067
+icr008325,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.60817125
+icr008326,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.53301924
+icr008327,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.52032018
+icr008329,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.54416549
+icr008330,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55928069
+icr008331,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.49898775
+icr008332,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55845138
+icr008333,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.6115568
+icr008334,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.58025011
+icr008336,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.59086734
+icr008338,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.55493113
+icr008340,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.59285006
+icr008342,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51566324
+icr008343,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51756664
+icr008344,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51987439
+icr008345,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.57273278
+icr008346,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.51266165
+icr008347,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.5047106
+icr008349,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.42297928
+icr008350,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.50330622
+icr008351,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.53447351
+icr008352,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48821177
+icr008353,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.46767858
+icr008354,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.52285102
+icr008355,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.4402622
+icr008356,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.46702421
+icr008357,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.56094655
+icr008358,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.53759944
+icr008359,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.48059143
+icr008360,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.5056636
+icr008361,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.42652658
+icr008364,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,0.52703378
+icr008368,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58412141
+icr008370,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60716435
+icr008387,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61185881
+icr008393,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52184525
+icr008394,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.42096817
+icr008403,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55964682
+icr008409,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.62845254
+icr008413,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.37407823
+icr008417,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58715251
+icr008420,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55625698
+icr008421,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58701679
+icr008424,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.56114155
+icr008426,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.42831402
+icr008427,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.29598622
+icr008431,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.43390583
+icr008434,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4893367
+icr008436,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.40159729
+icr008437,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5380466
+icr008442,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57206982
+icr008443,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4152306
+icr008447,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.56855926
+icr008451,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59688851
+icr008455,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4396264
+icr008457,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57840794
+icr008459,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5739198
+icr008465,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.63759768000000006
+icr008467,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61160868
+icr008470,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.48583183
+icr008482,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60068265
+icr008485,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52671948
+icr008486,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55609107
+icr008487,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55029318
+icr008495,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57240897
+icr008499,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57163253
+icr008501,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.56068256
+icr008510,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49236478
+icr008516,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61173201
+icr008518,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53629309
+icr008519,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.43846828
+icr008520,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51729855
+icr008524,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.45163299
+icr008526,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49318327
+icr008529,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.7003684
+icr008530,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.3957362
+icr008533,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.37055437
+icr008536,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.33507691
+icr008539,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.33309415
+icr008541,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.361191
+icr047919,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33322734
+icr047920,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.32055959
+icr047925,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.3606531
+icr047928,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37458308
+icr047931,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33880682
+icr047932,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.38802691
+icr047933,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33454408
+icr047934,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.27224384
+icr047935,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.29540169
+icr047936,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36362675
+icr047939,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.34184283
+icr047947,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.32063481
+icr047960,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.46638231
+icr047961,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.38834871
+icr047962,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37923971
+icr047963,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.3667246
+icr047965,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.26838985
+icr047967,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.22696993
+icr047971,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.32341585
+icr047975,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.31331456
+icr047977,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.27343002
+icr047983,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36992514
+icr047985,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33600082
+icr047987,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.25717414
+icr047988,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37190565
+icr047991,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37350278
+icr047993,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.38344078
+icr047994,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35279693
+icr047998,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36114103
+icr048000,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.38770175
+icr048002,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35378006
+icr048006,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35729475
+icr048025,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35660517
+icr048030,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.27877809
+icr048062,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35733199
+icr048063,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.3881412
+icr048066,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.29205817
+icr048073,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36594018
+icr048078,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36162516
+icr048085,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37910859
+icr048102,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33305015
+icr048107,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36813073
+icr048117,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.34162396
+icr048138,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33119993
+icr048140,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.35536619
+icr048145,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.30264629
+icr048150,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.33996992
+icr048160,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.36289424
+icr048166,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,0.37370144
+icr048171,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.53383121
+icr048182,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.47058098
+icr048185,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.46894279
+icr048186,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.58511582
+icr048191,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.49593194
+icr048195,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.53768879
+icr048201,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.49956393
+icr048204,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.58185145
+icr048209,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.36826667
+icr048210,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.49493502
+icr048213,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.42343961
+icr048218,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.44139722
+icr048220,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.4008595
+icr048223,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.67764041
+icr048227,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.50128222
+icr048228,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.5643343
+icr048230,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.66094613
+icr048235,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.53219837
+icr048257,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.58321354
+icr048272,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.57199335
+icr048276,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.35778126
+icr048278,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.46668135
+icr048290,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.48256165
+icr048296,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.54526126
+icr048297,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.56606612
+icr048316,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.56464824
+icr048318,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.62138328
+icr048332,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.59570453
+icr048333,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.56700867
+icr048337,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.54704079
+icr048339,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.55039772
+icr048340,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.553251
+icr048341,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.57933399
+icr048364,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.47478838
+icr048369,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.42155047
+icr048375,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.46989192
+icr048388,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.36429326
+icr048390,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.44473249
+icr048393,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.43943499
+icr048400,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.48939258
+icr048417,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.35456108
+icr048418,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.39897892
+icr048419,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.34392536
+icr048421,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.43026148
+icr048424,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.56602022
+icr048426,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.5105624
+icr048431,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.51722272
+icr048442,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.32352608
+icr048444,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.38505501
+icr048446,Democratic Republic of Congo,COD,Sud-Kivu,Kalehe,Territoire,0.39604123
+ili_in_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29319496
+ili_in_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33791824
+ili_in_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33803155
+ili_in_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26726174
+ili_in_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31364515
+ili_in_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34525119
+ili_in_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31060472
+ili_in_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34000239
+ili_in_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32586804
+ili_in_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.27493812
+ili_in_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34294829
+ili_in_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31537418
+ili_in_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34675379
+ili_in_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.24944483
+ili_in_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3170663
+ili_in_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26442614
+ili_in_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31986992
+ili_in_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.27137749
+ili_in_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31905244
+ili_in_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32617982
+ili_ni_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26597404
+ili_ni_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30434088
+ili_ni_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29640998
+ili_ni_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29643799
+ili_ni_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34519991
+ili_ni_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.28362606
+ili_ni_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26752092
+ili_ni_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.27087463
+ili_ni_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26879576
+ili_ni_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.27869126
+ili_ni_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32001968
+ili_ni_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.26879463
+ili_ni_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29823948
+ili_ni_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3077801
+ili_ni_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30469149
+ili_ni_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.25875629
+ili_ni_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33176947
+ili_ni_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.27615093
+ili_ni_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.28504933
+ili_ni_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29829265
+ili_s0_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31579234
+ili_s0_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33158515
+ili_s0_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31290801
+ili_s0_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33100519
+ili_s0_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31378002
+ili_s0_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3423859
+ili_s0_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30854858
+ili_s0_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35514857
+ili_s0_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32062864
+ili_s0_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.2954738
+ili_s0_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37125675
+ili_s0_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30148181
+ili_s0_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3252953
+ili_s0_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3165874
+ili_s1_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31510854
+ili_s1_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31086715
+ili_s1_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3289361
+ili_s1_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31460716
+ili_s1_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36297545
+ili_s1_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34822886
+ili_s1_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32636231
+ili_s1_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31920199
+ili_s1_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34386858
+ili_s1_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33153076
+ili_s1_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30219264
+ili_s1_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37195143
+ili_s1_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37308753
+ili_s1_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31866392
+ili_s2_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33345298
+ili_s2_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31602877
+ili_s2_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34920251
+ili_s2_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.304122
+ili_s2_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32939714
+ili_s2_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38964054
+ili_s2_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33571573
+ili_s2_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31734979
+ili_s2_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38927163
+ili_s2_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33945955
+ili_s2_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34690201
+ili_s2_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32376437
+ili_s2_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31947115
+ili_s2_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32116616
+ili_s3_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30047163
+ili_s3_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31177355
+ili_s3_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29577096
+ili_s3_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37764925
+ili_s3_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35730836
+ili_s3_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3646152
+ili_s3_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40449913
+ili_s3_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33912852
+ili_s3_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31399587
+ili_s3_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30472194
+ili_s3_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32128723
+ili_s3_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30631447
+ili_s3_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33789261
+ili_s3_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29232107
+KBPL10C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61141458
+KBPL10C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59957582
+KBPL10C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.66068447
+KBPL10C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58861703
+KBPL11C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.69787836
+KBPL11C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5365397
+KBPL11C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57068378
+KBPL11C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55288419
+KBPL12C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55933505
+KBPL12C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51614121
+KBPL12C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50721799
+KBPL12C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54397106
+KBPL1C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57524407
+KBPL1C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.45564112
+KBPL1C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47138228
+KBPL1C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49303964
+KBPL2C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.58065891
+KBPL2C10a,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50298476
+KBPL2C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50008674
+KBPL2C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47158405
+KBPL3C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.43066397
+KBPL3C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47710679
+KBPL3C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.46753442
+KBPL3C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52000555
+KBPL4C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54310203
+KBPL4C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.50272241
+KBPL4C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.45789237
+KBPL4C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55794236
+KBPL5C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51740301
+KBPL5C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49288371
+KBPL5C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4041298
+KBPL5C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.4537977
+KBPL6C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.62596026
+KBPL6C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.66338119
+KBPL6C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61139208
+KBPL6C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.60281289
+KBPL7C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52961355
+KBPL7C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61928183
+KBPL7C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54496807
+KBPL7C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.506485
+KBPL8C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.49075775
+KBPL8C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53422928
+KBPL8C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.48675905
+KBPL8C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.54387349
+KBPL9C1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52324829
+KBPL9C10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.47521111
+KBPL9C4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.48753662
+KBPL9C7,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.44202405
+lif_s0_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37532258
+lif_s0_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35684331
+lif_s0_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41744208
+lif_s0_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39275423
+lif_s0_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39848019
+lif_s0_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3848604
+lif_s0_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39310211
+lif_s0_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43228602
+lif_s0_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.45706423
+lif_s0_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37189463
+lif_s0_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47441395
+lif_s0_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4115546
+lif_s0_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44376774
+lif_s0_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38949642
+lif_s1_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33689064
+lif_s1_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35846241
+lif_s1_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36876781
+lif_s1_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35876058
+lif_s1_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40027589
+lif_s1_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35839866
+lif_s1_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37135205
+lif_s1_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39051685
+lif_s1_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40672722
+lif_s1_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34300634
+lif_s1_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40327208
+lif_s1_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3315215
+lif_s1_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3994754
+lif_s1_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36435021
+lif_s2_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4186575
+lif_s2_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4280238
+lif_s2_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40066096
+lif_s2_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39527816
+lif_s2_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43276261
+lif_s2_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31590827
+lif_s2_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41475429
+lif_s2_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41054639
+lif_s2_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42088503
+lif_s2_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4122337
+lif_s2_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3912192
+lif_s2_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38752478
+lif_s2_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4102692
+lif_s2_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39492621
+lif_s3_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42608674
+lif_s3_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42792071
+lif_s3_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40526399
+lif_s3_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37434769
+lif_s3_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47354196
+lif_s3_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38668264
+lif_s3_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34625372
+lif_s3_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44389379
+lif_s3_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32609025
+lif_s3_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31563124
+lif_s3_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34313032
+lif_s3_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3252475
+lif_s3_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33580206
+lif_s3_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32730925
+lil_1x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36403403
+lil_1x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29907148
+lil_1x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33082636
+lil_1x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33033615
+lil_1x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34475218
+lil_1x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32986531
+lil_1x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34422338
+lil_1x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30602171
+lil_2x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3606596
+lil_2x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3668412
+lil_2x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34107867
+lil_2x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34113491
+lil_2x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33998965
+lil_2x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32071482
+lil_2x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46018976
+lil_2x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39856774
+lil_pp_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39012094
+lil_pp_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31685884
+lil_pp_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37149356
+lil_pp_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37097982
+lil_pp_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46333891
+lil_pp_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.336665
+lil_pp_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44628374
+lil_pp_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31658567
+lil_s0_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41257736
+lil_s0_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36660585
+lil_s0_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37735532
+lil_s0_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3932008
+lil_s0_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.47131719
+lil_s0_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35267167
+lil_s0_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38993293
+lil_s0_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38666007
+lil_s0_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32972543
+lil_s0_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33598825
+lil_s0_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.45319737
+lil_s0_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37202896
+lil_s0_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33148351
+lil_s0_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.28984913
+lil_s1_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3784422
+lil_s1_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33348669
+lil_s1_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3689528
+lil_s1_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38567652
+lil_s1_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43931712
+lil_s1_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40344767
+lil_s1_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37520276
+lil_s1_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35121082
+lil_s1_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37214898
+lil_s1_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3574021
+lil_s1_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39128678
+lil_s1_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40056431
+lil_s1_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38457777
+lil_s1_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36725281
+lil_s2_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41498709
+lil_s2_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37321934
+lil_s2_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39021203
+lil_s2_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37424049
+lil_s2_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.5171341
+lil_s2_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.37253268
+lil_s2_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43956174
+lil_s2_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46911541
+lil_s2_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.50514959
+lil_s2_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.43419707
+lil_s2_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41530234
+lil_s2_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36650506
+lil_s2_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.46563752
+lil_s2_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.44010225
+lil_s3_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38873191
+lil_s3_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38002491
+lil_s3_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41542536
+lil_s3_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40949723
+lil_s3_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41571376
+lil_s3_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39339843
+lil_s3_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39044631
+lil_s3_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35845318
+lil_s3_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41401483
+lil_s3_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.4554041
+lil_s3_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36215268
+lil_s3_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38773216
+lil_s3_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42106429
+lil_s3_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.41122672
+N_KB_0_5_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.52419931
+N_KB_0_5_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.59720311
+N_KB_0_5_3,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.5710713
+N_KB_5_20_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.51025915
+N_KB_5_20_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55668905
+N_KB_5_20_3,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53100747
+NPL10C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.70745912
+NPL10C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.84620154
+NPL10C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.79511526
+NPL10C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.87686253
+NPL11.1C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.50281748
+NPL11.3C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.85523501
+NPL11.3C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.66416129
+NPL11C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.62211454
+NPL11C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.54504851
+NPL12C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.63248304
+NPL12C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.52521464
+NPL1C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.64916429
+NPL1C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.60214597
+NPL1C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.57891214
+NPL1C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.65977794
+NPL2C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.79696807
+NPL2C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.54245409
+NPL2C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.81184083
+NPL2C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.62424519999999994
+NPL3C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.64120835
+NPL3C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.49305616
+NPL3C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.64085618
+NPL3C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.57200035
+NPL4C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.9255037
+NPL4C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.05605197
+NPL4C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.99560153
+NPL4C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.14000189
+NPL5C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.78304806
+NPL5C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.89455169
+NPL5C10.2,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.36234313
+NPL5C1.2,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.02200168
+NPL5C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.81492954
+NPL5C4.2,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.3173830500000001
+NPL5C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.91145906
+NPL5C7.2,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.35949677
+NPL6C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.38057394
+NPL6C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.34874395
+NPL6C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.35719627
+NPL6C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.31292129
+NPL7C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.58529988
+NPL7C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.49014018
+NPL7C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.4892332
+NPL7C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.46919005
+NPL8C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.64878613
+NPL8C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.66625801
+NPL8C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.54932964
+NPL8C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.5500406
+NPL9C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.68162695
+NPL9C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.1980691
+NPL9C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.01754728
+NPL9C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,1.00058454
+N_YO_mix_0_5_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.30348186
+N_YO_mix_0_5_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.2886709
+N_YO_mix_0_5_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.34131625
+N_YO_mix_5_20_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.34233974
+N_YO_mix_5_20_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.33789162
+N_YO_mix_5_20_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.35221095
+N_YO_mono_0_5_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.27485515
+N_YO_mono_0_5_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.33757438
+N_YO_mono_0_5_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.2790899
+N_YO_mono_5_20_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.31444573
+N_YO_mono_5_20_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.34880069
+N_YO_mono_5_20_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.28840795
+RF11C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.38292979
+RF11C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.36744067
+RF11C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.36667761
+RF11C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.37531303
+RF13C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.27854319
+RF13C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.33414094
+RF13C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.31958921
+RF13C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.24421465
+RF14C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.28792509
+RF14C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.29872352
+RF14C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.30837794
+RF14C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.29903206
+RF19C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.31119771
+RF19C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.35854547
+RF19C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.31527528
+RF19C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.32013893
+RF1C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.3256712
+RF1C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.38246523
+RF1C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.33861965
+RF1C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.32678081
+RF20C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.37782313
+RF20C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.43705209
+RF20C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.39769837
+RF20C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.4162816
+RF25C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.39606555
+RF25C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.32043211
+RF25C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.38070254
+RF25C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.40028045
+RF2C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.36574441
+RF2C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.39097266
+RF2C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.36448328
+RF32C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.57217801
+RF32C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.52657318
+RF32C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.5910677
+RF32C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.62707588
+RF32C9,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.60504884
+RF34C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.46581598
+RF34C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.66099504
+RF34C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.56067909
+RF4C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.26974997
+RF4C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.25064857
+RF4C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.2836525
+RF4C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.23904752
+RF5C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.31233054
+RF5C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.3138352
+RF5C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.30739796
+RF5C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.30147518
+RF6C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.36565889
+RF6C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.35946466
+RF6C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.34231395
+RF6C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.29761291
+RF7C1,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.43431874
+RF7C10,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.43676361
+RF7C4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.43491571
+RF7C7,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,0.44985896
+S_KB_0_15_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.53381112
+S_KB_0_15_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.56587401
+S_KB_0_15_3,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.62289491
+S_KB_15_30_1,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.57896656
+S_KB_15_30_2,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.61798924
+S_KB_15_30_3,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,0.55909377
+S_YGB_0_15_1,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.28321019
+S_YGB_0_15_2,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.35162516
+S_YGB_0_15_3,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.30712448
+S_YGB_15_30_1,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.40082133
+S_YGB_15_30_2,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.29418609
+S_YGB_15_30_3,Democratic Republic of Congo,COD,Tshopo,Yangambi,Ville,0.29714832
+S_YO_0_15_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.3196381
+S_YO_0_15_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.29304202
+S_YO_0_15_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.38628577
+S_YO_0_15_GIL,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.29186067
+S_YO_15_30_1,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.30921608
+S_YO_15_30_2,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.28178728
+S_YO_15_30_3,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.24987224
+S_YO_15_30_GIL,Democratic Republic of Congo,COD,Tshopo,Ubundu,Territoire,0.35854323
+UF10C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.53972936
+UF10C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.60072699
+UF10C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.59362075
+UF10C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.62954417
+UF11C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.58504438
+UF11C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.43749833
+UF11C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.56072849
+UF11C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.51048292
+UF12C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.46292704
+UF12C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.38474432
+UF12C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.42711516
+UF12C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.40614226
+UF15C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.40783711
+UF15C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.44659507
+UF15C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.38998905
+UF16C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.43394291
+UF16C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.45130505
+UF16C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.4261525
+UF18C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.42702609
+UF18C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.3993331
+UF18C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.48629847
+UF18C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.42299402
+UF19C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.50733292
+UF19C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.44538222
+UF19C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.49749362
+UF19C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.31137151
+UF1C1,Uganda,UGA,Kabarole,Burahya,County,0.44609
+UF1C10,Uganda,UGA,Kabarole,Burahya,County,0.58878008
+UF1C4,Uganda,UGA,Kabarole,Burahya,County,0.53580439
+UF1C7,Uganda,UGA,Kabarole,Burahya,County,0.53424269
+UF20C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.37776081
+UF20C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.49377109
+UF20C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.41220678
+UF20C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.52901968
+UF22C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.47852252
+UF22C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.36434127
+UF22C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.5089913
+UF22C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.50734343
+UF23C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.53925917
+UF23C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.63395953
+UF23C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.61417764
+UF23C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.57283512
+UF24C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.48631589
+UF24C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.54274213
+UF24C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.48801103
+UF24C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.4772162
+UF3C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.52594307
+UF3C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.27881728
+UF3C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.47569925
+UF3C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.41084018
+UF9C1,Uganda,UGA,Kabarole,Bunyangabu,County,0.65990031
+UF9C10,Uganda,UGA,Kabarole,Bunyangabu,County,0.46721229
+UF9C4,Uganda,UGA,Kabarole,Bunyangabu,County,0.55705953
+UF9C7,Uganda,UGA,Kabarole,Bunyangabu,County,0.54204702
+UPL10C1,Uganda,UGA,Kabarole,Burahya,County,0.40067488
+UPL10C10,Uganda,UGA,Kabarole,Burahya,County,0.35121325
+UPL10C4,Uganda,UGA,Kabarole,Burahya,County,0.34889111
+UPL10C7,Uganda,UGA,Kabarole,Burahya,County,0.35693012
+UPL11C1,Uganda,UGA,Kabarole,Burahya,County,0.39446814
+UPL11C10,Uganda,UGA,Kabarole,Burahya,County,0.3448143
+UPL11C4,Uganda,UGA,Kabarole,Burahya,County,0.35692666
+UPL11C7,Uganda,UGA,Kabarole,Burahya,County,0.35680579
+UPL12C1,Uganda,UGA,Kabarole,Burahya,County,0.38530326
+UPL12C4,Uganda,UGA,Kabarole,Burahya,County,0.31389594
+UPL12C7,Uganda,UGA,Kabarole,Burahya,County,0.29180905
+UPL1C1,Uganda,UGA,Kabarole,Burahya,County,0.41992755
+UPL1C4,Uganda,UGA,Kabarole,Burahya,County,0.35311501
+UPL1C7,Uganda,UGA,Kabarole,Burahya,County,0.31392778
+UPL2C1,Uganda,UGA,Kabarole,Burahya,County,0.37416881
+UPL2C10,Uganda,UGA,Kabarole,Burahya,County,0.34479682
+UPL2C4,Uganda,UGA,Kabarole,Burahya,County,0.3216404
+UPL2C7,Uganda,UGA,Kabarole,Burahya,County,0.28870498
+UPL3.3.10,Uganda,UGA,Kabarole,Burahya,County,0.46126431
+UPL3.3.7,Uganda,UGA,Kabarole,Burahya,County,0.41636313
+UPL3C1,Uganda,UGA,Kabarole,Burahya,County,0.38556074
+UPL3C10,Uganda,UGA,Kabarole,Burahya,County,0.37022924
+UPL3C4(Subplot1&3),Uganda,UGA,Kabarole,Burahya,County,0.43751469
+UPL3C4(Subplot2&4),Uganda,UGA,Kabarole,Burahya,County,0.3777605
+UPL3C7,Uganda,UGA,Kabarole,Burahya,County,0.31989652
+UPL4C1,Uganda,UGA,Kabarole,Burahya,County,0.40725437
+UPL4C10,Uganda,UGA,Kabarole,Burahya,County,0.40677238
+UPL4C4,Uganda,UGA,Kabarole,Burahya,County,0.40536535
+UPL4C7,Uganda,UGA,Kabarole,Burahya,County,0.45698589
+UPL5C1,Uganda,UGA,Kabarole,Burahya,County,0.42323606
+UPL5C10,Uganda,UGA,Kabarole,Burahya,County,0.41576424
+UPL5C4,Uganda,UGA,Kabarole,Burahya,County,0.42009127
+UPL5C7,Uganda,UGA,Kabarole,Burahya,County,0.39815621
+UPL6C1,Uganda,UGA,Kabarole,Burahya,County,0.41506317
+UPL6C4,Uganda,UGA,Kabarole,Burahya,County,0.33614162
+UPL6C7,Uganda,UGA,Kabarole,Burahya,County,0.33256406
+UPL7C1,Uganda,UGA,Kabarole,Burahya,County,0.33456363
+UPL7C10,Uganda,UGA,Kabarole,Burahya,County,0.37543702
+UPL7C4,Uganda,UGA,Kabarole,Burahya,County,0.30518802
+UPL7C7,Uganda,UGA,Kabarole,Burahya,County,0.26586024
+UPL8C1,Uganda,UGA,Kabarole,Burahya,County,0.38295801
+UPL8C4,Uganda,UGA,Kabarole,Burahya,County,0.29665396
+UPL8C7,Uganda,UGA,Kabarole,Burahya,County,0.27270682
+UPL9C1,Uganda,UGA,Kabarole,Burahya,County,0.44703253
+UPL9C4,Uganda,UGA,Kabarole,Burahya,County,0.36130472
+UPL9C7,Uganda,UGA,Kabarole,Burahya,County,0.31255357
+wak_in_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36460656
+wak_in_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33578266
+wak_in_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34248832
+wak_in_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.338551
+wak_in_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.42016397
+wak_in_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.39998183
+wak_in_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38371189
+wak_in_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33629343
+wak_in_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.353844
+wak_in_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3769991
+wak_in_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33578236
+wak_in_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35611647
+wak_in_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36355944
+wak_in_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34296916
+wak_in_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35510784
+wak_in_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32382467
+wak_in_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.40718026
+wak_in_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38217248
+wak_in_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36918575
+wak_in_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31025118
+wak_ni_arar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.31807201
+wak_ni_arar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35164358
+wak_ni_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.30963352
+wak_ni_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.28346488
+wak_ni_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36146571
+wak_ni_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38001519
+wak_ni_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.33438008
+wak_ni_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.3575816
+wak_ni_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32599144
+wak_ni_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38019007
+wak_ni_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34741069
+wak_ni_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36535734
+wak_ni_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.29143623
+wak_ni_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.35840563
+wak_ni_msms_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34083585
+wak_ni_msms_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36948198
+wak_ni_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.36320467
+wak_ni_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.34287389
+wak_ni_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.38955885
+wak_ni_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Befale,Territoire,0.32476312
+yal_s0_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46247758
+yal_s0_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32651432
+yal_s0_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45754732
+yal_s0_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.27874587
+yal_s0_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37593226
+yal_s0_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41631287
+yal_s0_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45769542
+yal_s0_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3314091
+yal_s0_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45118469
+yal_s0_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28616185
+yal_s0_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4154689
+yal_s0_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36869903
+yal_s0_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39542788
+yal_s0_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29604043
+yal_s1_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40624338
+yal_s1_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36311026
+yal_s1_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33880034
+yal_s1_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30704078
+yal_s1_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43582812
+yal_s1_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36757743
+yal_s1_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41798614
+yal_s1_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35833214
+yal_s1_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44046138
+yal_s1_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33412753
+yal_s1_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39317143
+yal_s1_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35483909
+yal_s1_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44961514
+yal_s1_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35039628
+yal_s2_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3991984
+yal_s2_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31529702
+yal_s2_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45973779
+yal_s2_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34855305
+yal_s2_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43097936
+yal_s2_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35696967
+yal_s2_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46668787
+yal_s2_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35530789
+yal_s2_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38414021
+yal_s2_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36401509
+yal_s2_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43872069
+yal_s2_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4039181
+yal_s2_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43047851
+yal_s2_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32875466
+yal_s3_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41179314
+yal_s3_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3220007
+yal_s3_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4115251
+yal_s3_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33620146
+yal_s3_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.50548024
+yal_s3_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33065756
+yal_s3_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4358408
+yal_s3_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37929554
+yal_s3_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41618417
+yal_s3_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32425889
+yal_s3_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41202834
+yal_s3_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33714704
+yal_s3_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38861318
+yal_s3_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32224832
+YAM_J01_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J01_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J01_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J03_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J03_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J03_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J04_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J04_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J04_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J08_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J08_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J08_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J09_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J09_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J09_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J10_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J10_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J10_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J13_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J13_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J13_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J15_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J15_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J15_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J17_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J17_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J17_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J18_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J18_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J18_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J19_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J19_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J19_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J20_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J20_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J20_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J21_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J21_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J21_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J22_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J22_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J22_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J23_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J23_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J23_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J24_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J24_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J24_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J25_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J25_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J25_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J26_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J26_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J26_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J27_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J27_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J27_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J28_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J28_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J28_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J29_C1,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J29_C2,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAM_J29_C3,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,NA
+YAO_J02_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.3912857
+YAO_J02_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38601303
+YAO_J02_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39002097
+YAO_J04_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.47006534
+YAO_J04_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.48564072
+YAO_J04_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.47141173
+YAO_J05_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.45357765
+YAO_J05_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.44811837
+YAO_J05_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.3891845
+YAO_J06_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42517586
+YAO_J06_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.34711847
+YAO_J06_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.35688421
+YAO_J07_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.37696753
+YAO_J07_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38760282
+YAO_J07_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36245812
+YAO_J08_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41140336
+YAO_J08_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.3954742
+YAO_J08_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.37836432
+YAO_J09_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42614719
+YAO_J09_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.43582568
+YAO_J09_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.469451
+YAO_J10_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.1097605
+YAO_J10_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40412916
+YAO_J10_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39723232
+YAO_J12_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.01506536
+YAO_J12_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38983947
+YAO_J12_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38342698
+YAO_J13_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.48678361
+YAO_J13_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41319051
+YAO_J13_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.36205161
+YAO_J14_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.4423905
+YAO_J14_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.47087897
+YAO_J14_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.4363583
+YAO_J15_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39933841
+YAO_J15_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.4326043
+YAO_J15_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40486224
+YAO_J16_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40568045
+YAO_J16_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.46175972
+YAO_J16_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39476828
+YAO_J17_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41106248
+YAO_J17_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.4103474
+YAO_J17_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38045616
+YAO_J18_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.4506004
+YAO_J18_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40446019
+YAO_J18_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.21412739
+YAO_J20_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39440392
+YAO_J20_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42641212
+YAO_J20_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.38443717
+YAO_J21_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40046917
+YAO_J21_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.03490339
+YAO_J21_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.33811665
+YAO_J24_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42949617
+YAO_J24_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.42461281
+YAO_J24_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.39753567
+YAO_J25_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.25643424
+YAO_J25_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.07153917
+YAO_J25_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.06210093
+YAO_J26_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.49077883
+YAO_J26_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40151401
+YAO_J26_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.34613955
+YAO_J27_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.04824632
+YAO_J27_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.12523764
+YAO_J27_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.18995987
+YAO_J28_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41380259
+YAO_J28_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.04519678
+YAO_J28_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.40344034
+YAO_J29_C1,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,-0.04102924
+YAO_J29_C2,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.48664691
+YAO_J29_C3,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,0.41721186
+yol_1x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46068493
+yol_1x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34713383
+yol_1x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4475349
+yol_1x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35446906
+yol_1x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40034896
+yol_1x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35839425
+yol_1x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4735295
+yol_1x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3935294
+yol_2x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43616302
+yol_2x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35987334
+yol_2x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47858386
+yol_2x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37017491
+yol_2x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43310735
+yol_2x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37129126
+yol_2x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40490471
+yol_2x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39391769
+yol_in_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35204951
+yol_in_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33528402
+yol_in_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38175327
+yol_in_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47314076
+yol_in_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44586563
+yol_in_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35079533
+yol_in_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34095359
+yol_in_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32590003
+yol_in_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42934605
+yol_in_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31963311
+yol_in_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47439121
+yol_in_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35564464
+yol_in_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36204657
+yol_in_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.49587697
+yol_in_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41464135
+yol_in_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35028301
+yol_in_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45665736
+yol_in_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35508001
+yol_in_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35274461
+yol_in_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44398297
+yol_ni_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47450434
+yol_ni_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42157269000000003
+yol_ni_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40895779
+yol_ni_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40174043
+yol_ni_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47256145
+yol_ni_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40102892
+yol_ni_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41476373
+yol_ni_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38344906
+yol_ni_mcnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.50132811
+yol_ni_mcnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.45187514
+yol_ni_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42434004
+yol_ni_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40253362
+yol_ni_mmnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3468954
+yol_ni_mmnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43834837
+yol_ni_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4612221
+yol_ni_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4226093
+yol_ni_nbnb_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42876102
+yol_ni_nbnb_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41051808
+yol_ni_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46191175
+yol_ni_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33743975
+yol_pp_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44492738
+yol_pp_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36773807
+yol_pp_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44787243
+yol_pp_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39287485
+yol_pp_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44849347
+yol_pp_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38362302
+yol_pp_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42001159
+yol_pp_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38167983
+yol_s0_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.4009582
+yol_s0_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33779107
+yol_s0_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37586957
+yol_s0_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28788483
+yol_s0_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40436138
+yol_s0_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30768245
+yol_s0_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34141092
+yol_s0_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29003391
+yol_s0_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36203077
+yol_s0_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.27256857
+yol_s0_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37263511
+yol_s0_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28060752
+yol_s0_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33654076
+yol_s0_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34047407
+yol_s1_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33992475
+yol_s1_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32917348
+yol_s1_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32694213
+yol_s1_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.26688586
+yol_s1_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32486871
+yol_s1_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30357173
+yol_s1_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3587231
+yol_s1_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30946812
+yol_s1_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33712961
+yol_s1_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31530283
+yol_s1_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34899515
+yol_s1_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29791039
+yol_s1_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.43332233
+yol_s1_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.27516603
+yol_s2_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33131105
+yol_s2_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32366271
+yol_s2_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39895451
+yol_s2_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32262003
+yol_s2_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37638912
+yol_s2_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33602144
+yol_s2_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40098268
+yol_s2_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36358826
+yol_s2_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37640886
+yol_s2_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35118265
+yol_s2_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.42732276
+yol_s2_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37890619
+yol_s2_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38157246
+yol_s2_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31343593
+yol_s3_arar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.44437705
+yol_s3_arar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38312118
+yol_s3_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35548055
+yol_s3_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33532122
+yol_s3_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.40034562
+yol_s3_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3391517
+yol_s3_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34977968
+yol_s3_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.32401411
+yol_s3_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47076766
+yol_s3_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36891158
+yol_s3_msms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.46792795
+yol_s3_msms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38913375
+yol_s3_rzrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39829421
+yol_s3_rzrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30809672
+yon_1x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.39236197
+yon_1x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.31913634
+yon_1x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.38578089
+yon_1x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28874908
+yon_1x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36442287
+yon_1x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29895781
+yon_1x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33384207
+yon_1x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28386006
+yon_2x_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.35442038
+yon_2x_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29427566
+yon_2x_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.47629675
+yon_2x_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.34404334
+yon_2x_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36486414
+yon_2x_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29338282
+yon_2x_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3485589
+yon_2x_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30577271
+yon_pp_mcar_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.41688398
+yon_pp_mcar_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.30863486
+yon_pp_mcmc_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.37404434
+yon_pp_mcmc_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.3256167
+yon_pp_mcms_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.33750564
+yon_pp_mcms_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.28632362
+yon_pp_mcrz_20,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.36003554
+yon_pp_mcrz_50,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,0.29354949
