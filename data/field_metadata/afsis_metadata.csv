@@ -1,0 +1,1903 @@
+sample_id,country_name,region_name,Cluster,Plot
+icr005928,Tanzania,Chinyanghuku,1,1
+icr005929,Tanzania,Chinyanghuku,1,1
+icr005946,Tanzania,Chinyanghuku,2,1
+icr005947,Tanzania,Chinyanghuku,2,1
+icr005965,Tanzania,Chinyanghuku,3,1
+icr005966,Tanzania,Chinyanghuku,3,1
+icr005985,Tanzania,Chinyanghuku,4,2
+icr005986,Tanzania,Chinyanghuku,4,2
+icr005998,Tanzania,Chinyanghuku,5,1
+icr005999,Tanzania,Chinyanghuku,5,1
+icr006015,Tanzania,Chinyanghuku,6,1
+icr006016,Tanzania,Chinyanghuku,6,1
+icr006035,Tanzania,Chinyanghuku,7,1
+icr006036,Tanzania,Chinyanghuku,7,1
+icr006055,Tanzania,Chinyanghuku,8,1
+icr006056,Tanzania,Chinyanghuku,8,1
+icr006076,Tanzania,Chinyanghuku,9,5
+icr006077,Tanzania,Chinyanghuku,9,5
+icr006085,Tanzania,Chinyanghuku,10,2
+icr006086,Tanzania,Chinyanghuku,10,2
+icr006101,Tanzania,Chinyanghuku,11,1
+icr006102,Tanzania,Chinyanghuku,11,1
+icr006121,Tanzania,Chinyanghuku,12,1
+icr006122,Tanzania,Chinyanghuku,12,1
+icr006142,Tanzania,Chinyanghuku,13,5
+icr006143,Tanzania,Chinyanghuku,13,5
+icr006152,Tanzania,Chinyanghuku,14,3
+icr006153,Tanzania,Chinyanghuku,14,3
+icr006164,Tanzania,Chinyanghuku,15,2
+icr006165,Tanzania,Chinyanghuku,15,2
+icr006179,Tanzania,Chinyanghuku,16,1
+icr006180,Tanzania,Chinyanghuku,16,1
+icr006454,Tanzania,Pandambili,1,1
+icr006455,Tanzania,Pandambili,1,1
+icr006474,Tanzania,Pandambili,2,1
+icr006475,Tanzania,Pandambili,2,1
+icr006492,Tanzania,Pandambili,3,1
+icr006493,Tanzania,Pandambili,3,1
+icr006510,Tanzania,Pandambili,4,1
+icr006511,Tanzania,Pandambili,4,1
+icr006530,Tanzania,Pandambili,5,1
+icr006531,Tanzania,Pandambili,5,1
+icr006550,Tanzania,Pandambili,6,1
+icr006551,Tanzania,Pandambili,6,1
+icr006570,Tanzania,Pandambili,7,2
+icr006571,Tanzania,Pandambili,7,2
+icr006586,Tanzania,Pandambili,8,1
+icr006587,Tanzania,Pandambili,8,1
+icr006606,Tanzania,Pandambili,9,1
+icr006607,Tanzania,Pandambili,9,1
+icr006626,Tanzania,Pandambili,10,1
+icr006627,Tanzania,Pandambili,10,1
+icr006646,Tanzania,Pandambili,11,1
+icr006647,Tanzania,Pandambili,11,1
+icr006666,Tanzania,Pandambili,12,1
+icr006667,Tanzania,Pandambili,12,1
+icr006684,Tanzania,Pandambili,13,1
+icr006685,Tanzania,Pandambili,13,1
+icr006704,Tanzania,Pandambili,14,1
+icr006705,Tanzania,Pandambili,14,1
+icr006724,Tanzania,Pandambili,15,1
+icr006725,Tanzania,Pandambili,15,1
+icr006744,Tanzania,Pandambili,16,1
+icr006745,Tanzania,Pandambili,16,1
+icr007730,Tanzania,Kiberashi,1,1
+icr007731,Tanzania,Kiberashi,1,1
+icr007750,Tanzania,Kiberashi,2,1
+icr007751,Tanzania,Kiberashi,2,1
+icr007770,Tanzania,Kiberashi,3,1
+icr007771,Tanzania,Kiberashi,3,1
+icr007790,Tanzania,Kiberashi,4,1
+icr007791,Tanzania,Kiberashi,4,1
+icr007810,Tanzania,Kiberashi,5,1
+icr007811,Tanzania,Kiberashi,5,1
+icr007830,Tanzania,Kiberashi,6,1
+icr007831,Tanzania,Kiberashi,6,1
+icr007850,Tanzania,Kiberashi,7,1
+icr007851,Tanzania,Kiberashi,7,1
+icr007870,Tanzania,Kiberashi,8,1
+icr007871,Tanzania,Kiberashi,8,1
+icr007890,Tanzania,Kiberashi,9,1
+icr007891,Tanzania,Kiberashi,9,1
+icr007910,Tanzania,Kiberashi,10,1
+icr007911,Tanzania,Kiberashi,10,1
+icr007928,Tanzania,Kiberashi,11,1
+icr007929,Tanzania,Kiberashi,11,1
+icr007949,Tanzania,Kiberashi,12,2
+icr007950,Tanzania,Kiberashi,12,2
+icr007967,Tanzania,Kiberashi,13,1
+icr007968,Tanzania,Kiberashi,13,1
+icr007987,Tanzania,Kiberashi,14,1
+icr007988,Tanzania,Kiberashi,14,1
+icr008007,Tanzania,Kiberashi,15,1
+icr008008,Tanzania,Kiberashi,15,1
+icr008027,Tanzania,Kiberashi,16,1
+icr008028,Tanzania,Kiberashi,16,1
+icr009918,Tanzania,Mbinga,1,1
+icr009919,Tanzania,Mbinga,1,1
+icr009938,Tanzania,Mbinga,2,1
+icr009939,Tanzania,Mbinga,2,1
+icr009958,Tanzania,Mbinga,3,1
+icr009959,Tanzania,Mbinga,3,1
+icr009978,Tanzania,Mbinga,4,1
+icr009979,Tanzania,Mbinga,4,1
+icr009998,Tanzania,Mbinga,5,1
+icr009999,Tanzania,Mbinga,5,1
+icr010018,Tanzania,Mbinga,6,1
+icr010019,Tanzania,Mbinga,6,1
+icr010038,Tanzania,Mbinga,7,1
+icr010039,Tanzania,Mbinga,7,1
+icr010058,Tanzania,Mbinga,8,1
+icr010059,Tanzania,Mbinga,8,1
+icr010078,Tanzania,Mbinga,9,1
+icr010079,Tanzania,Mbinga,9,1
+icr010098,Tanzania,Mbinga,10,1
+icr010099,Tanzania,Mbinga,10,1
+icr010118,Tanzania,Mbinga,11,1
+icr010119,Tanzania,Mbinga,11,1
+icr010138,Tanzania,Mbinga,12,1
+icr010139,Tanzania,Mbinga,12,1
+icr010158,Tanzania,Mbinga,13,1
+icr010159,Tanzania,Mbinga,13,1
+icr010178,Tanzania,Mbinga,14,1
+icr010179,Tanzania,Mbinga,14,1
+icr010198,Tanzania,Mbinga,15,1
+icr010199,Tanzania,Mbinga,15,1
+icr010218,Tanzania,Mbinga,16,1
+icr010219,Tanzania,Mbinga,16,1
+icr010335,Mali,Kontela,1,1
+icr010336,Mali,Kontela,1,1
+icr010355,Mali,Kontela,2,1
+icr010356,Mali,Kontela,2,1
+icr010375,Mali,Kontela,3,1
+icr010376,Mali,Kontela,3,1
+icr010395,Mali,Kontela,4,1
+icr010396,Mali,Kontela,4,1
+icr010415,Mali,Kontela,5,1
+icr010416,Mali,Kontela,5,1
+icr010435,Mali,Kontela,6,1
+icr010436,Mali,Kontela,6,1
+icr010455,Mali,Kontela,7,1
+icr010456,Mali,Kontela,7,1
+icr010475,Mali,Kontela,8,1
+icr010476,Mali,Kontela,8,1
+icr010495,Mali,Kontela,9,1
+icr010496,Mali,Kontela,9,1
+icr010515,Mali,Kontela,10,1
+icr010516,Mali,Kontela,10,1
+icr010535,Mali,Kontela,11,1
+icr010536,Mali,Kontela,11,1
+icr010555,Mali,Kontela,12,1
+icr010556,Mali,Kontela,12,1
+icr010575,Mali,Kontela,13,1
+icr010576,Mali,Kontela,13,1
+icr010595,Mali,Kontela,14,1
+icr010596,Mali,Kontela,14,1
+icr010615,Mali,Kontela,15,1
+icr010616,Mali,Kontela,15,1
+icr010635,Mali,Kontela,16,1
+icr010636,Mali,Kontela,16,1
+icr010687,Mali,Koloko,1,1
+icr010688,Mali,Koloko,1,1
+icr010707,Mali,Koloko,2,1
+icr010708,Mali,Koloko,2,1
+icr010727,Mali,Koloko,3,1
+icr010728,Mali,Koloko,3,1
+icr010747,Mali,Koloko,4,1
+icr010748,Mali,Koloko,4,1
+icr010767,Mali,Koloko,5,1
+icr010768,Mali,Koloko,5,1
+icr010787,Mali,Koloko,6,1
+icr010788,Mali,Koloko,6,1
+icr010808,Mali,Koloko,7,2
+icr010809,Mali,Koloko,7,2
+icr010826,Mali,Koloko,8,1
+icr010827,Mali,Koloko,8,1
+icr010845,Mali,Koloko,9,1
+icr010846,Mali,Koloko,9,1
+icr010865,Mali,Koloko,10,1
+icr010866,Mali,Koloko,10,1
+icr010885,Mali,Koloko,11,1
+icr010886,Mali,Koloko,11,1
+icr010905,Mali,Koloko,12,1
+icr010906,Mali,Koloko,12,1
+icr010925,Mali,Koloko,13,1
+icr010926,Mali,Koloko,13,1
+icr010945,Mali,Koloko,14,1
+icr010946,Mali,Koloko,14,1
+icr010965,Mali,Koloko,15,1
+icr010966,Mali,Koloko,15,1
+icr010985,Mali,Koloko,16,1
+icr010986,Mali,Koloko,16,1
+icr011037,Burkina Faso,Bondigui,1,1
+icr011038,Burkina Faso,Bondigui,1,1
+icr011067,Burkina Faso,Bondigui,2,7
+icr011068,Burkina Faso,Bondigui,2,7
+icr011077,Burkina Faso,Bondigui,3,2
+icr011078,Burkina Faso,Bondigui,3,2
+icr011097,Burkina Faso,Bondigui,4,3
+icr011098,Burkina Faso,Bondigui,4,3
+icr011111,Burkina Faso,Bondigui,5,1
+icr011112,Burkina Faso,Bondigui,5,1
+icr011133,Burkina Faso,Bondigui,6,5
+icr011134,Burkina Faso,Bondigui,6,5
+icr011144,Burkina Faso,Bondigui,7,1
+icr011145,Burkina Faso,Bondigui,7,1
+icr011164,Burkina Faso,Bondigui,8,1
+icr011165,Burkina Faso,Bondigui,8,1
+icr011182,Burkina Faso,Bondigui,9,1
+icr011183,Burkina Faso,Bondigui,9,1
+icr011202,Burkina Faso,Bondigui,10,1
+icr011203,Burkina Faso,Bondigui,10,1
+icr011222,Burkina Faso,Bondigui,11,1
+icr011223,Burkina Faso,Bondigui,11,1
+icr011241,Burkina Faso,Bondigui,12,1
+icr011242,Burkina Faso,Bondigui,12,1
+icr011263,Burkina Faso,Bondigui,13,2
+icr011264,Burkina Faso,Bondigui,13,2
+icr011281,Burkina Faso,Bondigui,14,1
+icr011282,Burkina Faso,Bondigui,14,1
+icr011301,Burkina Faso,Bondigui,15,1
+icr011302,Burkina Faso,Bondigui,15,1
+icr011321,Burkina Faso,Bondigui,16,1
+icr011322,Burkina Faso,Bondigui,16,1
+icr011824,Tanzania,Bukwaya,1,1
+icr011825,Tanzania,Bukwaya,1,1
+icr011843,Tanzania,Bukwaya,2,2
+icr011844,Tanzania,Bukwaya,2,2
+icr011863,Tanzania,Bukwaya,3,1
+icr011864,Tanzania,Bukwaya,3,1
+icr011881,Tanzania,Bukwaya,4,1
+icr011882,Tanzania,Bukwaya,4,1
+icr011901,Tanzania,Bukwaya,5,1
+icr011902,Tanzania,Bukwaya,5,1
+icr011921,Tanzania,Bukwaya,6,1
+icr011922,Tanzania,Bukwaya,6,1
+icr011941,Tanzania,Bukwaya,7,1
+icr011942,Tanzania,Bukwaya,7,1
+icr011960,Tanzania,Bukwaya,8,1
+icr011961,Tanzania,Bukwaya,8,1
+icr011978,Tanzania,Bukwaya,9,3
+icr011979,Tanzania,Bukwaya,9,3
+icr011990,Tanzania,Bukwaya,10,1
+icr011991,Tanzania,Bukwaya,10,1
+icr012008,Tanzania,Bukwaya,11,1
+icr012009,Tanzania,Bukwaya,11,1
+icr012027,Tanzania,Bukwaya,12,1
+icr012028,Tanzania,Bukwaya,12,1
+icr012043,Tanzania,Bukwaya,13,1
+icr012044,Tanzania,Bukwaya,13,1
+icr012063,Tanzania,Bukwaya,14,1
+icr012064,Tanzania,Bukwaya,14,1
+icr012083,Tanzania,Bukwaya,15,3
+icr012084,Tanzania,Bukwaya,15,3
+icr012087,Tanzania,Bukwaya,16,1
+icr012088,Tanzania,Bukwaya,16,1
+icr014408,Malawi,Nkhata Bay,1,1
+icr014409,Malawi,Nkhata Bay,1,1
+icr014428,Malawi,Nkhata Bay,2,1
+icr014429,Malawi,Nkhata Bay,2,1
+icr014448,Malawi,Nkhata Bay,3,1
+icr014449,Malawi,Nkhata Bay,3,1
+icr014468,Malawi,Nkhata Bay,4,1
+icr014469,Malawi,Nkhata Bay,4,1
+icr014488,Malawi,Nkhata Bay,5,1
+icr014489,Malawi,Nkhata Bay,5,1
+icr014508,Malawi,Nkhata Bay,6,1
+icr014509,Malawi,Nkhata Bay,6,1
+icr014528,Malawi,Nkhata Bay,7,1
+icr014529,Malawi,Nkhata Bay,7,1
+icr014548,Malawi,Nkhata Bay,8,1
+icr014549,Malawi,Nkhata Bay,8,1
+icr014568,Malawi,Nkhata Bay,9,1
+icr014569,Malawi,Nkhata Bay,9,1
+icr014588,Malawi,Nkhata Bay,10,1
+icr014589,Malawi,Nkhata Bay,10,1
+icr014608,Malawi,Nkhata Bay,11,2
+icr014609,Malawi,Nkhata Bay,11,2
+icr014628,Malawi,Nkhata Bay,12,1
+icr014629,Malawi,Nkhata Bay,12,1
+icr014648,Malawi,Nkhata Bay,13,1
+icr014649,Malawi,Nkhata Bay,13,1
+icr014668,Malawi,Nkhata Bay,14,1
+icr014669,Malawi,Nkhata Bay,14,1
+icr014688,Malawi,Nkhata Bay,15,1
+icr014689,Malawi,Nkhata Bay,15,1
+icr014708,Malawi,Nkhata Bay,16,1
+icr014709,Malawi,Nkhata Bay,16,1
+icr014743,Malawi,Thuchila,1,1
+icr014744,Malawi,Thuchila,1,1
+icr014763,Malawi,Thuchila,2,1
+icr014764,Malawi,Thuchila,2,1
+icr014783,Malawi,Thuchila,3,1
+icr014784,Malawi,Thuchila,3,1
+icr014803,Malawi,Thuchila,4,1
+icr014804,Malawi,Thuchila,4,1
+icr014823,Malawi,Thuchila,5,1
+icr014824,Malawi,Thuchila,5,1
+icr014843,Malawi,Thuchila,6,1
+icr014844,Malawi,Thuchila,6,1
+icr014863,Malawi,Thuchila,7,2
+icr014864,Malawi,Thuchila,7,2
+icr014883,Malawi,Thuchila,8,1
+icr014884,Malawi,Thuchila,8,1
+icr014903,Malawi,Thuchila,9,1
+icr014904,Malawi,Thuchila,9,1
+icr014923,Malawi,Thuchila,10,2
+icr014924,Malawi,Thuchila,10,2
+icr014943,Malawi,Thuchila,11,1
+icr014944,Malawi,Thuchila,11,1
+icr014963,Malawi,Thuchila,12,1
+icr014964,Malawi,Thuchila,12,1
+icr014983,Malawi,Thuchila,13,2
+icr014984,Malawi,Thuchila,13,2
+icr015003,Malawi,Thuchila,14,1
+icr015004,Malawi,Thuchila,14,1
+icr015023,Malawi,Thuchila,15,1
+icr015024,Malawi,Thuchila,15,1
+icr015043,Malawi,Thuchila,16,1
+icr015044,Malawi,Thuchila,16,1
+icr015063,Ghana,Lambussie,1,1
+icr015064,Ghana,Lambussie,1,1
+icr015083,Ghana,Lambussie,2,1
+icr015084,Ghana,Lambussie,2,1
+icr015103,Ghana,Lambussie,3,1
+icr015104,Ghana,Lambussie,3,1
+icr015122,Ghana,Lambussie,4,2
+icr015123,Ghana,Lambussie,4,2
+icr015137,Ghana,Lambussie,5,1
+icr015138,Ghana,Lambussie,5,1
+icr015157,Ghana,Lambussie,6,1
+icr015158,Ghana,Lambussie,6,1
+icr015177,Ghana,Lambussie,7,1
+icr015178,Ghana,Lambussie,7,1
+icr015199,Ghana,Lambussie,8,1
+icr015200,Ghana,Lambussie,8,1
+icr015216,Ghana,Lambussie,9,1
+icr015217,Ghana,Lambussie,9,1
+icr015236,Ghana,Lambussie,10,1
+icr015237,Ghana,Lambussie,10,1
+icr015256,Ghana,Lambussie,11,1
+icr015257,Ghana,Lambussie,11,1
+icr015275,Ghana,Lambussie,12,1
+icr015276,Ghana,Lambussie,12,1
+icr015295,Ghana,Lambussie,13,1
+icr015296,Ghana,Lambussie,13,1
+icr015315,Ghana,Lambussie,14,1
+icr015335,Ghana,Lambussie,15,1
+icr015336,Ghana,Lambussie,15,1
+icr015352,Ghana,Lambussie,16,1
+icr015353,Ghana,Lambussie,16,1
+icr015432,Ghana,Kubeasi,1,1
+icr015433,Ghana,Kubeasi,1,1
+icr015452,Ghana,Kubeasi,2,1
+icr015453,Ghana,Kubeasi,2,1
+icr015472,Ghana,Kubeasi,3,1
+icr015473,Ghana,Kubeasi,3,1
+icr015492,Ghana,Kubeasi,4,1
+icr015493,Ghana,Kubeasi,4,1
+icr015512,Ghana,Kubeasi,5,1
+icr015513,Ghana,Kubeasi,5,1
+icr015532,Ghana,Kubeasi,6,1
+icr015533,Ghana,Kubeasi,6,1
+icr015552,Ghana,Kubeasi,7,1
+icr015553,Ghana,Kubeasi,7,1
+icr015572,Ghana,Kubeasi,8,1
+icr015573,Ghana,Kubeasi,8,1
+icr015592,Ghana,Kubeasi,9,1
+icr015593,Ghana,Kubeasi,9,1
+icr015612,Ghana,Kubeasi,10,1
+icr015613,Ghana,Kubeasi,10,1
+icr015632,Ghana,Kubeasi,11,1
+icr015633,Ghana,Kubeasi,11,1
+icr015652,Ghana,Kubeasi,12,1
+icr015653,Ghana,Kubeasi,12,1
+icr015672,Ghana,Kubeasi,13,1
+icr015673,Ghana,Kubeasi,13,1
+icr015692,Ghana,Kubeasi,14,1
+icr015693,Ghana,Kubeasi,14,1
+icr015712,Ghana,Kubeasi,15,1
+icr015713,Ghana,Kubeasi,15,1
+icr015732,Ghana,Kubeasi,16,1
+icr015733,Ghana,Kubeasi,16,1
+icr015752,Ghana,Ajumako,1,1
+icr015753,Ghana,Ajumako,1,1
+icr015772,Ghana,Ajumako,2,1
+icr015773,Ghana,Ajumako,2,1
+icr015792,Ghana,Ajumako,3,1
+icr015793,Ghana,Ajumako,3,1
+icr015812,Ghana,Ajumako,4,1
+icr015813,Ghana,Ajumako,4,1
+icr015832,Ghana,Ajumako,5,2
+icr015833,Ghana,Ajumako,5,2
+icr015852,Ghana,Ajumako,6,1
+icr015853,Ghana,Ajumako,6,1
+icr015872,Ghana,Ajumako,7,2
+icr015873,Ghana,Ajumako,7,2
+icr015892,Ghana,Ajumako,8,1
+icr015893,Ghana,Ajumako,8,1
+icr015912,Ghana,Ajumako,9,1
+icr015913,Ghana,Ajumako,9,1
+icr015932,Ghana,Ajumako,10,1
+icr015933,Ghana,Ajumako,10,1
+icr015952,Ghana,Ajumako,11,1
+icr015953,Ghana,Ajumako,11,1
+icr015972,Ghana,Ajumako,12,1
+icr015973,Ghana,Ajumako,12,1
+icr015992,Ghana,Ajumako,13,1
+icr015993,Ghana,Ajumako,13,1
+icr016012,Ghana,Ajumako,14,1
+icr016013,Ghana,Ajumako,14,1
+icr016032,Ghana,Ajumako,15,1
+icr016033,Ghana,Ajumako,15,1
+icr016052,Ghana,Ajumako,16,1
+icr016053,Ghana,Ajumako,16,1
+icr020848,Tanzania,Kidatu,1,1
+icr020849,Tanzania,Kidatu,1,1
+icr020868,Tanzania,Kidatu,2,1
+icr020869,Tanzania,Kidatu,2,1
+icr020888,Tanzania,Kidatu,3,1
+icr020889,Tanzania,Kidatu,3,1
+icr020908,Tanzania,Kidatu,4,1
+icr020909,Tanzania,Kidatu,4,1
+icr020927,Tanzania,Kidatu,5,1
+icr020928,Tanzania,Kidatu,5,1
+icr020947,Tanzania,Kidatu,6,1
+icr020948,Tanzania,Kidatu,6,1
+icr020970,Tanzania,Kidatu,7,3
+icr020971,Tanzania,Kidatu,7,3
+icr020986,Tanzania,Kidatu,8,1
+icr020987,Tanzania,Kidatu,8,1
+icr021004,Tanzania,Kidatu,9,1
+icr021005,Tanzania,Kidatu,9,1
+icr021023,Tanzania,Kidatu,10,1
+icr021024,Tanzania,Kidatu,10,1
+icr021043,Tanzania,Kidatu,11,1
+icr021044,Tanzania,Kidatu,11,1
+icr021063,Tanzania,Kidatu,12,1
+icr021064,Tanzania,Kidatu,12,1
+icr021083,Tanzania,Kidatu,13,1
+icr021084,Tanzania,Kidatu,13,1
+icr021103,Tanzania,Kidatu,14,1
+icr021104,Tanzania,Kidatu,14,1
+icr021123,Tanzania,Kidatu,15,1
+icr021124,Tanzania,Kidatu,15,1
+icr021141,Tanzania,Kidatu,16,1
+icr021142,Tanzania,Kidatu,16,1
+icr023116,Mozambique,Macassangila,1,1
+icr023117,Mozambique,Macassangila,1,1
+icr023136,Mozambique,Macassangila,2,1
+icr023137,Mozambique,Macassangila,2,1
+icr023155,Mozambique,Macassangila,3,1
+icr023156,Mozambique,Macassangila,3,1
+icr023175,Mozambique,Macassangila,4,1
+icr023176,Mozambique,Macassangila,4,1
+icr023195,Mozambique,Macassangila,5,1
+icr023213,Mozambique,Macassangila,6,2
+icr023214,Mozambique,Macassangila,6,2
+icr023233,Mozambique,Macassangila,7,1
+icr023234,Mozambique,Macassangila,7,1
+icr023253,Mozambique,Macassangila,8,1
+icr023254,Mozambique,Macassangila,8,1
+icr023273,Mozambique,Macassangila,9,1
+icr023274,Mozambique,Macassangila,9,1
+icr023293,Mozambique,Macassangila,10,1
+icr023294,Mozambique,Macassangila,10,1
+icr023313,Mozambique,Macassangila,11,1
+icr023314,Mozambique,Macassangila,11,1
+icr023333,Mozambique,Macassangila,12,1
+icr023334,Mozambique,Macassangila,12,1
+icr023353,Mozambique,Macassangila,13,1
+icr023354,Mozambique,Macassangila,13,1
+icr023373,Mozambique,Macassangila,14,1
+icr023374,Mozambique,Macassangila,14,1
+icr023393,Mozambique,Macassangila,15,1
+icr023394,Mozambique,Macassangila,15,1
+icr023413,Mozambique,Macassangila,16,1
+icr023414,Mozambique,Macassangila,16,1
+icr023433,Mozambique,Chica_b,1,1
+icr023434,Mozambique,Chica_b,1,1
+icr023453,Mozambique,Chica_b,2,1
+icr023454,Mozambique,Chica_b,2,1
+icr023473,Mozambique,Chica_b,3,1
+icr023474,Mozambique,Chica_b,3,1
+icr023493,Mozambique,Chica_b,4,1
+icr023494,Mozambique,Chica_b,4,1
+icr023513,Mozambique,Chica_b,5,1
+icr023514,Mozambique,Chica_b,5,1
+icr023533,Mozambique,Chica_b,6,1
+icr023534,Mozambique,Chica_b,6,1
+icr023553,Mozambique,Chica_b,7,1
+icr023554,Mozambique,Chica_b,7,1
+icr023573,Mozambique,Chica_b,8,1
+icr023574,Mozambique,Chica_b,8,1
+icr023593,Mozambique,Chica_b,9,1
+icr023594,Mozambique,Chica_b,9,1
+icr023613,Mozambique,Chica_b,10,1
+icr023614,Mozambique,Chica_b,10,1
+icr023633,Mozambique,Chica_b,11,1
+icr023634,Mozambique,Chica_b,11,1
+icr023652,Mozambique,Chica_b,12,2
+icr023653,Mozambique,Chica_b,12,2
+icr023672,Mozambique,Chica_b,13,1
+icr023673,Mozambique,Chica_b,13,1
+icr023692,Mozambique,Chica_b,14,1
+icr023693,Mozambique,Chica_b,14,1
+icr023712,Mozambique,Chica_b,15,1
+icr023713,Mozambique,Chica_b,15,1
+icr023731,Mozambique,Chica_b,16,1
+icr023732,Mozambique,Chica_b,16,1
+icr024868,Tanzania,Itende,1,3
+icr024869,Tanzania,Itende,1,3
+icr024879,Tanzania,Itende,2,1
+icr024880,Tanzania,Itende,2,1
+icr024899,Tanzania,Itende,3,1
+icr024900,Tanzania,Itende,3,1
+icr024917,Tanzania,Itende,4,1
+icr024918,Tanzania,Itende,4,1
+icr024937,Tanzania,Itende,5,1
+icr024938,Tanzania,Itende,5,1
+icr024956,Tanzania,Itende,6,1
+icr024957,Tanzania,Itende,6,1
+icr024976,Tanzania,Itende,7,2
+icr024977,Tanzania,Itende,7,2
+icr024994,Tanzania,Itende,8,3
+icr024995,Tanzania,Itende,8,3
+icr025009,Tanzania,Itende,9,5
+icr025010,Tanzania,Itende,9,5
+icr025016,Tanzania,Itende,10,1
+icr025017,Tanzania,Itende,10,1
+icr025036,Tanzania,Itende,11,1
+icr025037,Tanzania,Itende,11,1
+icr025055,Tanzania,Itende,12,1
+icr025056,Tanzania,Itende,12,1
+icr025074,Tanzania,Itende,13,1
+icr025075,Tanzania,Itende,13,1
+icr025092,Tanzania,Itende,14,1
+icr025093,Tanzania,Itende,14,1
+icr025111,Tanzania,Itende,15,1
+icr025112,Tanzania,Itende,15,1
+icr025135,Tanzania,Itende,16,7
+icr025136,Tanzania,Itende,16,7
+icr030024,Ethiopia,Dambidolo,1,1
+icr030025,Ethiopia,Dambidolo,1,1
+icr030043,Ethiopia,Dambidolo,2,1
+icr030044,Ethiopia,Dambidolo,2,1
+icr030063,Ethiopia,Dambidolo,3,1
+icr030064,Ethiopia,Dambidolo,3,1
+icr030083,Ethiopia,Dambidolo,4,1
+icr030084,Ethiopia,Dambidolo,4,1
+icr030103,Ethiopia,Dambidolo,5,1
+icr030104,Ethiopia,Dambidolo,5,1
+icr030123,Ethiopia,Dambidolo,6,2
+icr030124,Ethiopia,Dambidolo,6,2
+icr030143,Ethiopia,Dambidolo,7,1
+icr030144,Ethiopia,Dambidolo,7,1
+icr030163,Ethiopia,Dambidolo,8,1
+icr030164,Ethiopia,Dambidolo,8,1
+icr030183,Ethiopia,Dambidolo,9,5
+icr030184,Ethiopia,Dambidolo,9,5
+icr030200,Ethiopia,Dambidolo,10,2
+icr030201,Ethiopia,Dambidolo,10,2
+icr030218,Ethiopia,Dambidolo,11,1
+icr030219,Ethiopia,Dambidolo,11,1
+icr030238,Ethiopia,Dambidolo,12,1
+icr030239,Ethiopia,Dambidolo,12,1
+icr030258,Ethiopia,Dambidolo,13,1
+icr030259,Ethiopia,Dambidolo,13,1
+icr030276,Ethiopia,Dambidolo,14,1
+icr030277,Ethiopia,Dambidolo,14,1
+icr030296,Ethiopia,Dambidolo,15,1
+icr030297,Ethiopia,Dambidolo,15,1
+icr030316,Ethiopia,Dambidolo,16,1
+icr030317,Ethiopia,Dambidolo,16,1
+icr030335,Ethiopia,Merar,1,3
+icr030336,Ethiopia,Merar,1,3
+icr030352,Ethiopia,Merar,2,3
+icr030353,Ethiopia,Merar,2,3
+icr030367,Ethiopia,Merar,3,7
+icr030368,Ethiopia,Merar,3,7
+icr030376,Ethiopia,Merar,4,1
+icr030377,Ethiopia,Merar,4,1
+icr030387,Ethiopia,Merar,5,2
+icr030388,Ethiopia,Merar,5,2
+icr030400,Ethiopia,Merar,6,2
+icr030401,Ethiopia,Merar,6,2
+icr030416,Ethiopia,Merar,7,1
+icr030430,Ethiopia,Merar,8,6
+icr030431,Ethiopia,Merar,8,6
+icr030438,Ethiopia,Merar,9,1
+icr030439,Ethiopia,Merar,9,1
+icr030458,Ethiopia,Merar,10,1
+icr030459,Ethiopia,Merar,10,1
+icr030478,Ethiopia,Merar,11,1
+icr030479,Ethiopia,Merar,11,1
+icr030494,Ethiopia,Merar,12,1
+icr030495,Ethiopia,Merar,12,1
+icr030511,Ethiopia,Merar,13,1
+icr030512,Ethiopia,Merar,13,1
+icr030531,Ethiopia,Merar,14,1
+icr030532,Ethiopia,Merar,14,1
+icr030551,Ethiopia,Merar,15,1
+icr030552,Ethiopia,Merar,15,1
+icr030571,Ethiopia,Merar,16,2
+icr030572,Ethiopia,Merar,16,2
+icr033351,Kenya,Mbalambala,1,1
+icr033352,Kenya,Mbalambala,1,1
+icr033371,Kenya,Mbalambala,2,1
+icr033372,Kenya,Mbalambala,2,1
+icr033389,Kenya,Mbalambala,2,10
+icr033390,Kenya,Mbalambala,2,10
+icr033392,Kenya,Mbalambala,3,2
+icr033393,Kenya,Mbalambala,3,2
+icr033407,Kenya,Mbalambala,5,1
+icr033408,Kenya,Mbalambala,5,1
+icr033427,Kenya,Mbalambala,6,1
+icr033428,Kenya,Mbalambala,6,1
+icr033445,Kenya,Mbalambala,6,10
+icr033446,Kenya,Mbalambala,6,10
+icr033447,Kenya,Mbalambala,7,1
+icr033448,Kenya,Mbalambala,7,1
+icr033466,Kenya,Mbalambala,9,1
+icr033467,Kenya,Mbalambala,9,1
+icr033486,Kenya,Mbalambala,10,1
+icr033487,Kenya,Mbalambala,10,1
+icr033506,Kenya,Mbalambala,11,1
+icr033507,Kenya,Mbalambala,11,1
+icr033525,Kenya,Mbalambala,13,1
+icr033526,Kenya,Mbalambala,13,1
+icr033545,Kenya,Mbalambala,14,1
+icr033546,Kenya,Mbalambala,14,1
+icr033566,Kenya,Mbalambala,15,2
+icr033567,Kenya,Mbalambala,15,2
+icr033580,Kenya,Mbalambala,15,10
+icr033581,Kenya,Mbalambala,15,10
+icr033582,Kenya,Mbalambala,16,1
+icr033583,Kenya,Mbalambala,16,1
+icr033602,Ethiopia,Mega,1,1
+icr033603,Ethiopia,Mega,1,1
+icr033621,Ethiopia,Mega,2,1
+icr033622,Ethiopia,Mega,2,1
+icr033637,Ethiopia,Mega,3,1
+icr033638,Ethiopia,Mega,3,1
+icr033656,Ethiopia,Mega,4,1
+icr033657,Ethiopia,Mega,4,1
+icr033676,Ethiopia,Mega,5,1
+icr033677,Ethiopia,Mega,5,1
+icr033696,Ethiopia,Mega,6,1
+icr033697,Ethiopia,Mega,6,1
+icr033714,Ethiopia,Mega,7,1
+icr033715,Ethiopia,Mega,7,1
+icr033732,Ethiopia,Mega,8,1
+icr033733,Ethiopia,Mega,8,1
+icr033752,Ethiopia,Mega,9,1
+icr033753,Ethiopia,Mega,9,1
+icr033771,Ethiopia,Mega,10,1
+icr033772,Ethiopia,Mega,10,1
+icr033791,Ethiopia,Mega,11,1
+icr033792,Ethiopia,Mega,11,1
+icr033811,Ethiopia,Mega,12,1
+icr033812,Ethiopia,Mega,12,1
+icr033831,Ethiopia,Mega,13,1
+icr033832,Ethiopia,Mega,13,1
+icr033851,Ethiopia,Mega,14,1
+icr033852,Ethiopia,Mega,14,1
+icr033871,Ethiopia,Mega,15,1
+icr033872,Ethiopia,Mega,15,1
+icr033890,Ethiopia,Mega,16,1
+icr033891,Ethiopia,Mega,16,1
+icr033910,Nigeria,Ibi,1,1
+icr033911,Nigeria,Ibi,1,1
+icr033930,Nigeria,Ibi,2,1
+icr033931,Nigeria,Ibi,2,1
+icr033950,Nigeria,Ibi,3,1
+icr033951,Nigeria,Ibi,3,1
+icr033970,Nigeria,Ibi,4,1
+icr033971,Nigeria,Ibi,4,1
+icr033990,Nigeria,Ibi,5,1
+icr033991,Nigeria,Ibi,5,1
+icr034010,Nigeria,Ibi,6,1
+icr034011,Nigeria,Ibi,6,1
+icr034030,Nigeria,Ibi,7,1
+icr034031,Nigeria,Ibi,7,1
+icr034050,Nigeria,Ibi,8,1
+icr034051,Nigeria,Ibi,8,1
+icr034070,Nigeria,Ibi,9,1
+icr034071,Nigeria,Ibi,9,1
+icr034090,Nigeria,Ibi,10,1
+icr034091,Nigeria,Ibi,10,1
+icr034110,Nigeria,Ibi,11,1
+icr034111,Nigeria,Ibi,11,1
+icr034130,Nigeria,Ibi,12,1
+icr034131,Nigeria,Ibi,12,1
+icr034150,Nigeria,Ibi,13,1
+icr034151,Nigeria,Ibi,13,1
+icr034170,Nigeria,Ibi,14,1
+icr034171,Nigeria,Ibi,14,1
+icr034190,Nigeria,Ibi,15,1
+icr034191,Nigeria,Ibi,15,1
+icr034210,Nigeria,Ibi,16,1
+icr034211,Nigeria,Ibi,16,1
+icr034262,Nigeria,Katsina ala,1,1
+icr034263,Nigeria,Katsina ala,1,1
+icr034282,Nigeria,Katsina ala,2,1
+icr034283,Nigeria,Katsina ala,2,1
+icr034302,Nigeria,Katsina ala,3,1
+icr034303,Nigeria,Katsina ala,3,1
+icr034322,Nigeria,Katsina ala,4,2
+icr034323,Nigeria,Katsina ala,4,2
+icr034342,Nigeria,Katsina ala,5,1
+icr034343,Nigeria,Katsina ala,5,1
+icr034362,Nigeria,Katsina ala,6,1
+icr034363,Nigeria,Katsina ala,6,1
+icr034382,Nigeria,Katsina ala,7,1
+icr034383,Nigeria,Katsina ala,7,1
+icr034402,Nigeria,Katsina ala,8,1
+icr034403,Nigeria,Katsina ala,8,1
+icr034422,Nigeria,Katsina ala,9,1
+icr034423,Nigeria,Katsina ala,9,1
+icr034441,Nigeria,Katsina ala,10,1
+icr034442,Nigeria,Katsina ala,10,1
+icr034461,Nigeria,Katsina ala,11,2
+icr034462,Nigeria,Katsina ala,11,2
+icr034481,Nigeria,Katsina ala,12,1
+icr034482,Nigeria,Katsina ala,12,1
+icr034501,Nigeria,Katsina ala,13,1
+icr034502,Nigeria,Katsina ala,13,1
+icr034521,Nigeria,Katsina ala,14,1
+icr034522,Nigeria,Katsina ala,14,1
+icr034541,Nigeria,Katsina ala,15,1
+icr034542,Nigeria,Katsina ala,15,1
+icr034561,Nigeria,Katsina ala,16,1
+icr034562,Nigeria,Katsina ala,16,1
+icr034613,Nigeria,Imorun,1,1
+icr034614,Nigeria,Imorun,1,1
+icr034633,Nigeria,Imorun,2,1
+icr034634,Nigeria,Imorun,2,1
+icr034653,Nigeria,Imorun,3,1
+icr034654,Nigeria,Imorun,3,1
+icr034673,Nigeria,Imorun,4,1
+icr034674,Nigeria,Imorun,4,1
+icr034693,Nigeria,Imorun,5,2
+icr034694,Nigeria,Imorun,5,2
+icr034713,Nigeria,Imorun,6,1
+icr034714,Nigeria,Imorun,6,1
+icr034733,Nigeria,Imorun,7,1
+icr034734,Nigeria,Imorun,7,1
+icr034753,Nigeria,Imorun,8,1
+icr034754,Nigeria,Imorun,8,1
+icr034773,Nigeria,Imorun,9,1
+icr034774,Nigeria,Imorun,9,1
+icr034793,Nigeria,Imorun,10,1
+icr034794,Nigeria,Imorun,10,1
+icr034813,Nigeria,Imorun,11,1
+icr034814,Nigeria,Imorun,11,1
+icr034833,Nigeria,Imorun,12,1
+icr034834,Nigeria,Imorun,12,1
+icr034853,Nigeria,Imorun,13,1
+icr034854,Nigeria,Imorun,13,1
+icr034873,Nigeria,Imorun,14,2
+icr034874,Nigeria,Imorun,14,2
+icr034893,Nigeria,Imorun,15,1
+icr034894,Nigeria,Imorun,15,1
+icr034913,Nigeria,Imorun,16,1
+icr034914,Nigeria,Imorun,16,1
+icr037417,Mali,Finnkolo,1,3
+icr037418,Mali,Finnkolo,1,3
+icr037445,Mali,Finnkolo,2,7
+icr037446,Mali,Finnkolo,2,7
+icr037453,Mali,Finnkolo,3,1
+icr037454,Mali,Finnkolo,3,1
+icr037475,Mali,Finnkolo,4,2
+icr037476,Mali,Finnkolo,4,2
+icr037491,Mali,Finnkolo,5,1
+icr037492,Mali,Finnkolo,5,1
+icr037511,Mali,Finnkolo,6,1
+icr037512,Mali,Finnkolo,6,1
+icr037531,Mali,Finnkolo,7,1
+icr037532,Mali,Finnkolo,7,1
+icr037553,Mali,Finnkolo,8,3
+icr037554,Mali,Finnkolo,8,3
+icr037574,Mali,Finnkolo,9,5
+icr037575,Mali,Finnkolo,9,5
+icr037590,Mali,Finnkolo,10,2
+icr037591,Mali,Finnkolo,10,2
+icr037620,Mali,Finnkolo,11,8
+icr037621,Mali,Finnkolo,11,8
+icr037626,Mali,Finnkolo,12,1
+icr037627,Mali,Finnkolo,12,1
+icr037646,Mali,Finnkolo,13,1
+icr037647,Mali,Finnkolo,13,1
+icr037675,Mali,Finnkolo,14,8
+icr037676,Mali,Finnkolo,14,8
+icr037689,Mali,Finnkolo,15,6
+icr037690,Mali,Finnkolo,15,6
+icr037699,Mali,Finnkolo,16,2
+icr037700,Mali,Finnkolo,16,2
+icr037755,Cameroon,Bana,1,5
+icr037756,Cameroon,Bana,1,5
+icr037767,Cameroon,Bana,2,1
+icr037768,Cameroon,Bana,2,1
+icr037787,Cameroon,Bana,3,1
+icr037788,Cameroon,Bana,3,1
+icr037807,Cameroon,Bana,4,1
+icr037808,Cameroon,Bana,4,1
+icr037843,Cameroon,Bana,5,9
+icr037844,Cameroon,Bana,5,9
+icr037851,Cameroon,Bana,6,3
+icr037852,Cameroon,Bana,6,3
+icr037869,Cameroon,Bana,7,2
+icr037870,Cameroon,Bana,7,2
+icr037901,Cameroon,Bana,8,8
+icr037902,Cameroon,Bana,8,8
+icr037907,Cameroon,Bana,9,1
+icr037908,Cameroon,Bana,9,1
+icr037927,Cameroon,Bana,10,1
+icr037928,Cameroon,Bana,10,1
+icr037947,Cameroon,Bana,11,2
+icr037948,Cameroon,Bana,11,2
+icr037969,Cameroon,Bana,12,3
+icr037970,Cameroon,Bana,12,3
+icr037986,Cameroon,Bana,13,1
+icr037987,Cameroon,Bana,13,1
+icr038016,Cameroon,Bana,14,8
+icr038017,Cameroon,Bana,14,8
+icr038034,Cameroon,Bana,15,5
+icr038035,Cameroon,Bana,15,5
+icr038056,Cameroon,Bana,16,7
+icr038057,Cameroon,Bana,16,7
+icr038106,Ethiopia,Kutaber,1,5
+icr038107,Ethiopia,Kutaber,1,5
+icr038118,Ethiopia,Kutaber,2,1
+icr038119,Ethiopia,Kutaber,2,1
+icr038138,Ethiopia,Kutaber,3,2
+icr038139,Ethiopia,Kutaber,3,2
+icr038154,Ethiopia,Kutaber,4,3
+icr038155,Ethiopia,Kutaber,4,3
+icr038170,Ethiopia,Kutaber,5,1
+icr038171,Ethiopia,Kutaber,5,1
+icr038189,Ethiopia,Kutaber,6,1
+icr038190,Ethiopia,Kutaber,6,1
+icr038216,Ethiopia,Kutaber,7,5
+icr038234,Ethiopia,Kutaber,8,5
+icr038235,Ethiopia,Kutaber,8,5
+icr038251,Ethiopia,Kutaber,9,5
+icr038252,Ethiopia,Kutaber,9,5
+icr038273,Ethiopia,Kutaber,10,6
+icr038274,Ethiopia,Kutaber,10,6
+icr038289,Ethiopia,Kutaber,11,6
+icr038290,Ethiopia,Kutaber,11,6
+icr038305,Ethiopia,Kutaber,12,8
+icr038306,Ethiopia,Kutaber,12,8
+icr038312,Ethiopia,Kutaber,13,1
+icr038313,Ethiopia,Kutaber,13,1
+icr038331,Ethiopia,Kutaber,14,1
+icr038332,Ethiopia,Kutaber,14,1
+icr038351,Ethiopia,Kutaber,15,1
+icr038352,Ethiopia,Kutaber,15,1
+icr038368,Ethiopia,Kutaber,16,1
+icr038369,Ethiopia,Kutaber,16,1
+icr041641,Kenya,Marafa,1,2
+icr041642,Kenya,Marafa,1,2
+icr041659,Kenya,Marafa,2,1
+icr041660,Kenya,Marafa,2,1
+icr041679,Kenya,Marafa,3,1
+icr041680,Kenya,Marafa,3,1
+icr041699,Kenya,Marafa,4,1
+icr041700,Kenya,Marafa,4,1
+icr041719,Kenya,Marafa,5,2
+icr041720,Kenya,Marafa,5,2
+icr041739,Kenya,Marafa,6,1
+icr041740,Kenya,Marafa,6,1
+icr041759,Kenya,Marafa,7,1
+icr041760,Kenya,Marafa,7,1
+icr041779,Kenya,Marafa,8,1
+icr041780,Kenya,Marafa,8,1
+icr041799,Kenya,Marafa,9,1
+icr041800,Kenya,Marafa,9,1
+icr041819,Kenya,Marafa,10,1
+icr041820,Kenya,Marafa,10,1
+icr041838,Kenya,Marafa,11,1
+icr041839,Kenya,Marafa,11,1
+icr041858,Kenya,Marafa,12,1
+icr041859,Kenya,Marafa,12,1
+icr041878,Kenya,Marafa,13,1
+icr041879,Kenya,Marafa,13,1
+icr041898,Kenya,Marafa,14,2
+icr041899,Kenya,Marafa,14,2
+icr041915,Kenya,Marafa,15,1
+icr041916,Kenya,Marafa,15,1
+icr041935,Kenya,Marafa,16,1
+icr041936,Kenya,Marafa,16,1
+icr041987,Kenya,Morijo,1,1
+icr041988,Kenya,Morijo,1,1
+icr042004,Kenya,Morijo,2,1
+icr042005,Kenya,Morijo,2,1
+icr042024,Kenya,Morijo,3,1
+icr042025,Kenya,Morijo,3,1
+icr042048,Kenya,Morijo,4,4
+icr042049,Kenya,Morijo,4,4
+icr042062,Kenya,Morijo,5,2
+icr042063,Kenya,Morijo,5,2
+icr042078,Kenya,Morijo,6,1
+icr042079,Kenya,Morijo,6,1
+icr042098,Kenya,Morijo,7,1
+icr042099,Kenya,Morijo,7,1
+icr042115,Kenya,Morijo,8,1
+icr042116,Kenya,Morijo,8,1
+icr042134,Kenya,Morijo,9,1
+icr042135,Kenya,Morijo,9,1
+icr042152,Kenya,Morijo,10,1
+icr042153,Kenya,Morijo,10,1
+icr042170,Kenya,Morijo,11,1
+icr042171,Kenya,Morijo,11,1
+icr042189,Kenya,Morijo,12,1
+icr042190,Kenya,Morijo,12,1
+icr042208,Kenya,Morijo,13,1
+icr042209,Kenya,Morijo,13,1
+icr042227,Kenya,Morijo,14,1
+icr042228,Kenya,Morijo,14,1
+icr042247,Kenya,Morijo,15,1
+icr042248,Kenya,Morijo,15,1
+icr042265,Kenya,Morijo,16,1
+icr042266,Kenya,Morijo,16,1
+icr042790,Guinea,Fria,1,2
+icr042791,Guinea,Fria,1,2
+icr042810,Guinea,Fria,2,2
+icr042811,Guinea,Fria,2,2
+icr042836,Guinea,Fria,3,5
+icr042837,Guinea,Fria,3,5
+icr042853,Guinea,Fria,4,4
+icr042854,Guinea,Fria,4,4
+icr042867,Guinea,Fria,5,1
+icr042868,Guinea,Fria,5,1
+icr042896,Guinea,Fria,6,7
+icr042897,Guinea,Fria,6,7
+icr042908,Guinea,Fria,7,2
+icr042909,Guinea,Fria,7,2
+icr042930,Guinea,Fria,8,3
+icr042931,Guinea,Fria,8,3
+icr042946,Guinea,Fria,9,1
+icr042947,Guinea,Fria,9,1
+icr042966,Guinea,Fria,10,1
+icr042967,Guinea,Fria,10,1
+icr042990,Guinea,Fria,11,3
+icr042991,Guinea,Fria,11,3
+icr043011,Guinea,Fria,12,4
+icr043012,Guinea,Fria,12,4
+icr043021,Guinea,Fria,13,1
+icr043022,Guinea,Fria,13,1
+icr043040,Guinea,Fria,14,1
+icr043041,Guinea,Fria,14,1
+icr043068,Guinea,Fria,15,5
+icr043069,Guinea,Fria,15,5
+icr043090,Guinea,Fria,16,6
+icr043091,Guinea,Fria,16,6
+icr043132,Guinea,Boumeoul,1,1
+icr043133,Guinea,Boumeoul,1,1
+icr043152,Guinea,Boumeoul,2,1
+icr043153,Guinea,Boumeoul,2,1
+icr043172,Guinea,Boumeoul,3,1
+icr043173,Guinea,Boumeoul,3,1
+icr043198,Guinea,Boumeoul,4,5
+icr043199,Guinea,Boumeoul,4,5
+icr043211,Guinea,Boumeoul,5,1
+icr043212,Guinea,Boumeoul,5,1
+icr043230,Guinea,Boumeoul,6,2
+icr043231,Guinea,Boumeoul,6,2
+icr043248,Guinea,Boumeoul,7,2
+icr043249,Guinea,Boumeoul,7,2
+icr043266,Guinea,Boumeoul,8,1
+icr043267,Guinea,Boumeoul,8,1
+icr043287,Guinea,Boumeoul,9,2
+icr043288,Guinea,Boumeoul,9,2
+icr043299,Guinea,Boumeoul,10,2
+icr043300,Guinea,Boumeoul,10,2
+icr043324,Guinea,Boumeoul,11,5
+icr043325,Guinea,Boumeoul,11,5
+icr043332,Guinea,Boumeoul,12,1
+icr043333,Guinea,Boumeoul,12,1
+icr043347,Guinea,Boumeoul,13,1
+icr043348,Guinea,Boumeoul,13,1
+icr043363,Guinea,Boumeoul,14,1
+icr043390,Guinea,Boumeoul,15,11
+icr043391,Guinea,Boumeoul,15,11
+icr043401,Guinea,Boumeoul,16,10
+icr043402,Guinea,Boumeoul,16,10
+icr048450,South Africa,Madadeni,1,1
+icr048451,South Africa,Madadeni,1,1
+icr048468,South Africa,Madadeni,2,1
+icr048469,South Africa,Madadeni,2,1
+icr048485,South Africa,Madadeni,3,1
+icr048486,South Africa,Madadeni,3,1
+icr048503,South Africa,Madadeni,4,1
+icr048504,South Africa,Madadeni,4,1
+icr048520,South Africa,Madadeni,5,1
+icr048521,South Africa,Madadeni,5,1
+icr048528,South Africa,Madadeni,6,2
+icr048529,South Africa,Madadeni,6,2
+icr048549,South Africa,Madadeni,7,2
+icr048550,South Africa,Madadeni,7,2
+icr048566,South Africa,Madadeni,8,1
+icr048567,South Africa,Madadeni,8,1
+icr048584,South Africa,Madadeni,9,1
+icr048585,South Africa,Madadeni,9,1
+icr048602,South Africa,Madadeni,10,1
+icr048603,South Africa,Madadeni,10,1
+icr048622,South Africa,Madadeni,11,1
+icr048623,South Africa,Madadeni,11,1
+icr048642,South Africa,Madadeni,12,1
+icr048643,South Africa,Madadeni,12,1
+icr048664,South Africa,Madadeni,13,2
+icr048665,South Africa,Madadeni,13,2
+icr048682,South Africa,Madadeni,14,1
+icr048683,South Africa,Madadeni,14,1
+icr048704,South Africa,Madadeni,15,2
+icr048705,South Africa,Madadeni,15,2
+icr048721,South Africa,Madadeni,16,1
+icr048722,South Africa,Madadeni,16,1
+icr048740,South Africa,Hopetown,1,1
+icr048741,South Africa,Hopetown,1,1
+icr048755,South Africa,Hopetown,2,1
+icr048756,South Africa,Hopetown,2,1
+icr048770,South Africa,Hopetown,3,3
+icr048771,South Africa,Hopetown,3,3
+icr048786,South Africa,Hopetown,4,4
+icr048787,South Africa,Hopetown,4,4
+icr048793,South Africa,Hopetown,5,1
+icr048794,South Africa,Hopetown,5,1
+icr048820,South Africa,Hopetown,6,8
+icr048821,South Africa,Hopetown,6,8
+icr048824,South Africa,Hopetown,7,2
+icr048825,South Africa,Hopetown,7,2
+icr048837,South Africa,Hopetown,8,2
+icr048838,South Africa,Hopetown,8,2
+icr048854,South Africa,Hopetown,9,3
+icr048855,South Africa,Hopetown,9,3
+icr048868,South Africa,Hopetown,10,1
+icr048869,South Africa,Hopetown,10,1
+icr048886,South Africa,Hopetown,11,1
+icr048887,South Africa,Hopetown,11,1
+icr048899,South Africa,Hopetown,12,1
+icr048900,South Africa,Hopetown,12,1
+icr048912,South Africa,Hopetown,13,1
+icr048913,South Africa,Hopetown,13,1
+icr048931,South Africa,Hopetown,14,2
+icr048932,South Africa,Hopetown,14,3
+icr048942,South Africa,Hopetown,14,10
+icr048943,South Africa,Hopetown,15,1
+icr048960,South Africa,Hopetown,15,13
+icr048961,South Africa,Hopetown,16,1
+icr048977,South Africa,Prieska,1,1
+icr048978,South Africa,Prieska,1,1
+icr048985,South Africa,Prieska,2,1
+icr048986,South Africa,Prieska,2,1
+icr048992,South Africa,Prieska,2,6
+icr048993,South Africa,Prieska,2,6
+icr049013,South Africa,Prieska,4,4
+icr049014,South Africa,Prieska,4,4
+icr049022,South Africa,Prieska,5,1
+icr049023,South Africa,Prieska,5,1
+icr049044,South Africa,Prieska,6,3
+icr049045,South Africa,Prieska,6,3
+icr049056,South Africa,Prieska,7,4
+icr049057,South Africa,Prieska,7,4
+icr049068,South Africa,Prieska,8,6
+icr049069,South Africa,Prieska,8,6
+icr049074,South Africa,Prieska,9,1
+icr049075,South Africa,Prieska,9,1
+icr049098,South Africa,Prieska,11,1
+icr049099,South Africa,Prieska,11,1
+icr049100,South Africa,Prieska,11,2
+icr049101,South Africa,Prieska,11,2
+icr049115,South Africa,Prieska,12,1
+icr049116,South Africa,Prieska,12,1
+icr049130,South Africa,Prieska,13,5
+icr049131,South Africa,Prieska,13,5
+icr049152,South Africa,Prieska,15,2
+icr049153,South Africa,Prieska,15,2
+icr049156,South Africa,Prieska,15,5
+icr049157,South Africa,Prieska,15,5
+icr049174,South Africa,Prieska,16,9
+icr049175,South Africa,Prieska,16,9
+icr049177,Mozambique,Chiculecule,1,1
+icr049178,Mozambique,Chiculecule,1,1
+icr049197,Mozambique,Chiculecule,2,1
+icr049198,Mozambique,Chiculecule,2,1
+icr049217,Mozambique,Chiculecule,3,1
+icr049218,Mozambique,Chiculecule,3,1
+icr049237,Mozambique,Chiculecule,4,1
+icr049238,Mozambique,Chiculecule,4,1
+icr049257,Mozambique,Chiculecule,5,1
+icr049258,Mozambique,Chiculecule,5,1
+icr049277,Mozambique,Chiculecule,6,1
+icr049278,Mozambique,Chiculecule,6,1
+icr049297,Mozambique,Chiculecule,7,1
+icr049298,Mozambique,Chiculecule,7,1
+icr049317,Mozambique,Chiculecule,8,1
+icr049318,Mozambique,Chiculecule,8,1
+icr049337,Mozambique,Chiculecule,9,1
+icr049338,Mozambique,Chiculecule,9,1
+icr049357,Mozambique,Chiculecule,10,1
+icr049358,Mozambique,Chiculecule,10,1
+icr049377,Mozambique,Chiculecule,11,1
+icr049378,Mozambique,Chiculecule,11,1
+icr049397,Mozambique,Chiculecule,12,1
+icr049398,Mozambique,Chiculecule,12,1
+icr049417,Mozambique,Chiculecule,13,1
+icr049418,Mozambique,Chiculecule,13,1
+icr049437,Mozambique,Chiculecule,14,1
+icr049438,Mozambique,Chiculecule,14,1
+icr049457,Mozambique,Chiculecule,15,1
+icr049458,Mozambique,Chiculecule,15,1
+icr049477,Mozambique,Chiculecule,16,1
+icr049478,Mozambique,Chiculecule,16,1
+icr049496,Mozambique,Ihassunge,1,1
+icr049497,Mozambique,Ihassunge,1,1
+icr049516,Mozambique,Ihassunge,2,1
+icr049517,Mozambique,Ihassunge,2,1
+icr049536,Mozambique,Ihassunge,3,2
+icr049537,Mozambique,Ihassunge,3,2
+icr049556,Mozambique,Ihassunge,4,1
+icr049557,Mozambique,Ihassunge,4,1
+icr049576,Mozambique,Ihassunge,5,2
+icr049577,Mozambique,Ihassunge,5,2
+icr049596,Mozambique,Ihassunge,6,1
+icr049597,Mozambique,Ihassunge,6,1
+icr049616,Mozambique,Ihassunge,7,1
+icr049617,Mozambique,Ihassunge,7,1
+icr049635,Mozambique,Ihassunge,8,1
+icr049636,Mozambique,Ihassunge,8,1
+icr049655,Mozambique,Ihassunge,9,2
+icr049656,Mozambique,Ihassunge,9,2
+icr049675,Mozambique,Ihassunge,10,1
+icr049676,Mozambique,Ihassunge,10,1
+icr049695,Mozambique,Ihassunge,11,1
+icr049696,Mozambique,Ihassunge,11,1
+icr049715,Mozambique,Ihassunge,12,1
+icr049716,Mozambique,Ihassunge,12,1
+icr049735,Mozambique,Ihassunge,13,1
+icr049736,Mozambique,Ihassunge,13,1
+icr049755,Mozambique,Ihassunge,14,1
+icr049756,Mozambique,Ihassunge,14,1
+icr049775,Mozambique,Ihassunge,15,1
+icr049776,Mozambique,Ihassunge,15,1
+icr049795,Mozambique,Ihassunge,16,1
+icr049796,Mozambique,Ihassunge,16,1
+icr049815,Mozambique,Massuque,1,1
+icr049816,Mozambique,Massuque,1,1
+icr049835,Mozambique,Massuque,2,1
+icr049836,Mozambique,Massuque,2,1
+icr049855,Mozambique,Massuque,3,1
+icr049856,Mozambique,Massuque,3,1
+icr049875,Mozambique,Massuque,4,1
+icr049876,Mozambique,Massuque,4,1
+icr049894,Mozambique,Massuque,5,1
+icr049895,Mozambique,Massuque,5,1
+icr049914,Mozambique,Massuque,6,1
+icr049915,Mozambique,Massuque,6,1
+icr049934,Mozambique,Massuque,7,1
+icr049935,Mozambique,Massuque,7,1
+icr049954,Mozambique,Massuque,8,1
+icr049955,Mozambique,Massuque,8,1
+icr049974,Mozambique,Massuque,9,1
+icr049975,Mozambique,Massuque,9,1
+icr049994,Mozambique,Massuque,10,1
+icr049995,Mozambique,Massuque,10,1
+icr050014,Mozambique,Massuque,11,1
+icr050015,Mozambique,Massuque,11,1
+icr050034,Mozambique,Massuque,12,1
+icr050035,Mozambique,Massuque,12,1
+icr050054,Mozambique,Massuque,13,1
+icr050055,Mozambique,Massuque,13,1
+icr050074,Mozambique,Massuque,14,1
+icr050075,Mozambique,Massuque,14,1
+icr050094,Mozambique,Massuque,15,1
+icr050095,Mozambique,Massuque,15,1
+icr050114,Mozambique,Massuque,16,1
+icr050115,Mozambique,Massuque,16,1
+icr050134,Mozambique,Martinho,1,1
+icr050135,Mozambique,Martinho,1,1
+icr050154,Mozambique,Martinho,2,1
+icr050155,Mozambique,Martinho,2,1
+icr050174,Mozambique,Martinho,3,1
+icr050175,Mozambique,Martinho,3,1
+icr050194,Mozambique,Martinho,4,1
+icr050195,Mozambique,Martinho,4,1
+icr050214,Mozambique,Martinho,5,1
+icr050215,Mozambique,Martinho,5,1
+icr050234,Mozambique,Martinho,6,1
+icr050235,Mozambique,Martinho,6,1
+icr050254,Mozambique,Martinho,7,1
+icr050255,Mozambique,Martinho,7,1
+icr050274,Mozambique,Martinho,8,1
+icr050275,Mozambique,Martinho,8,1
+icr050294,Mozambique,Martinho,9,1
+icr050295,Mozambique,Martinho,9,1
+icr050314,Mozambique,Martinho,10,1
+icr050315,Mozambique,Martinho,10,1
+icr050334,Mozambique,Martinho,11,1
+icr050335,Mozambique,Martinho,11,1
+icr050354,Mozambique,Martinho,12,1
+icr050355,Mozambique,Martinho,12,1
+icr050374,Mozambique,Martinho,13,1
+icr050375,Mozambique,Martinho,13,1
+icr050394,Mozambique,Martinho,14,1
+icr050395,Mozambique,Martinho,14,1
+icr050414,Mozambique,Martinho,15,1
+icr050415,Mozambique,Martinho,15,1
+icr050434,Mozambique,Martinho,16,1
+icr050435,Mozambique,Martinho,16,1
+icr054165,Uganda,Namasuba,1,1
+icr054166,Uganda,Namasuba,1,1
+icr054183,Uganda,Namasuba,2,1
+icr054184,Uganda,Namasuba,2,1
+icr054201,Uganda,Namasuba,3,1
+icr054202,Uganda,Namasuba,3,1
+icr054220,Uganda,Namasuba,4,1
+icr054221,Uganda,Namasuba,4,1
+icr054238,Uganda,Namasuba,5,1
+icr054239,Uganda,Namasuba,5,1
+icr054258,Uganda,Namasuba,6,1
+icr054259,Uganda,Namasuba,6,1
+icr054277,Uganda,Namasuba,7,1
+icr054278,Uganda,Namasuba,7,1
+icr054293,Uganda,Namasuba,8,1
+icr054294,Uganda,Namasuba,8,1
+icr054313,Uganda,Namasuba,9,1
+icr054314,Uganda,Namasuba,9,1
+icr054333,Uganda,Namasuba,10,4
+icr054334,Uganda,Namasuba,10,4
+icr054344,Uganda,Namasuba,11,1
+icr054345,Uganda,Namasuba,11,1
+icr054360,Uganda,Namasuba,12,1
+icr054361,Uganda,Namasuba,12,1
+icr054374,Uganda,Namasuba,13,3
+icr054375,Uganda,Namasuba,13,3
+icr054387,Uganda,Namasuba,14,1
+icr054388,Uganda,Namasuba,14,1
+icr054410,Uganda,Namasuba,15,5
+icr054411,Uganda,Namasuba,15,5
+icr054418,Uganda,Namasuba,16,1
+icr054419,Uganda,Namasuba,16,1
+icr054437,Uganda,Hoima,1,1
+icr054438,Uganda,Hoima,1,1
+icr054456,Uganda,Hoima,2,2
+icr054457,Uganda,Hoima,2,2
+icr054469,Uganda,Hoima,3,1
+icr054470,Uganda,Hoima,3,1
+icr054482,Uganda,Hoima,4,1
+icr054483,Uganda,Hoima,4,1
+icr054504,Uganda,Hoima,5,3
+icr054505,Uganda,Hoima,5,3
+icr054515,Uganda,Hoima,6,1
+icr054516,Uganda,Hoima,6,1
+icr054529,Uganda,Hoima,7,1
+icr054530,Uganda,Hoima,7,1
+icr054550,Uganda,Hoima,8,5
+icr054551,Uganda,Hoima,8,5
+icr054564,Uganda,Hoima,9,1
+icr054565,Uganda,Hoima,9,1
+icr054585,Uganda,Hoima,10,2
+icr054586,Uganda,Hoima,10,2
+icr054606,Uganda,Hoima,11,6
+icr054607,Uganda,Hoima,11,6
+icr054618,Uganda,Hoima,12,1
+icr054619,Uganda,Hoima,12,1
+icr054641,Uganda,Hoima,13,3
+icr054642,Uganda,Hoima,13,3
+icr054656,Uganda,Hoima,14,1
+icr054657,Uganda,Hoima,14,1
+icr054676,Uganda,Hoima,15,1
+icr054677,Uganda,Hoima,15,1
+icr054697,Uganda,Hoima,16,2
+icr054698,Uganda,Hoima,16,2
+icr055563,Zambia,Chilende,1,1
+icr055564,Zambia,Chilende,1,1
+icr055583,Zambia,Chilende,2,1
+icr055584,Zambia,Chilende,2,1
+icr055603,Zambia,Chilende,3,1
+icr055604,Zambia,Chilende,3,1
+icr055623,Zambia,Chilende,4,1
+icr055624,Zambia,Chilende,4,1
+icr055643,Zambia,Chilende,5,1
+icr055663,Zambia,Chilende,6,1
+icr055664,Zambia,Chilende,6,1
+icr055683,Zambia,Chilende,7,1
+icr055684,Zambia,Chilende,7,1
+icr055703,Zambia,Chilende,8,1
+icr055704,Zambia,Chilende,8,1
+icr055723,Zambia,Chilende,9,1
+icr055724,Zambia,Chilende,9,1
+icr055742,Zambia,Chilende,10,1
+icr055743,Zambia,Chilende,10,1
+icr055762,Zambia,Chilende,11,1
+icr055763,Zambia,Chilende,11,1
+icr055782,Zambia,Chilende,12,1
+icr055783,Zambia,Chilende,12,1
+icr055802,Zambia,Chilende,13,1
+icr055803,Zambia,Chilende,13,1
+icr055822,Zambia,Chilende,14,1
+icr055823,Zambia,Chilende,14,1
+icr055842,Zambia,Chilende,15,1
+icr055862,Zambia,Chilende,16,1
+icr055863,Zambia,Chilende,16,1
+icr055882,Zambia,Fisenge,1,1
+icr055883,Zambia,Fisenge,1,1
+icr055902,Zambia,Fisenge,2,1
+icr055903,Zambia,Fisenge,2,1
+icr055922,Zambia,Fisenge,3,2
+icr055923,Zambia,Fisenge,3,2
+icr055941,Zambia,Fisenge,4,1
+icr055942,Zambia,Fisenge,4,1
+icr055961,Zambia,Fisenge,5,1
+icr055962,Zambia,Fisenge,5,1
+icr055981,Zambia,Fisenge,6,1
+icr055982,Zambia,Fisenge,6,1
+icr056001,Zambia,Fisenge,7,2
+icr056002,Zambia,Fisenge,7,2
+icr056021,Zambia,Fisenge,8,1
+icr056022,Zambia,Fisenge,8,1
+icr056041,Zambia,Fisenge,9,1
+icr056042,Zambia,Fisenge,9,1
+icr056061,Zambia,Fisenge,10,1
+icr056062,Zambia,Fisenge,10,1
+icr056082,Zambia,Fisenge,11,1
+icr056101,Zambia,Fisenge,12,2
+icr056102,Zambia,Fisenge,12,2
+icr056121,Zambia,Fisenge,13,1
+icr056122,Zambia,Fisenge,13,1
+icr056141,Zambia,Fisenge,14,1
+icr056142,Zambia,Fisenge,14,1
+icr056161,Zambia,Fisenge,15,1
+icr056162,Zambia,Fisenge,15,1
+icr056181,Zambia,Fisenge,16,1
+icr056182,Zambia,Fisenge,16,1
+icr056200,Zambia,Monga,1,1
+icr056201,Zambia,Monga,1,1
+icr056220,Zambia,Monga,2,1
+icr056221,Zambia,Monga,2,1
+icr056240,Zambia,Monga,3,1
+icr056241,Zambia,Monga,3,1
+icr056260,Zambia,Monga,4,1
+icr056261,Zambia,Monga,4,1
+icr056280,Zambia,Monga,5,2
+icr056281,Zambia,Monga,5,2
+icr056300,Zambia,Monga,6,1
+icr056301,Zambia,Monga,6,1
+icr056320,Zambia,Monga,7,1
+icr056321,Zambia,Monga,7,1
+icr056340,Zambia,Monga,8,1
+icr056341,Zambia,Monga,8,1
+icr056360,Zambia,Monga,9,1
+icr056361,Zambia,Monga,9,1
+icr056380,Zambia,Monga,10,2
+icr056381,Zambia,Monga,10,2
+icr056400,Zambia,Monga,11,1
+icr056401,Zambia,Monga,11,1
+icr056420,Zambia,Monga,12,1
+icr056421,Zambia,Monga,12,1
+icr056440,Zambia,Monga,13,1
+icr056441,Zambia,Monga,13,1
+icr056460,Zambia,Monga,14,1
+icr056461,Zambia,Monga,14,1
+icr056480,Zambia,Monga,15,1
+icr056481,Zambia,Monga,15,1
+icr056500,Zambia,Monga,16,1
+icr056501,Zambia,Monga,16,1
+icr062134,Madagascar,Didy,1,1
+icr062135,Madagascar,Didy,1,1
+icr062155,Madagascar,Didy,2,1
+icr062156,Madagascar,Didy,2,1
+icr062175,Madagascar,Didy,3,1
+icr062176,Madagascar,Didy,3,1
+icr062195,Madagascar,Didy,4,1
+icr062196,Madagascar,Didy,4,1
+icr062215,Madagascar,Didy,5,1
+icr062216,Madagascar,Didy,5,1
+icr062237,Madagascar,Didy,6,2
+icr062238,Madagascar,Didy,6,2
+icr062255,Madagascar,Didy,7,1
+icr062256,Madagascar,Didy,7,1
+icr062275,Madagascar,Didy,8,1
+icr062276,Madagascar,Didy,8,1
+icr062294,Madagascar,Didy,9,1
+icr062295,Madagascar,Didy,9,1
+icr062314,Madagascar,Didy,10,1
+icr062315,Madagascar,Didy,10,1
+icr062334,Madagascar,Didy,11,1
+icr062335,Madagascar,Didy,11,1
+icr062353,Madagascar,Didy,12,1
+icr062354,Madagascar,Didy,12,1
+icr062373,Madagascar,Didy,13,1
+icr062374,Madagascar,Didy,13,1
+icr062395,Madagascar,Didy,14,2
+icr062396,Madagascar,Didy,14,2
+icr062413,Madagascar,Didy,15,1
+icr062414,Madagascar,Didy,15,1
+icr062433,Madagascar,Didy,16,1
+icr062434,Madagascar,Didy,16,1
+icr068101,Niger,Nyalagari,1,2
+icr068102,Niger,Nyalagari,1,2
+icr068131,Niger,Nyalagari,2,7
+icr068132,Niger,Nyalagari,2,7
+icr068149,Niger,Nyalagari,3,6
+icr068150,Niger,Nyalagari,3,6
+icr068161,Niger,Nyalagari,4,2
+icr068162,Niger,Nyalagari,4,2
+icr068181,Niger,Nyalagari,5,2
+icr068182,Niger,Nyalagari,5,2
+icr068199,Niger,Nyalagari,6,1
+icr068200,Niger,Nyalagari,6,1
+icr068221,Niger,Nyalagari,7,2
+icr068222,Niger,Nyalagari,7,2
+icr068239,Niger,Nyalagari,8,1
+icr068240,Niger,Nyalagari,8,1
+icr068265,Niger,Nyalagari,9,4
+icr068266,Niger,Nyalagari,9,4
+icr068279,Niger,Nyalagari,10,1
+icr068280,Niger,Nyalagari,10,1
+icr068301,Niger,Nyalagari,11,2
+icr068302,Niger,Nyalagari,11,2
+icr068321,Niger,Nyalagari,12,2
+icr068322,Niger,Nyalagari,12,2
+icr068339,Niger,Nyalagari,13,1
+icr068340,Niger,Nyalagari,13,1
+icr068361,Niger,Nyalagari,14,2
+icr068362,Niger,Nyalagari,14,2
+icr068381,Niger,Nyalagari,15,2
+icr068382,Niger,Nyalagari,15,2
+icr068399,Niger,Nyalagari,16,1
+icr068400,Niger,Nyalagari,16,1
+icr068419,Nigeria,Pampaida,1,3
+icr068420,Nigeria,Pampaida,1,3
+icr068439,Nigeria,Pampaida,2,1
+icr068440,Nigeria,Pampaida,2,1
+icr068459,Nigeria,Pampaida,3,1
+icr068460,Nigeria,Pampaida,3,1
+icr068481,Nigeria,Pampaida,4,2
+icr068482,Nigeria,Pampaida,4,2
+icr068499,Nigeria,Pampaida,5,1
+icr068500,Nigeria,Pampaida,5,1
+icr068521,Nigeria,Pampaida,6,2
+icr068522,Nigeria,Pampaida,6,2
+icr068539,Nigeria,Pampaida,7,1
+icr068540,Nigeria,Pampaida,7,1
+icr068559,Nigeria,Pampaida,8,1
+icr068560,Nigeria,Pampaida,8,1
+icr068579,Nigeria,Pampaida,9,1
+icr068580,Nigeria,Pampaida,9,1
+icr068599,Nigeria,Pampaida,10,1
+icr068600,Nigeria,Pampaida,10,1
+icr068619,Nigeria,Pampaida,11,1
+icr068639,Nigeria,Pampaida,12,1
+icr068640,Nigeria,Pampaida,12,1
+icr068662,Nigeria,Pampaida,13,4
+icr068663,Nigeria,Pampaida,13,4
+icr068677,Nigeria,Pampaida,14,1
+icr068678,Nigeria,Pampaida,14,1
+icr068697,Nigeria,Pampaida,15,1
+icr068698,Nigeria,Pampaida,15,1
+icr068717,Nigeria,Pampaida,16,1
+icr068718,Nigeria,Pampaida,16,1
+icr069789,Mali,Tambabougou,1,1
+icr069790,Mali,Tambabougou,1,1
+icr069809,Mali,Tambabougou,2,1
+icr069810,Mali,Tambabougou,2,1
+icr069829,Mali,Tambabougou,3,1
+icr069830,Mali,Tambabougou,3,1
+icr069849,Mali,Tambabougou,4,1
+icr069850,Mali,Tambabougou,4,1
+icr069869,Mali,Tambabougou,5,1
+icr069870,Mali,Tambabougou,5,1
+icr069889,Mali,Tambabougou,6,1
+icr069890,Mali,Tambabougou,6,1
+icr069909,Mali,Tambabougou,7,1
+icr069910,Mali,Tambabougou,7,1
+icr069929,Mali,Tambabougou,8,1
+icr069930,Mali,Tambabougou,8,1
+icr069949,Mali,Tambabougou,9,1
+icr069950,Mali,Tambabougou,9,1
+icr069969,Mali,Tambabougou,10,1
+icr069970,Mali,Tambabougou,10,1
+icr069989,Mali,Tambabougou,11,1
+icr069990,Mali,Tambabougou,11,1
+icr070009,Mali,Tambabougou,12,1
+icr070010,Mali,Tambabougou,12,1
+icr070029,Mali,Tambabougou,13,1
+icr070030,Mali,Tambabougou,13,1
+icr070049,Mali,Tambabougou,14,1
+icr070050,Mali,Tambabougou,14,1
+icr070069,Mali,Tambabougou,15,1
+icr070070,Mali,Tambabougou,15,1
+icr070089,Mali,Tambabougou,16,2
+icr070090,Mali,Tambabougou,16,2
+icr070112,Nigeria,Kutigi,1,4
+icr070113,Nigeria,Kutigi,1,4
+icr070124,Nigeria,Kutigi,2,2
+icr070125,Nigeria,Kutigi,2,2
+icr070142,Nigeria,Kutigi,3,1
+icr070143,Nigeria,Kutigi,3,1
+icr070164,Nigeria,Kutigi,4,2
+icr070165,Nigeria,Kutigi,4,2
+icr070193,Nigeria,Kutigi,5,8
+icr070194,Nigeria,Kutigi,5,8
+icr070202,Nigeria,Kutigi,6,4
+icr070203,Nigeria,Kutigi,6,4
+icr070246,Nigeria,Kutigi,8,6
+icr070247,Nigeria,Kutigi,8,6
+icr070262,Nigeria,Kutigi,9,4
+icr070263,Nigeria,Kutigi,9,4
+icr070276,Nigeria,Kutigi,10,1
+icr070277,Nigeria,Kutigi,10,1
+icr070288,Nigeria,Kutigi,11,1
+icr070289,Nigeria,Kutigi,11,1
+icr070308,Nigeria,Kutigi,12,1
+icr070309,Nigeria,Kutigi,12,1
+icr070328,Nigeria,Kutigi,13,1
+icr070329,Nigeria,Kutigi,13,1
+icr070348,Nigeria,Kutigi,14,1
+icr070349,Nigeria,Kutigi,14,1
+icr070370,Nigeria,Kutigi,15,3
+icr070371,Nigeria,Kutigi,15,3
+icr070386,Nigeria,Kutigi,16,1
+icr070387,Nigeria,Kutigi,16,2
+icr072246,Angola,Sanza Pompo,1,1
+icr072247,Angola,Sanza Pompo,1,1
+icr072266,Angola,Sanza Pompo,2,1
+icr072267,Angola,Sanza Pompo,2,1
+icr072286,Angola,Sanza Pompo,3,1
+icr072287,Angola,Sanza Pompo,3,1
+icr072306,Angola,Sanza Pompo,4,1
+icr072307,Angola,Sanza Pompo,4,1
+icr072325,Angola,Sanza Pompo,4,10
+icr072326,Angola,Sanza Pompo,5,1
+icr072345,Angola,Sanza Pompo,6,1
+icr072346,Angola,Sanza Pompo,6,1
+icr072365,Angola,Sanza Pompo,7,1
+icr072366,Angola,Sanza Pompo,7,1
+icr072385,Angola,Sanza Pompo,8,1
+icr072386,Angola,Sanza Pompo,8,1
+icr072405,Angola,Sanza Pompo,9,1
+icr072406,Angola,Sanza Pompo,9,1
+icr072425,Angola,Sanza Pompo,10,1
+icr072426,Angola,Sanza Pompo,10,1
+icr072445,Angola,Sanza Pompo,11,1
+icr072446,Angola,Sanza Pompo,11,1
+icr072465,Angola,Sanza Pompo,12,1
+icr072466,Angola,Sanza Pompo,12,1
+icr072485,Angola,Sanza Pompo,13,1
+icr072486,Angola,Sanza Pompo,13,1
+icr072505,Angola,Sanza Pompo,14,1
+icr072506,Angola,Sanza Pompo,14,1
+icr072525,Angola,Sanza Pompo,15,1
+icr072526,Angola,Sanza Pompo,15,1
+icr072544,Angola,Sanza Pompo,16,2
+icr072545,Angola,Sanza Pompo,16,2
+icr072596,Angola,Mucope,1,1
+icr072597,Angola,Mucope,1,1
+icr072616,Angola,Mucope,2,1
+icr072617,Angola,Mucope,2,1
+icr072636,Angola,Mucope,3,1
+icr072637,Angola,Mucope,3,1
+icr072656,Angola,Mucope,4,1
+icr072657,Angola,Mucope,4,1
+icr072676,Angola,Mucope,5,1
+icr072677,Angola,Mucope,5,1
+icr072696,Angola,Mucope,6,1
+icr072697,Angola,Mucope,6,1
+icr072716,Angola,Mucope,7,1
+icr072717,Angola,Mucope,7,1
+icr072736,Angola,Mucope,8,1
+icr072737,Angola,Mucope,8,1
+icr072756,Angola,Mucope,9,1
+icr072757,Angola,Mucope,9,1
+icr072776,Angola,Mucope,10,1
+icr072777,Angola,Mucope,10,1
+icr072796,Angola,Mucope,11,1
+icr072797,Angola,Mucope,11,1
+icr072816,Angola,Mucope,12,1
+icr072817,Angola,Mucope,12,1
+icr072836,Angola,Mucope,13,1
+icr072837,Angola,Mucope,13,1
+icr072856,Angola,Mucope,14,1
+icr072857,Angola,Mucope,14,1
+icr072876,Angola,Mucope,15,1
+icr072877,Angola,Mucope,15,1
+icr072896,Angola,Mucope,16,1
+icr072897,Angola,Mucope,16,1
+icr072948,Angola,Bimbe,1,2
+icr072949,Angola,Bimbe,1,2
+icr072968,Angola,Bimbe,2,1
+icr072969,Angola,Bimbe,2,1
+icr072988,Angola,Bimbe,3,1
+icr072989,Angola,Bimbe,3,1
+icr073008,Angola,Bimbe,4,1
+icr073009,Angola,Bimbe,4,1
+icr073028,Angola,Bimbe,5,1
+icr073029,Angola,Bimbe,5,1
+icr073048,Angola,Bimbe,6,1
+icr073049,Angola,Bimbe,6,1
+icr073068,Angola,Bimbe,7,1
+icr073069,Angola,Bimbe,7,1
+icr073088,Angola,Bimbe,8,1
+icr073089,Angola,Bimbe,8,1
+icr073128,Angola,Bimbe,10,1
+icr073129,Angola,Bimbe,10,1
+icr073148,Angola,Bimbe,11,1
+icr073149,Angola,Bimbe,11,1
+icr073168,Angola,Bimbe,12,1
+icr073169,Angola,Bimbe,12,1
+icr073188,Angola,Bimbe,13,1
+icr073189,Angola,Bimbe,13,1
+icr073208,Angola,Bimbe,14,1
+icr073209,Angola,Bimbe,14,1
+icr073228,Angola,Bimbe,15,1
+icr073229,Angola,Bimbe,15,1
+icr073248,Angola,Bimbe,16,1
+icr073249,Angola,Bimbe,16,1
+icr073300,Angola,Luimbale,1,1
+icr073301,Angola,Luimbale,1,1
+icr073320,Angola,Luimbale,2,1
+icr073321,Angola,Luimbale,2,1
+icr073340,Angola,Luimbale,3,1
+icr073341,Angola,Luimbale,3,1
+icr073361,Angola,Luimbale,4,2
+icr073362,Angola,Luimbale,4,2
+icr073379,Angola,Luimbale,5,1
+icr073380,Angola,Luimbale,5,1
+icr073399,Angola,Luimbale,6,1
+icr073400,Angola,Luimbale,6,1
+icr073419,Angola,Luimbale,7,1
+icr073420,Angola,Luimbale,7,1
+icr073439,Angola,Luimbale,8,1
+icr073440,Angola,Luimbale,8,1
+icr073459,Angola,Luimbale,9,2
+icr073460,Angola,Luimbale,9,2
+icr073479,Angola,Luimbale,10,1
+icr073480,Angola,Luimbale,10,1
+icr073499,Angola,Luimbale,11,1
+icr073500,Angola,Luimbale,11,1
+icr073519,Angola,Luimbale,12,1
+icr073520,Angola,Luimbale,12,1
+icr073539,Angola,Luimbale,13,1
+icr073540,Angola,Luimbale,13,1
+icr073558,Angola,Luimbale,14,1
+icr073559,Angola,Luimbale,14,1
+icr073578,Angola,Luimbale,15,1
+icr073579,Angola,Luimbale,15,1
+icr073598,Angola,Luimbale,16,1
+icr073599,Angola,Luimbale,16,1
+icr073649,Zimbabwe,Kenilworth,1,1
+icr073650,Zimbabwe,Kenilworth,1,1
+icr073670,Zimbabwe,Kenilworth,2,2
+icr073671,Zimbabwe,Kenilworth,2,2
+icr073686,Zimbabwe,Kenilworth,3,1
+icr073687,Zimbabwe,Kenilworth,3,1
+icr073703,Zimbabwe,Kenilworth,4,1
+icr073704,Zimbabwe,Kenilworth,4,1
+icr073723,Zimbabwe,Kenilworth,5,1
+icr073724,Zimbabwe,Kenilworth,5,1
+icr073743,Zimbabwe,Kenilworth,6,1
+icr073744,Zimbabwe,Kenilworth,6,1
+icr073762,Zimbabwe,Kenilworth,7,1
+icr073763,Zimbabwe,Kenilworth,7,1
+icr073799,Zimbabwe,Kenilworth,9,1
+icr073800,Zimbabwe,Kenilworth,9,1
+icr073819,Zimbabwe,Kenilworth,10,1
+icr073839,Zimbabwe,Kenilworth,11,1
+icr073840,Zimbabwe,Kenilworth,11,1
+icr073857,Zimbabwe,Kenilworth,12,1
+icr073858,Zimbabwe,Kenilworth,12,1
+icr073877,Zimbabwe,Kenilworth,13,1
+icr073878,Zimbabwe,Kenilworth,13,1
+icr073897,Zimbabwe,Kenilworth,14,1
+icr073898,Zimbabwe,Kenilworth,14,1
+icr073917,Zimbabwe,Kenilworth,15,1
+icr073918,Zimbabwe,Kenilworth,15,1
+icr073937,Zimbabwe,Kenilworth,16,1
+icr073938,Zimbabwe,Kenilworth,16,1
+icr073988,Zimbabwe,Gambisa,1,2
+icr073989,Zimbabwe,Gambisa,1,2
+icr074002,Zimbabwe,Gambisa,2,1
+icr074003,Zimbabwe,Gambisa,2,1
+icr074018,Zimbabwe,Gambisa,3,1
+icr074019,Zimbabwe,Gambisa,3,1
+icr074030,Zimbabwe,Gambisa,4,1
+icr074031,Zimbabwe,Gambisa,4,1
+icr074045,Zimbabwe,Gambisa,5,1
+icr074046,Zimbabwe,Gambisa,5,1
+icr074062,Zimbabwe,Gambisa,6,1
+icr074063,Zimbabwe,Gambisa,6,1
+icr074082,Zimbabwe,Gambisa,7,1
+icr074083,Zimbabwe,Gambisa,7,1
+icr074102,Zimbabwe,Gambisa,8,1
+icr074103,Zimbabwe,Gambisa,8,1
+icr074122,Zimbabwe,Gambisa,9,1
+icr074123,Zimbabwe,Gambisa,9,1
+icr074140,Zimbabwe,Gambisa,10,1
+icr074141,Zimbabwe,Gambisa,10,1
+icr074159,Zimbabwe,Gambisa,11,1
+icr074160,Zimbabwe,Gambisa,11,1
+icr074175,Zimbabwe,Gambisa,12,1
+icr074176,Zimbabwe,Gambisa,12,1
+icr074193,Zimbabwe,Gambisa,13,2
+icr074194,Zimbabwe,Gambisa,13,2
+icr074211,Zimbabwe,Gambisa,14,1
+icr074212,Zimbabwe,Gambisa,14,1
+icr074231,Zimbabwe,Gambisa,15,1
+icr074232,Zimbabwe,Gambisa,15,1
+icr074248,Zimbabwe,Gambisa,16,1
+icr074249,Zimbabwe,Gambisa,16,1
+icr074298,Botswana,Paje,1,1
+icr074299,Botswana,Paje,1,1
+icr074318,Botswana,Paje,2,1
+icr074319,Botswana,Paje,2,1
+icr074336,Botswana,Paje,3,1
+icr074337,Botswana,Paje,3,1
+icr074356,Botswana,Paje,4,1
+icr074357,Botswana,Paje,4,1
+icr074376,Botswana,Paje,5,1
+icr074377,Botswana,Paje,5,1
+icr074396,Botswana,Paje,6,1
+icr074397,Botswana,Paje,6,1
+icr074413,Botswana,Paje,7,1
+icr074414,Botswana,Paje,7,1
+icr074433,Botswana,Paje,8,1
+icr074434,Botswana,Paje,8,1
+icr074454,Botswana,Paje,9,2
+icr074455,Botswana,Paje,9,2
+icr074470,Botswana,Paje,10,1
+icr074471,Botswana,Paje,10,1
+icr074489,Botswana,Paje,11,1
+icr074490,Botswana,Paje,11,1
+icr074509,Botswana,Paje,12,1
+icr074510,Botswana,Paje,12,1
+icr074529,Botswana,Paje,13,1
+icr074530,Botswana,Paje,13,1
+icr074544,Botswana,Paje,14,1
+icr074545,Botswana,Paje,14,1
+icr074560,Botswana,Paje,15,1
+icr074561,Botswana,Paje,15,1
+icr074580,Botswana,Paje,16,1
+icr074581,Botswana,Paje,16,1
+icr074631,Botswana,Gumare,1,1
+icr074632,Botswana,Gumare,1,1
+icr074651,Botswana,Gumare,2,1
+icr074652,Botswana,Gumare,2,1
+icr074671,Botswana,Gumare,3,1
+icr074672,Botswana,Gumare,3,1
+icr074691,Botswana,Gumare,4,1
+icr074692,Botswana,Gumare,4,1
+icr074711,Botswana,Gumare,5,1
+icr074712,Botswana,Gumare,5,1
+icr074731,Botswana,Gumare,6,1
+icr074732,Botswana,Gumare,6,1
+icr074751,Botswana,Gumare,7,1
+icr074752,Botswana,Gumare,7,1
+icr074771,Botswana,Gumare,8,1
+icr074772,Botswana,Gumare,8,1
+icr074791,Botswana,Gumare,9,1
+icr074792,Botswana,Gumare,9,1
+icr074811,Botswana,Gumare,10,1
+icr074812,Botswana,Gumare,10,1
+icr074831,Botswana,Gumare,11,1
+icr074832,Botswana,Gumare,11,1
+icr074851,Botswana,Gumare,12,1
+icr074852,Botswana,Gumare,12,1
+icr074871,Botswana,Gumare,13,1
+icr074872,Botswana,Gumare,13,1
+icr074891,Botswana,Gumare,14,1
+icr074911,Botswana,Gumare,15,1
+icr074912,Botswana,Gumare,15,1
+icr074931,Botswana,Gumare,16,1
+icr074932,Botswana,Gumare,16,1
+icr074983,Botswana,Shoshong,1,1
+icr074984,Botswana,Shoshong,1,1
+icr075003,Botswana,Shoshong,2,1
+icr075004,Botswana,Shoshong,2,1
+icr075023,Botswana,Shoshong,3,1
+icr075024,Botswana,Shoshong,3,1
+icr075043,Botswana,Shoshong,4,1
+icr075044,Botswana,Shoshong,4,1
+icr075063,Botswana,Shoshong,5,1
+icr075064,Botswana,Shoshong,5,1
+icr075083,Botswana,Shoshong,6,1
+icr075084,Botswana,Shoshong,6,1
+icr075103,Botswana,Shoshong,7,1
+icr075104,Botswana,Shoshong,7,1
+icr075123,Botswana,Shoshong,8,1
+icr075124,Botswana,Shoshong,8,1
+icr075143,Botswana,Shoshong,9,1
+icr075144,Botswana,Shoshong,9,1
+icr075163,Botswana,Shoshong,10,1
+icr075164,Botswana,Shoshong,10,1
+icr075183,Botswana,Shoshong,11,1
+icr075184,Botswana,Shoshong,11,1
+icr075203,Botswana,Shoshong,12,1
+icr075204,Botswana,Shoshong,12,1
+icr075224,Botswana,Shoshong,13,2
+icr075225,Botswana,Shoshong,13,2
+icr075240,Botswana,Shoshong,14,1
+icr075241,Botswana,Shoshong,14,1
+icr075260,Botswana,Shoshong,15,1
+icr075261,Botswana,Shoshong,15,1
+icr075280,Botswana,Shoshong,16,1
+icr075281,Botswana,Shoshong,16,1
+icr075331,Zimbabwe,Chiqumbakwe,1,1
+icr075332,Zimbabwe,Chiqumbakwe,1,1
+icr075350,Zimbabwe,Chiqumbakwe,2,1
+icr075351,Zimbabwe,Chiqumbakwe,2,1
+icr075370,Zimbabwe,Chiqumbakwe,3,1
+icr075371,Zimbabwe,Chiqumbakwe,3,1
+icr075390,Zimbabwe,Chiqumbakwe,4,2
+icr075391,Zimbabwe,Chiqumbakwe,4,2
+icr075410,Zimbabwe,Chiqumbakwe,5,1
+icr075411,Zimbabwe,Chiqumbakwe,5,1
+icr075430,Zimbabwe,Chiqumbakwe,6,1
+icr075431,Zimbabwe,Chiqumbakwe,6,1
+icr075450,Zimbabwe,Chiqumbakwe,7,2
+icr075451,Zimbabwe,Chiqumbakwe,7,2
+icr075469,Zimbabwe,Chiqumbakwe,8,1
+icr075470,Zimbabwe,Chiqumbakwe,8,1
+icr075490,Zimbabwe,Chiqumbakwe,9,2
+icr075491,Zimbabwe,Chiqumbakwe,9,2
+icr075508,Zimbabwe,Chiqumbakwe,10,1
+icr075509,Zimbabwe,Chiqumbakwe,10,1
+icr075528,Zimbabwe,Chiqumbakwe,11,1
+icr075529,Zimbabwe,Chiqumbakwe,11,1
+icr075548,Zimbabwe,Chiqumbakwe,12,1
+icr075549,Zimbabwe,Chiqumbakwe,12,1
+icr075567,Zimbabwe,Chiqumbakwe,13,1
+icr075568,Zimbabwe,Chiqumbakwe,13,1
+icr075587,Zimbabwe,Chiqumbakwe,14,1
+icr075588,Zimbabwe,Chiqumbakwe,14,1
+icr075607,Zimbabwe,Chiqumbakwe,15,1
+icr075608,Zimbabwe,Chiqumbakwe,15,1
+icr075626,Zimbabwe,Chiqumbakwe,16,1
+icr075627,Zimbabwe,Chiqumbakwe,16,1
+icr075676,Zambia,Musungwa,1,1
+icr075677,Zambia,Musungwa,1,1
+icr075696,Zambia,Musungwa,2,1
+icr075697,Zambia,Musungwa,2,1
+icr075716,Zambia,Musungwa,3,1
+icr075717,Zambia,Musungwa,3,1
+icr075736,Zambia,Musungwa,4,2
+icr075737,Zambia,Musungwa,4,2
+icr075756,Zambia,Musungwa,5,1
+icr075757,Zambia,Musungwa,5,1
+icr075776,Zambia,Musungwa,6,1
+icr075777,Zambia,Musungwa,6,1
+icr075796,Zambia,Musungwa,7,1
+icr075797,Zambia,Musungwa,7,1
+icr075816,Zambia,Musungwa,8,1
+icr075817,Zambia,Musungwa,8,1
+icr075836,Zambia,Musungwa,9,1
+icr075837,Zambia,Musungwa,9,1
+icr075856,Zambia,Musungwa,10,1
+icr075857,Zambia,Musungwa,10,1
+icr075876,Zambia,Musungwa,11,1
+icr075877,Zambia,Musungwa,11,1
+icr075896,Zambia,Musungwa,12,1
+icr075897,Zambia,Musungwa,12,1
+icr075916,Zambia,Musungwa,13,1
+icr075917,Zambia,Musungwa,13,1
+icr075936,Zambia,Musungwa,14,1
+icr075937,Zambia,Musungwa,14,1
+icr075957,Zambia,Musungwa,15,1
+icr075976,Zambia,Musungwa,16,1
+icr075977,Zambia,Musungwa,16,1
+icr076347,Madagascar,Analavory,1,2
+icr076348,Madagascar,Analavory,1,2
+icr076364,Madagascar,Analavory,2,1
+icr076365,Madagascar,Analavory,2,1
+icr076384,Madagascar,Analavory,3,1
+icr076385,Madagascar,Analavory,3,1
+icr076404,Madagascar,Analavory,4,1
+icr076405,Madagascar,Analavory,4,1
+icr076424,Madagascar,Analavory,5,1
+icr076425,Madagascar,Analavory,5,1
+icr076444,Madagascar,Analavory,6,1
+icr076445,Madagascar,Analavory,6,1
+icr076464,Madagascar,Analavory,7,1
+icr076465,Madagascar,Analavory,7,1
+icr076484,Madagascar,Analavory,8,1
+icr076485,Madagascar,Analavory,8,1
+icr076502,Madagascar,Analavory,9,1
+icr076503,Madagascar,Analavory,9,1
+icr076522,Madagascar,Analavory,10,1
+icr076523,Madagascar,Analavory,10,1
+icr076541,Madagascar,Analavory,11,1
+icr076542,Madagascar,Analavory,11,1
+icr076561,Madagascar,Analavory,12,1
+icr076562,Madagascar,Analavory,12,1
+icr076581,Madagascar,Analavory,13,1
+icr076582,Madagascar,Analavory,13,1
+icr076601,Madagascar,Analavory,14,1
+icr076602,Madagascar,Analavory,14,1
+icr076621,Madagascar,Analavory,15,1
+icr076622,Madagascar,Analavory,15,1
+icr076640,Madagascar,Analavory,16,1
+icr076641,Madagascar,Analavory,16,1
