@@ -11,4 +11,17 @@ Baert, Sebastian Dötterl and Johan Six
 
 This is a repository with codes and data, basing on the manuscript
 “Filling a key gap: a soil spectral library for central Africa”. The
-material within this repository helps to reproduce our optained results.
+material within this repository allows to reproduce our optained
+results.
+
+  - **R**: used R scripts
+  - **R/Rhelper**: used R functions
+  - **data/reference\_data**: reference data for the two soil spectral
+    libraries (SSL); our central African SSL called CSSL and the AfSIS
+    SSL
+  - **data/metadata**: metadata for the two soil spectral libraries
+    (SSL); our central African SSL called CSSL and the AfSIS SSL used
+    for the modeling
+  - **data/spectra\_data**: spectral data for the two soil spectral
+    libraries (SSL); our central African SSL called CSSL and the AfSIS
+    SSL
