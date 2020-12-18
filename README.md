@@ -1,4 +1,4 @@
-Filling a key gap: a soil spectral library for central Africa
+Filling a key gap: a soil infrared library for central Africa
 ================
 Laura Summerauer, Philipp Baumann, Leonardo Ramirez-Lopez, Matti
 Barthel, Marijn Bauters, Benjamin Bukombe, Mario Reichenbac, Pascal
