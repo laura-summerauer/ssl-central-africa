@@ -1,4 +1,4 @@
-Filling a key gap: a soil infrared library for central Africa
+Filling a key gap: a soil spectral library for central Africa
 ================
 Laura Summerauer, Philipp Baumann, Leonardo Ramirez-Lopez, Matti
 Barthel, Marijn Bauters, Benjamin Bukombe, Mario Reichenbac, Pascal
@@ -10,7 +10,7 @@ Baert, Sebastian Dötterl and Johan Six
 # Overview
 
 This is a repository with codes and data, basing on the manuscript
-“Filling a key gap: a soil spectral library for central Africa”. The
+“Filling a key gap: a soil infrared library for central Africa”. The
 material within this repository allows to reproduce our optained
 results.
 
