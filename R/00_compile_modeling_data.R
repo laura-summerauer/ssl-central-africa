@@ -34,7 +34,7 @@ cssl_ref <- read_csv("data/reference_data/cssl_refdata.csv") %>%
   arrange(sample_id)
 
 # metadata
-cssl_meta <- read_csv("data/field_metadata/cssl_metadata.csv") %>% 
+cssl_meta <- read_csv("data/field_metadata/cssl_metadata_all.csv") %>% 
   arrange(sample_id)
 
 # merge reference and metadata
@@ -42,6 +42,8 @@ cssl <- inner_join(cssl_meta, cssl_ref, by = "sample_id")
 
 # define a new data frame to merge all three datasets
 cssl$spc <- as.matrix(cssl_spec[,cssl_wavs])
+
+str(cssl)
 
 # save data
 qsave(cssl, "out/data/cssl.qs")
