@@ -1,11 +1,12 @@
-Filling a key gap: a soil spectral library for central Africa
+The Central African Soil Spectral Library: A new soil infrared
+repository and a geographical prediction analysis
 ================
 Laura Summerauer, Philipp Baumann, Leonardo Ramirez-Lopez, Matti
 Barthel, Marijn Bauters, Benjamin Bukombe, Mario Reichenbac, Pascal
 Boeckx, Elizabeth Kearsley, Kristof Van Oost, Bernard Vanlauwe,
 Dieudonné Chiragaga, Aimé Bisimwa Heri-Kazi, Pieter Moonen, Andrew
 Sila, Keith Shepherd, Basile Bazirake Mujinya, Eric Van Ranst, Geert
-Baert, Sebastian Dötterl and Johan Six
+Baert, Sebastian Doetterl and Johan Six
 
 # Overview
 
