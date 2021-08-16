@@ -16,16 +16,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This is a repository with codes and data, basing on the manuscript "The Central African Soil Spectral Library: A new soil infrared repository and a geographical prediction analysis". The material within this repository allows to reproduce our obtained results. 
 
-- **R**: used R scripts 
-- **R/Rhelper**: used R functions
-- **data/reference_data**: reference data for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL
-- **data/metadata**: metadata for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL used for the modeling
-- **data/spectra_data**: spectral data for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL
+* **R**: used R scripts 
+* **R/Rhelper**: used R functions
+* **data/reference_data**: reference data for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL
+* **data/metadata**: metadata for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL used for the modeling
+* **data/spectra_data**: spectral data for the two soil spectral libraries (SSL); our central African SSL called CSSL and the AfSIS SSL
 
 
 # Sample locations
 
-```{r echo = FALSE, message = FALSE, out.width='70%', fig.align='center', fig.cap= "Figure 1: Sample locations of the Central African Soil Spectral Library (CSSL SSL; circle and triangle symbols) and the continental SSL ([AfSIS SSL](#https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library); square symbols). Samples with circle and square symbols have been used for the regional analysis."}
+```{r echo = FALSE, message = FALSE, out.width='70%', fig.align='center', fig.cap= "Figure 1: Sample locations of the Central African Soil Spectral Library (CSSL SSL; circle and triangle symbols) and the continental SSL ([AfSIS SSL](https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library); square symbols). Samples with circle and square symbols have been used for the regional analysis."}
 knitr::include_graphics("img/lcoations.png")
 ```
 

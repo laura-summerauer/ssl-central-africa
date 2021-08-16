@@ -31,13 +31,13 @@ repository allows to reproduce our obtained results.
 
 <div class="figure" style="text-align: center">
 
-<img src="img/lcoations.png" alt="Figure 1: Sample locations of the Central African Soil Spectral Library (CSSL SSL; circle and triangle symbols) and the continental SSL ([AfSIS SSL](#https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library); square symbols). Samples with circle and square symbols have been used for the regional analysis." width="70%" />
+<img src="img/lcoations.png" alt="Figure 1: Sample locations of the Central African Soil Spectral Library (CSSL SSL; circle and triangle symbols) and the continental SSL ([AfSIS SSL](https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library); square symbols). Samples with circle and square symbols have been used for the regional analysis." width="70%" />
 
 <p class="caption">
 
 Figure 1: Sample locations of the Central African Soil Spectral Library
 (CSSL SSL; circle and triangle symbols) and the continental SSL ([AfSIS
-SSL](#https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library);
+SSL](https://worldagroforestry.org/sd/landhealth/soil-plant-spectral-diagnostics-laboratory/soil-spectra-library);
 square symbols). Samples with circle and square symbols have been used
 for the regional analysis.
 
