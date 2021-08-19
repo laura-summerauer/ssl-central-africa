@@ -621,22 +621,6 @@ cod_kbg_2018-03-29_ag_rep001_sl0-5,cod_kbg_18-03-29_ag_rep001,Democratic Republi
 cod_kbg_2018-03-29_ag_rep001_sl5-20,cod_kbg_18-03-29_ag_rep001,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2018-03-29,5-20,28.75528,-2.30815,yes,NA,cropland,tea,NA,NA
 cod_kbg_2018-03-29_ag_rep002_sl0-5,cod_kbg_18-03-29_ag_rep002,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2018-03-29,0-5,28.7664,-2.33039,yes,NA,cropland,cabbage,NA,NA
 cod_kbg_2018-03-29_ag_rep002_sl5-20,cod_kbg_18-03-29_ag_rep002,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2018-03-29,5-20,28.7664,-2.33039,yes,NA,cropland,cabbage,NA,NA
-cod_nyg_2018-03-21_fo_rep01,cod_nyg_2018-03-21_fo_rep01,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,2018-03-21,0-5,29.26795,-1.5509833333,yes,2276,vulcano landscape,NA,NA,NA
-cod_nyg_2018-03-21_fo_rep02,cod_nyg_2018-03-21_fo_rep02,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,2018-03-21,0-5,29.2583333333,-1.5449666667,yes,2547,vulcano landscape,NA,NA,NA
-cod_nyg_2018-03-21_fo_rep03,cod_nyg_2018-03-21_fo_rep03,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,2018-03-21,0-5,29.2542333333,-1.5401833333,yes,2756,vulcano landscape,NA,NA,NA
-cod_nyg_2018-03-21_fo_rep04,cod_nyg_2018-03-21_fo_rep04,Democratic Republic of Congo,COD,Nord-Kivu,Nyiragongo,Territoire,2018-03-21,0-5,29.2504166667,-1.53015,yes,3250,vulcano landscape,NA,NA,NA
-cod_mbd_rep01_sl0-15,cod_mbd_rep01,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep02_sl0-15,cod_mbd_rep02,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep03_sl0-15,cod_mbd_rep03,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep04_sl0-15,cod_mbd_rep04,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep05_sl0-15,cod_mbd_rep05,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep06_sl0-15,cod_mbd_rep06,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,0-15,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep01_sl15-30,cod_mbd_rep01,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep02_sl15-30,cod_mbd_rep02,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep03_sl15-30,cod_mbd_rep03,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep04_sl15-30,cod_mbd_rep04,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep05_sl15-30,cod_mbd_rep05,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
-cod_mbd_rep06_sl15-30,cod_mbd_rep06,Democratic Republic of Congo,COD,Équateur,Mbandaka,Territoire,2020-02-14,15-30,18.31054,0.06335,yes,NA,forest,NA,swamp primary forest,NA
 cod_djo_sid-c_2016-09_fo_rep01_sl0-10,cod_djo_sid-c_2016-09_fo_rep01,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,2016-09,0-10,22.33919,0.656722,yes,NA,forest,NA,Old secondary forest,NA
 cod_djo_sid-c_2016-09_fo_rep01_sl10-20,cod_djo_sid-c_2016-09_fo_rep01,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,2016-09,10-20,22.33919,0.656722,yes,NA,forest,NA,Old secondary forest,NA
 cod_djo_sid-c_2016-09_fo_rep01_sl20-30,cod_djo_sid-c_2016-09_fo_rep01,Democratic Republic of Congo,COD,Tshuapa,Djolu,Territoire,2016-09,20-30,22.33919,0.656722,yes,NA,forest,NA,Old secondary forest,NA
@@ -1045,59 +1029,9 @@ icr008310,Burhale.14.2,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territo
 icr008350,Burhale.16.3,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2009-10-26,20-40,28.663513,-2.662427,yes,1693,cropland,NA,NA,NA
 icr008333,Burhale.15.5,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2009-10-27,20-40,28.654341,-2.688033,yes,1645,cropland,NA,NA,NA
 icr008358,Burhale.16.9,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2009-10-26,20-40,28.655488,-2.667283,yes,1742,cropland,NA,NA,NA
-icr047935,icr047935,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047934,icr047934,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048002,icr048002,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047991,icr047991,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047931,icr047931,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048000,icr048000,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047975,icr047975,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047987,icr047987,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047967,icr047967,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048117,icr048117,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047925,icr047925,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047933,icr047933,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048078,icr048078,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048160,icr048160,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047998,icr047998,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048073,icr048073,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048166,icr048166,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048138,icr048138,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048006,icr048006,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047932,icr047932,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048025,icr048025,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047965,icr047965,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048102,icr048102,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047920,icr047920,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047936,icr047936,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047994,icr047994,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047960,icr047960,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047983,icr047983,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047919,icr047919,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048066,icr048066,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048150,icr048150,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047947,icr047947,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048085,icr048085,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047993,icr047993,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047962,icr047962,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048030,icr048030,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047928,icr047928,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048063,icr048063,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047971,icr047971,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048107,icr048107,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047939,icr047939,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047963,icr047963,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047961,icr047961,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047985,icr047985,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048062,icr048062,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,0-20,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047977,icr047977,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048140,icr048140,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr048145,icr048145,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
-icr047988,icr047988,Democratic Republic of Congo,COD,Bas-Uélé,Buta (ville),Ville,NA,20-50,24.750395,2.804287,no,NA,NA,NA,NA,NA
 icr008530,Luhihi.11.4,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-10-29,20-40,28.870405,-2.293084,yes,1682,cropland,NA,NA,NA
 icr008434,Luhihi.5.8,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-12,20-40,28.847915,-2.337656,yes,1717,cropland,NA,NA,NA
 icr008417,Luhihi.4.10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-13,0-20,28.823016,-2.275566,yes,1664,NA,NA,NA,NA
-icr008373,Luhihi.1.5,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-11,0-20,28.8245,-2.343301,yes,1707,NA,NA,NA,NA
 icr008499,Luhihi.9.9,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-28,0-20,28.878756,-2.339942,yes,1717,cropland,NA,NA,NA
 icr008451,Luhihi.6.10,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-28,20-40,28.845304,-2.317256,yes,1821,cropland,NA,NA,NA
 icr008519,Luhihi.10.8,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire,2009-11-27,0-20,28.871546,-2.318338,yes,1596,cropland,NA,NA,NA
@@ -1204,46 +1138,6 @@ icr008486,Luhihi.8.9,Democratic Republic of Congo,COD,Sud-Kivu,Kabare,Territoire
 2675,2675,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2018-05-25,0-20,28.63766,-2.64493,yes,1720,cropland,NA,NA,NA
 2676,2676,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2018-05-25,0-20,28.63818,-2.64254,yes,1698,cropland,NA,NA,NA
 2677,2677,Democratic Republic of Congo,COD,Sud-Kivu,Walungu,Territoire,2018-05-25,0-20,28.6375,-2.6432,yes,1700,cropland,NA,NA,NA
-89_1592,BO62,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-08-13,0-15,13.0022222222222,-5.83611111111111,yes,30,savannah,NA,NA,NA
-89_1593,BO62,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-08-13,15-40,13.0022222222222,-5.83611111111111,yes,30,savannah,NA,NA,NA
-89_1594,BO62,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-08-13,40-80,13.0022222222222,-5.83611111111111,yes,30,savannah,NA,NA,NA
-89_753,SB34,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-04-22,0-11,13.4402777777778,-5.76944444444444,yes,190,savannah,NA,NA,NA
-89_754,SB34,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-04-22,11-40,13.4402777777778,-5.76944444444444,yes,190,savannah,NA,NA,NA
-89_279,SB16,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-08-15,0-10,13.5027777777778,-5.60555555555556,yes,300,savannah,NA,NA,NA
-89_280,SB16,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-08-15,10-60,13.5027777777778,-5.60555555555556,yes,300,savannah,NA,NA,NA
-89_231,BO5,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1988-03-07,0-15,13.1055555555556,-5.70833333333333,yes,190,forest,NA,secondary forest,NA
-89_232,BO5,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1988-03-07,15-53,13.1055555555556,-5.70833333333333,yes,190,forest,NA,secondary forest,NA
-89_233,BO5,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1988-03-07,53-110,13.1055555555556,-5.70833333333333,yes,190,forest,NA,secondary forest,NA
-88_742,TSH10,Democratic Republic of Congo,COD,Kongo-Central,Tshela,Territoire,1988-04-02,16-42,12.8916666666667,-4.82777777777778,yes,250,forest,cocoa,secondary forest,NA
-88_744,TSH10,Democratic Republic of Congo,COD,Kongo-Central,Tshela,Territoire,1988-04-02,80-123,12.8916666666667,-4.82777777777778,yes,250,forest,cocoa,secondary forest,NA
-89_734,SB31,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-04-22,12-30,13.4402777777778,-5.76944444444444,yes,340,savannah,old cassava field,NA,NA
-89_736,SB31,Democratic Republic of Congo,COD,Kongo-Central,Seke-Banza,Territoire,1988-04-22,65-114,13.4402777777778,-5.76944444444444,yes,340,savannah,old cassava field,NA,NA
-89_1193,SO31,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,1988-12-22,0-18,14.4194444444444,-5.58888888888889,yes,470,cropland,cassava,NA,NA
-89_1194,SO31,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,1988-12-22,18-35,14.4194444444444,-5.58888888888889,yes,470,cropland,cassava,NA,NA
-89_1195,SO31,Democratic Republic of Congo,COD,Kongo-Central,Bangu,Ville,1988-12-22,35-75,14.4194444444444,-5.58888888888889,yes,470,cropland,cassava,NA,NA
-89_804,MT6,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-08-12,0-15,13.6361111111111,-5.76666666666667,yes,270,savannah,NA,NA,NA
-89_805,MT6,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-08-12,15-47,13.6361111111111,-5.76666666666667,yes,270,savannah,NA,NA,NA
-89_806,MT6,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-08-12,47-76,13.6361111111111,-5.76666666666667,yes,270,savannah,NA,NA,NA
-89_1122,SO13,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-11-22,0-12,14.2722222222222,-5.63333333333333,yes,270,savannah,NA,NA,NA
-89_1123,SO13,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-11-22,12-30,14.2722222222222,-5.63333333333333,yes,270,savannah,NA,NA,NA
-89_1124,SO13,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-11-22,30-66,14.2722222222222,-5.63333333333333,yes,270,savannah,NA,NA,NA
-89_1412,MG62,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,1989-07-15,0-10,14.633333333333301,-5.58611111111111,yes,430,savannah,NA,NA,NA
-89_1413,MG62,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,1989-07-15,10-35,14.633333333333301,-5.58611111111111,yes,430,savannah,NA,NA,NA
-89_1415,MG62,Democratic Republic of Congo,COD,Kongo-Central,Mbanza-Ngungu,Territoire,1989-07-15,60-94,14.633333333333301,-5.58611111111111,yes,430,savannah,NA,NA,NA
-89_1224,BO53,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-03-13,0-16,13.0666666666667,-5.78333333333333,yes,140,savannah,NA,NA,NA
-89_1225,BO53,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-03-13,16-42,13.0666666666667,-5.78333333333333,yes,140,savannah,NA,NA,NA
-89_1226,BO53,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-03-13,42-85,13.0666666666667,-5.78333333333333,yes,140,savannah,NA,NA,NA
-89_834,MT18,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-08-20,0-13,13.5727777777778,-5.85,yes,230,savannah,NA,NA,NA
-89_835,MT18,Democratic Republic of Congo,COD,Kongo-Central,Songololo,Territoire,1988-08-20,13-37,13.5727777777778,-5.85,yes,230,savannah,NA,NA,NA
-89_783,MT2,Democratic Republic of Congo,COD,Kongo-Central,Matadi,Ville,1988-05-15,0-15,13.4930555555556,-5.875,yes,340,savannah,NA,NA,NA
-89_785,MT2,Democratic Republic of Congo,COD,Kongo-Central,Matadi,Ville,1988-05-15,56-95,13.4930555555556,-5.875,yes,340,savannah,NA,NA,NA
-89_556,TSH47,Democratic Republic of Congo,COD,Kongo-Central,NA,NA,1988-05-21,0-5,12.9125,-4.7075,yes,250,"forest, cropland","coffee, oil palm",secondary forest,NA
-89_558,TSH47,Democratic Republic of Congo,COD,Kongo-Central,NA,NA,1988-05-21,28-56,12.9125,-4.7075,yes,250,"forest, cropland","coffee, oil palm",secondary forest,NA
-89_1544,SB41,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1989-02-22,0-11,13.2055555555556,-5.64166666666667,yes,330,"forest, cropland",coffee,planted limba forest,NA
-89_1545,SB41,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1989-02-22,11-32,13.2055555555556,-5.64166666666667,yes,330,"forest, cropland",coffee,planted limba forest,NA
-89_1546,SB41,Democratic Republic of Congo,COD,Kongo-Central,Moanda,Territoire,1989-02-22,32-61,13.2055555555556,-5.64166666666667,yes,330,"forest, cropland",coffee,planted limba forest,NA
-89_1218,BO52,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-03-13,0-12,13.1055555555556,-5.8625,yes,150,savannah,NA,NA,NA
-89_1219,BO52,Democratic Republic of Congo,COD,Kongo-Central,Boma,Territoire,1989-03-13,12-43,13.1055555555556,-5.8625,yes,150,savannah,NA,NA,NA
 13_2072,termite mound A,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,NA,NA,27.5079888888889,-11.5668083333333,yes,NA,termite mound,NA,NA,NA
 13_2073,termite mound A,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,NA,NA,27.5079888888889,-11.5668083333333,yes,NA,termite mound,NA,NA,NA
 13_2074,control soil A,Democratic Republic of Congo,COD,Haut-Katanga,Lubumbashi,Territoire,NA,NA,27.5079888888889,-11.5668083333333,yes,NA,control soil,NA,NA,NA
@@ -1389,7 +1283,6 @@ UF15C7,UF15,Uganda,UGA,Kabarole,Bunyangabu,County,2018,60-70,30.14336,0.5638,yes
 UF15C4,UF15,Uganda,UGA,Kabarole,Bunyangabu,County,2018,30-40,30.14336,0.5638,yes,1657,cropland,NA,NA,NA
 UF16C1,UF16,Uganda,UGA,Kabarole,Bunyangabu,County,2018,0-10,30.13951,0.56149,yes,1689,cropland,NA,NA,NA
 UF16C7,UF16,Uganda,UGA,Kabarole,Bunyangabu,County,2018,60-70,30.13951,0.56149,yes,1689,cropland,NA,NA,NA
-UF16C4,UF16,Uganda,UGA,Kabarole,Bunyangabu,County,2018,30-40,30.13951,0.56149,yes,1689,cropland,NA,NA,NA
 UF16C10,UF16,Uganda,UGA,Kabarole,Bunyangabu,County,2018,90-100,30.13951,0.56149,yes,1689,cropland,NA,NA,NA
 UPL2C4,UPL2,Uganda,UGA,Kabarole,Burahya,County,2018,30-40,30.37347,0.46245000000000003,yes,1304,forest,NA,NA,NA
 UPL2C7,UPL2,Uganda,UGA,Kabarole,Burahya,County,2018,60-70,30.37347,0.46245000000000003,yes,1304,forest,NA,NA,NA
@@ -1575,13 +1468,10 @@ RF20C4,RF20,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,30-40,29.15806,-2
 RF20C7,RF20,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,60-70,29.15806,-2.34632,yes,1847,cropland,NA,NA,NA
 RF20C10,RF20,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,90-100,29.15806,-2.34632,yes,1847,cropland,NA,NA,NA
 RF32C4,RF32,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,30-40,29.05876,-2.40687,yes,1648,cropland,NA,NA,NA
-RF32C7,RF32,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,60-70,29.05876,-2.40687,yes,1648,cropland,NA,NA,NA
-RF32C9,RF32,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,80-90,29.05876,-2.40687,yes,1648,cropland,NA,NA,NA
 RF32C1,RF32,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,0-10,29.05876,-2.40687,yes,1648,cropland,NA,NA,NA
 RF32C10,RF32,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,90-100,29.05876,-2.40687,yes,1648,cropland,NA,NA,NA
 RF34C1,RF34,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,0-10,29.05455,-2.41071,yes,1565,cropland,NA,NA,NA
 RF34C4,RF34,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,30-40,29.05455,-2.41071,yes,1565,cropland,NA,NA,NA
-RF34C7,RF34,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,60-70,29.05455,-2.41071,yes,1565,cropland,NA,NA,NA
 RF34C10,RF34,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,90-100,29.05455,-2.41071,yes,1565,cropland,NA,NA,NA
 RF4C1,RF4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,0-10,29.19744,-2.44553,yes,1743,cropland,NA,NA,NA
 RF4C4,RF4,Rwanda,RWA,Iburengerazuba,Nyamasheke,District,2018,30-40,29.19744,-2.44553,yes,1743,cropland,NA,NA,NA
@@ -1645,211 +1535,45 @@ UPL11C4,UPL11,Uganda,UGA,Kabarole,Burahya,County,2018,30-40,30.373169999999998,0
 UPL12C1,UPL12,Uganda,UGA,Kabarole,Burahya,County,2018,0-10,30.37242,0.46028,yes,1271,forest,NA,NA,NA
 UPL12C4,UPL12,Uganda,UGA,Kabarole,Burahya,County,2018,30-40,30.37242,0.46028,yes,1271,forest,NA,NA,NA
 UPL12C7,UPL12,Uganda,UGA,Kabarole,Burahya,County,2018,60-70,30.37242,0.46028,yes,1271,forest,NA,NA,NA
-YAO_J02_C1,Yao02,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93261111,0.595972222,no,NA,fallow,NA,NA,NA
-YAO_J02_C2,Yao02,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93261111,0.595972222,no,NA,fallow,NA,NA,NA
-YAO_J02_C3,Yao02,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93261111,0.595972222,no,NA,fallow,NA,NA,NA
 BAW_J02_C1,Baw02,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.17769444,0.713388889,yes,NA,fallow,NA,NA,NA
-BAW_J02_C2,Baw02,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.17769444,0.713388889,yes,NA,fallow,NA,NA,NA
-BAW_J02_C3,Baw02,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.17769444,0.713388889,yes,NA,fallow,NA,NA,NA
-BAW_J03_C1,Baw03,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.21041667,0.70375,yes,NA,fallow,NA,NA,NA
-BAW_J03_C2,Baw03,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.21041667,0.70375,yes,NA,fallow,NA,NA,NA
-BAW_J03_C3,Baw03,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.21041667,0.70375,yes,NA,fallow,NA,NA,NA
 BAW_J06_C1,Baw06,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.18736111,0.715472222,yes,NA,fallow,NA,NA,NA
-BAW_J06_C2,Baw06,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.18736111,0.715472222,yes,NA,fallow,NA,NA,NA
-BAW_J06_C3,Baw06,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.18736111,0.715472222,yes,NA,fallow,NA,NA,NA
-BAW_J08_C1,Baw08,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19041667,0.7135,yes,NA,fallow,NA,NA,NA
-BAW_J08_C2,Baw08,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19041667,0.7135,yes,NA,fallow,NA,NA,NA
-BAW_J08_C3,Baw08,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19041667,0.7135,yes,NA,fallow,NA,NA,NA
 BAW_J17_C1,Baw17,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19486111,0.71202777799999994,yes,NA,fallow,NA,NA,NA
 BAW_J17_C2,Baw17,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19486111,0.71202777799999994,yes,NA,fallow,NA,NA,NA
 BAW_J17_C3,Baw17,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19486111,0.71202777799999994,yes,NA,fallow,NA,NA,NA
 BAW_J20_C1,Baw20,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.20116667,0.707222222,yes,NA,fallow,NA,NA,NA
-BAW_J20_C2,Baw20,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.20116667,0.707222222,yes,NA,fallow,NA,NA,NA
-BAW_J20_C3,Baw20,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.20116667,0.707222222,yes,NA,fallow,NA,NA,NA
-BAW_J21_C1,Baw21,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.17980556,0.713305556,yes,NA,fallow,NA,NA,NA
-BAW_J21_C2,Baw21,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.17980556,0.713305556,yes,NA,fallow,NA,NA,NA
-BAW_J21_C3,Baw21,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.17980556,0.713305556,yes,NA,fallow,NA,NA,NA
-BAW_J23_C2,Baw23,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.20830556,0.704916667,yes,NA,fallow,NA,NA,NA
-BAW_J23_C3,Baw23,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.20830556,0.704916667,yes,NA,fallow,NA,NA,NA
 BAW_J24_C1,Baw24,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.20705556,0.704638889,yes,NA,fallow,NA,NA,NA
-BAW_J24_C2,Baw24,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.20705556,0.704638889,yes,NA,fallow,NA,NA,NA
 BAW_J26_C1,Baw26,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.213,0.698805556,yes,NA,fallow,NA,NA,NA
 BAW_J26_C2,Baw26,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.213,0.698805556,yes,NA,fallow,NA,NA,NA
-BAW_J26_C3,Baw26,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.213,0.698805556,yes,NA,fallow,NA,NA,NA
-BAW_J27_C3,Baw27,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19652778,0.723944444,yes,NA,fallow,NA,NA,NA
-BAW_J27_C1,Baw27,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19652778,0.723944444,yes,NA,fallow,NA,NA,NA
-BAW_J27_C2,Baw27,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19652778,0.723944444,yes,NA,fallow,NA,NA,NA
 BAW_J28_C3,Baw28,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.20255556,0.717444444,yes,NA,fallow,NA,NA,NA
-BAW_J28_C1,Baw28,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.20255556,0.717444444,yes,NA,fallow,NA,NA,NA
-BAW_J28_C2,Baw28,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.20255556,0.717444444,yes,NA,fallow,NA,NA,NA
 BAW_J29_C2,Baw29,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.1915,0.717666667,yes,NA,fallow,NA,NA,NA
 BAW_J29_C3,Baw29,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.1915,0.717666667,yes,NA,fallow,NA,NA,NA
-BAW_J29_C1,Baw29,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.1915,0.717666667,yes,NA,fallow,NA,NA,NA
-BAW_J30_C1,Baw30,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19916667,0.715555556,yes,NA,fallow,NA,NA,NA
-BAW_J30_C2,Baw30,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19916667,0.715555556,yes,NA,fallow,NA,NA,NA
-BAW_J30_C3,Baw30,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19916667,0.715555556,yes,NA,fallow,NA,NA,NA
-YAM_J03_C1,Yam03,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.82030556,0.345277778,yes,NA,fallow,NA,NA,NA
-YAM_J03_C2,Yam03,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.82030556,0.345277778,yes,NA,fallow,NA,NA,NA
-YAM_J03_C3,Yam03,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.82030556,0.345277778,yes,NA,fallow,NA,NA,NA
 YAM_J22_C1,Yam22,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83322222,0.335083333,yes,NA,fallow,NA,NA,NA
 YAM_J22_C2,Yam22,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83322222,0.335083333,yes,NA,fallow,NA,NA,NA
 YAM_J22_C3,Yam22,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83322222,0.335083333,yes,NA,fallow,NA,NA,NA
-YAO_J04_C1,Yao04,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93261111,0.595972222,yes,NA,fallow,NA,NA,NA
-YAO_J04_C2,Yao04,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93261111,0.595972222,yes,NA,fallow,NA,NA,NA
-YAO_J04_C3,Yao04,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93261111,0.595972222,yes,NA,fallow,NA,NA,NA
 YAO_J05_C1,Yao05,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93138889,0.594138889,yes,NA,fallow,NA,NA,NA
 YAO_J05_C3,Yao05,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93138889,0.594138889,yes,NA,fallow,NA,NA,NA
-YAO_J05_C2,Yao05,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93138889,0.594138889,yes,NA,fallow,NA,NA,NA
-YAO_J09_C1,Yao09,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93444444,0.5975,yes,NA,fallow,NA,NA,NA
-YAO_J09_C2,Yao09,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93444444,0.5975,yes,NA,fallow,NA,NA,NA
-YAO_J09_C3,Yao09,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93444444,0.5975,yes,NA,fallow,NA,NA,NA
-YAO_J18_C1,Yao18,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.92313889,0.600666667,yes,NA,fallow,NA,NA,NA
-YAO_J18_C2,Yao18,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.92313889,0.600666667,yes,NA,fallow,NA,NA,NA
-YAO_J18_C3,Yao18,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.92313889,0.600666667,yes,NA,fallow,NA,NA,NA
 YAO_J21_C3,Yao21,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93472222,0.603555556,yes,NA,fallow,NA,NA,NA
-YAO_J21_C1,Yao21,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93472222,0.603555556,yes,NA,fallow,NA,NA,NA
-YAO_J21_C2,Yao21,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93472222,0.603555556,yes,NA,fallow,NA,NA,NA
-YAO_J28_C1,Yao28,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.935,0.598111111,yes,NA,fallow,NA,NA,NA
-YAO_J28_C2,Yao28,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.935,0.598111111,yes,NA,fallow,NA,NA,NA
-YAO_J28_C3,Yao28,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.935,0.598111111,yes,NA,fallow,NA,NA,NA
-YAO_J29_C1,Yao29,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93483333,0.599972222,yes,NA,fallow,NA,NA,NA
-YAO_J29_C2,Yao29,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93483333,0.599972222,yes,NA,fallow,NA,NA,NA
-YAO_J29_C3,Yao29,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93483333,0.599972222,yes,NA,fallow,NA,NA,NA
 BAW_J04_C1,Baw04,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.18247222,0.702694444,yes,NA,fallow,NA,NA,NA
-BAW_J04_C2,Baw04,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.18247222,0.702694444,yes,NA,fallow,NA,NA,NA
-BAW_J04_C3,Baw04,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.18247222,0.702694444,yes,NA,fallow,NA,NA,NA
 BAW_J13_C3,Baw13,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19930556,0.702694444,yes,NA,fallow,NA,NA,NA
-BAW_J13_C1,Baw13,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19930556,0.702694444,yes,NA,fallow,NA,NA,NA
-BAW_J13_C2,Baw13,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19930556,0.702694444,yes,NA,fallow,NA,NA,NA
 BAW_J32_C1,Baw32,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19797222,0.715694444,yes,NA,fallow,NA,NA,NA
-BAW_J32_C2,Baw32,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19797222,0.715694444,yes,NA,fallow,NA,NA,NA
-BAW_J32_C3,Baw32,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19797222,0.715694444,yes,NA,fallow,NA,NA,NA
 YAM_J26_C3,Yam26,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83027778,0.330777778,yes,NA,fallow,NA,NA,NA
-YAM_J26_C1,Yam26,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83027778,0.330777778,yes,NA,fallow,NA,NA,NA
-YAM_J26_C2,Yam26,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83027778,0.330777778,yes,NA,fallow,NA,NA,NA
-BAW_J12_C1,Baw12,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19488889,0.701972222,yes,NA,fallow,NA,NA,NA
-BAW_J12_C2,Baw12,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19488889,0.701972222,yes,NA,fallow,NA,NA,NA
-BAW_J12_C3,Baw12,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19488889,0.701972222,yes,NA,fallow,NA,NA,NA
-BAW_J15_C1,Baw15,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.1895,0.718194444,yes,NA,fallow,NA,NA,NA
-BAW_J15_C2,Baw15,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.1895,0.718194444,yes,NA,fallow,NA,NA,NA
-BAW_J15_C3,Baw15,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.1895,0.718194444,yes,NA,fallow,NA,NA,NA
 BAW_J31_C1,Baw31,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.19591667,0.716361111,yes,NA,fallow,NA,NA,NA
-BAW_J31_C2,Baw31,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.19591667,0.716361111,yes,NA,fallow,NA,NA,NA
-BAW_J31_C3,Baw31,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.19591667,0.716361111,yes,NA,fallow,NA,NA,NA
 YAM_J08_C1,Yam08,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83225,0.3505,yes,NA,fallow,NA,NA,NA
 YAM_J08_C2,Yam08,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83225,0.3505,yes,NA,fallow,NA,NA,NA
-YAM_J08_C3,Yam08,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83225,0.3505,yes,NA,fallow,NA,NA,NA
-YAM_J10_C1,Yam10,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83047222,0.334027778,yes,NA,fallow,NA,NA,NA
-YAM_J10_C2,Yam10,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83047222,0.334027778,yes,NA,fallow,NA,NA,NA
-YAM_J10_C3,Yam10,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83047222,0.334027778,yes,NA,fallow,NA,NA,NA
-YAM_J13_C1,Yam13,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83122222,0.336638889,yes,NA,fallow,NA,NA,NA
-YAM_J13_C2,Yam13,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83122222,0.336638889,yes,NA,fallow,NA,NA,NA
-YAM_J13_C3,Yam13,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83122222,0.336638889,yes,NA,fallow,NA,NA,NA
-YAM_J17_C1,Yam17,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81172222,0.326083333,yes,NA,fallow,NA,NA,NA
-YAM_J17_C2,Yam17,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81172222,0.326083333,yes,NA,fallow,NA,NA,NA
-YAM_J17_C3,Yam17,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81172222,0.326083333,yes,NA,fallow,NA,NA,NA
 YAM_J18_C3,Yam18,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81363889,0.327166667,yes,NA,fallow,NA,NA,NA
-YAM_J18_C1,Yam18,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81363889,0.327166667,yes,NA,fallow,NA,NA,NA
-YAM_J18_C2,Yam18,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81363889,0.327166667,yes,NA,fallow,NA,NA,NA
 YAM_J20_C2,Yam20,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.82013889,0.332111111,yes,NA,fallow,NA,NA,NA
 YAM_J20_C3,Yam20,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.82013889,0.332111111,yes,NA,fallow,NA,NA,NA
-YAM_J20_C1,Yam20,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.82013889,0.332111111,yes,NA,fallow,NA,NA,NA
-YAM_J23_C1,Yam23,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83541667,0.33275,yes,NA,fallow,NA,NA,NA
-YAM_J23_C2,Yam23,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83541667,0.33275,yes,NA,fallow,NA,NA,NA
-YAM_J23_C3,Yam23,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83541667,0.33275,yes,NA,fallow,NA,NA,NA
-YAM_J25_C1,Yam25,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.82991667,0.327833333,yes,NA,fallow,NA,NA,NA
-YAM_J25_C2,Yam25,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.82991667,0.327833333,yes,NA,fallow,NA,NA,NA
-YAM_J25_C3,Yam25,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.82991667,0.327833333,yes,NA,fallow,NA,NA,NA
 YAM_J29_C1,Yam29,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81183333,0.335777778,yes,NA,fallow,NA,NA,NA
-YAM_J29_C2,Yam29,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81183333,0.335777778,yes,NA,fallow,NA,NA,NA
-YAM_J29_C3,Yam29,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81183333,0.335777778,yes,NA,fallow,NA,NA,NA
-YAO_J06_C1,Yao06,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.94183333,0.606416667,yes,NA,fallow,NA,NA,NA
-YAO_J06_C2,Yao06,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.94183333,0.606416667,yes,NA,fallow,NA,NA,NA
-YAO_J06_C3,Yao06,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.94183333,0.606416667,yes,NA,fallow,NA,NA,NA
-YAO_J07_C1,Yao07,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.94116667,0.608944444,yes,NA,fallow,NA,NA,NA
-YAO_J07_C2,Yao07,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.94116667,0.608944444,yes,NA,fallow,NA,NA,NA
-YAO_J07_C3,Yao07,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.94116667,0.608944444,yes,NA,fallow,NA,NA,NA
-YAO_J10_C3,Yao10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.91711111,0.599611111,yes,NA,fallow,NA,NA,NA
-YAO_J10_C1,Yao10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.91711111,0.599611111,yes,NA,fallow,NA,NA,NA
-YAO_J10_C2,Yao10,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.91711111,0.599611111,yes,NA,fallow,NA,NA,NA
 YAO_J12_C2,Yao12,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.94319444,0.592,yes,NA,fallow,NA,NA,NA
-YAO_J12_C1,Yao12,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.94319444,0.592,yes,NA,fallow,NA,NA,NA
-YAO_J12_C3,Yao12,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.94319444,0.592,yes,NA,fallow,NA,NA,NA
-YAO_J20_C2,Yao20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93994444,0.612388889,yes,NA,fallow,NA,NA,NA
-YAO_J20_C1,Yao20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93994444,0.612388889,yes,NA,fallow,NA,NA,NA
-YAO_J20_C3,Yao20,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93994444,0.612388889,yes,NA,fallow,NA,NA,NA
-YAO_J24_C1,Yao24,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93466667,0.608305556,yes,NA,fallow,NA,NA,NA
-YAO_J24_C2,Yao24,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93466667,0.608305556,yes,NA,fallow,NA,NA,NA
-YAO_J24_C3,Yao24,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93466667,0.608305556,yes,NA,fallow,NA,NA,NA
-YAO_J27_C1,Yao27,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93422222,0.610305556,yes,NA,fallow,NA,NA,NA
-YAO_J27_C2,Yao27,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93422222,0.610305556,yes,NA,fallow,NA,NA,NA
-YAO_J27_C3,Yao27,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93422222,0.610305556,yes,NA,fallow,NA,NA,NA
-BAW_J05_C1,Baw05,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.18530556,0.693611111,yes,NA,fallow,NA,NA,NA
-BAW_J05_C2,Baw05,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.18530556,0.693611111,yes,NA,fallow,NA,NA,NA
-BAW_J05_C3,Baw05,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.18530556,0.693611111,yes,NA,fallow,NA,NA,NA
 BAW_J11_C3,Baw11,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.172,0.732472222,yes,NA,fallow,NA,NA,NA
-BAW_J11_C1,Baw11,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.172,0.732472222,yes,NA,fallow,NA,NA,NA
-BAW_J11_C2,Baw11,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.172,0.732472222,yes,NA,fallow,NA,NA,NA
-BAW_J14_C1,Baw14,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.17991667,0.727583333,yes,NA,fallow,NA,NA,NA
-BAW_J14_C2,Baw14,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.17991667,0.727583333,yes,NA,fallow,NA,NA,NA
-BAW_J14_C3,Baw14,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.17991667,0.727583333,yes,NA,fallow,NA,NA,NA
-BAW_J16_C1,Baw16,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.17133333,0.716694444,yes,NA,fallow,NA,NA,NA
-BAW_J16_C2,Baw16,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.17133333,0.716694444,yes,NA,fallow,NA,NA,NA
-BAW_J16_C3,Baw16,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.17133333,0.716694444,yes,NA,fallow,NA,NA,NA
-YAM_J04_C1,Yam04,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.82261111,0.345833333,yes,NA,fallow,NA,NA,NA
-YAM_J04_C2,Yam04,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.82261111,0.345833333,yes,NA,fallow,NA,NA,NA
-YAM_J04_C3,Yam04,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.82261111,0.345833333,yes,NA,fallow,NA,NA,NA
 YAM_J09_C1,Yam09,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83416667,0.352194444,yes,NA,fallow,NA,NA,NA
 YAM_J09_C3,Yam09,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83416667,0.352194444,yes,NA,fallow,NA,NA,NA
-YAM_J09_C2,Yam09,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83416667,0.352194444,yes,NA,fallow,NA,NA,NA
-YAM_J24_C1,Yam24,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83672222,0.335416667,yes,NA,fallow,NA,NA,NA
-YAM_J24_C2,Yam24,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83672222,0.335416667,yes,NA,fallow,NA,NA,NA
-YAM_J24_C3,Yam24,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83672222,0.335416667,yes,NA,fallow,NA,NA,NA
-YAM_J27_C1,Yam27,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83055556,0.350611111,yes,NA,fallow,NA,NA,NA
-YAM_J27_C2,Yam27,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83055556,0.350611111,yes,NA,fallow,NA,NA,NA
-YAM_J27_C3,Yam27,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83055556,0.350611111,yes,NA,fallow,NA,NA,NA
 YAM_J28_C2,Yam28,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81652778,0.334694444,yes,NA,fallow,NA,NA,NA
 YAM_J28_C3,Yam28,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81652778,0.334694444,yes,NA,fallow,NA,NA,NA
-YAM_J28_C1,Yam28,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81652778,0.334694444,yes,NA,fallow,NA,NA,NA
-YAO_J08_C1,Yao08,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93947222,0.610888889,yes,NA,fallow,NA,NA,NA
-YAO_J08_C2,Yao08,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93947222,0.610888889,yes,NA,fallow,NA,NA,NA
-YAO_J08_C3,Yao08,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93947222,0.610888889,yes,NA,fallow,NA,NA,NA
 YAO_J13_C2,Yao13,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.944,0.590555556,yes,NA,fallow,NA,NA,NA
-YAO_J13_C1,Yao13,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.944,0.590555556,yes,NA,fallow,NA,NA,NA
-YAO_J13_C3,Yao13,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.944,0.590555556,yes,NA,fallow,NA,NA,NA
-YAO_J14_C1,Yao14,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.9195,0.606777778,yes,NA,fallow,NA,NA,NA
-YAO_J14_C2,Yao14,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.9195,0.606777778,yes,NA,fallow,NA,NA,NA
-YAO_J14_C3,Yao14,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.9195,0.606777778,yes,NA,fallow,NA,NA,NA
-YAO_J15_C1,Yao15,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.92058333,0.60725,yes,NA,fallow,NA,NA,NA
-YAO_J15_C2,Yao15,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.92058333,0.60725,yes,NA,fallow,NA,NA,NA
-YAO_J15_C3,Yao15,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.92058333,0.60725,yes,NA,fallow,NA,NA,NA
-YAO_J16_C1,Yao16,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.91780556,0.607444444,yes,NA,fallow,NA,NA,NA
-YAO_J16_C2,Yao16,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.91780556,0.607444444,yes,NA,fallow,NA,NA,NA
-YAO_J16_C3,Yao16,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.91780556,0.607444444,yes,NA,fallow,NA,NA,NA
 YAO_J17_C2,Yao17,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.91386111,0.60875,yes,NA,fallow,NA,NA,NA
 YAO_J17_C3,Yao17,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.91386111,0.60875,yes,NA,fallow,NA,NA,NA
-YAO_J17_C1,Yao17,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.91386111,0.60875,yes,NA,fallow,NA,NA,NA
 YAO_J25_C3,Yao25,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93227778,0.611472222,yes,NA,fallow,NA,NA,NA
-YAO_J25_C1,Yao25,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93227778,0.611472222,yes,NA,fallow,NA,NA,NA
-YAO_J25_C2,Yao25,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93227778,0.611472222,yes,NA,fallow,NA,NA,NA
-YAO_J26_C1,Yao26,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,0-5,24.93216667,0.612555556,yes,NA,fallow,NA,NA,NA
-YAO_J26_C2,Yao26,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,5-10,24.93216667,0.612555556,yes,NA,fallow,NA,NA,NA
-YAO_J26_C3,Yao26,Democratic Republic of Congo,COD,Tshopo,Isangi,Territoire,2014/2015,10-20,24.93216667,0.612555556,yes,NA,fallow,NA,NA,NA
-BAW_J01_C1,Baw01,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.17102778,0.711555556,yes,NA,fallow,NA,NA,NA
-BAW_J01_C2,Baw01,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.17102778,0.711555556,yes,NA,fallow,NA,NA,NA
-BAW_J01_C3,Baw01,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.17102778,0.711555556,yes,NA,fallow,NA,NA,NA
 BAW_J22_C3,Baw22,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,10-20,25.18497222,0.703666667,yes,NA,fallow,NA,NA,NA
-BAW_J22_C1,Baw22,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,0-5,25.18497222,0.703666667,yes,NA,fallow,NA,NA,NA
-BAW_J22_C2,Baw22,Democratic Republic of Congo,COD,Tshopo,Banalia,Territoire,2014/2015,5-10,25.18497222,0.703666667,yes,NA,fallow,NA,NA,NA
-YAM_J01_C1,Yam01,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.82141667,0.348277778,yes,NA,fallow,NA,NA,NA
-YAM_J01_C2,Yam01,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.82141667,0.348277778,yes,NA,fallow,NA,NA,NA
-YAM_J01_C3,Yam01,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.82141667,0.348277778,yes,NA,fallow,NA,NA,NA
-YAM_J15_C1,Yam15,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81111111,0.332166667,yes,NA,fallow,NA,NA,NA
-YAM_J15_C2,Yam15,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81111111,0.332166667,yes,NA,fallow,NA,NA,NA
-YAM_J15_C3,Yam15,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81111111,0.332166667,yes,NA,fallow,NA,NA,NA
 YAM_J19_C1,Yam19,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.81863889,0.330111111,yes,NA,fallow,NA,NA,NA
-YAM_J19_C2,Yam19,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.81863889,0.330111111,yes,NA,fallow,NA,NA,NA
-YAM_J19_C3,Yam19,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.81863889,0.330111111,yes,NA,fallow,NA,NA,NA
 YAM_J21_C2,Yam21,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,5-10,24.83447222,0.340166667,yes,NA,fallow,NA,NA,NA
-YAM_J21_C1,Yam21,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,0-5,24.83447222,0.340166667,yes,NA,fallow,NA,NA,NA
-YAM_J21_C3,Yam21,Democratic Republic of Congo,COD,Tshopo,Opala,Territoire,2014/2015,10-20,24.83447222,0.340166667,yes,NA,fallow,NA,NA,NA
