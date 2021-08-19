@@ -32,3 +32,5 @@ maps
 .gitignore
 # ignore Rmd file (keep md file)
 README.Rmd
+ssl-central-africa.Rproj
+R/map.R
