@@ -93,7 +93,7 @@ results <- NULL
 
 
 # load the required function
-source("R/Rhelper//get_reconstruction_error.R")
+source("R/Rhelper/get_reconstruction_error.R")
 
 # SG1 ---------------------------------------------------------------------
 
