@@ -15,17 +15,12 @@ Central African Soil Spectral Library: A new soil infrared repository
 and a geographical prediction analysis”. The material within this
 repository allows to reproduce our obtained results.
 
-  - **R**: used R scripts
-  - **R/Rhelper**: used R functions
-  - **data/reference\_data**: reference data for the two soil spectral
-    libraries (SSL); our central African SSL called CSSL and the AfSIS
-    SSL
-  - **data/metadata**: metadata for the two soil spectral libraries
-    (SSL); our central African SSL called CSSL and the AfSIS SSL used
-    for the modeling
-  - **data/spectra\_data**: spectral data for the two soil spectral
-    libraries (SSL); our central African SSL called CSSL and the AfSIS
-    SSL
+  - **R**: R scripts
+  - **R/Rhelper**: R functions and helpers
+  - **data**: chemical reference data, field metadata and mid-infrared
+    spectra
+  - **img**: graphs
+  - **out**: processed data
 
 # Sample locations
 
