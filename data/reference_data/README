@@ -20,4 +20,5 @@ cssl_refdata_manuscript_subset/cssl_refdata_all/cssl_refdata_all.csv
 - Silt with particle sizes 0.002 - 0.063 mm (silt_0.002-0.063); unit: % (WRB classification)
 - Sand with particle sizpes of 0.05 - 2 mm (sand_0.05-2); unit: % (USDA classification)
 - Sand with particle sizes of 0.063 - 2 mm (sand_0.063-2); unit: % (WRB classification)
-- Aqua regia extractable cations Al (al_icp), Fe (fe_icp), Ca (ca_icp), Mg (mg_icp), K (k_icp), Mn (mn_icp), Na (na_icp), P (p_icp)
+- Total extractable (aqua regia) Al (al_icp), Fe (fe_icp); unit: g/kg
+- Total extractable (aqua regia) Ca (ca_icp), Mg (mg_icp), K (k_icp), Mn (mn_icp), Na (na_icp), P (p_icp); unit: mg/kg

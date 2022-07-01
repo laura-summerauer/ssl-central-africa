@@ -1,0 +1,1903 @@
+sample_id,country_name,region_name,Cluster,Plot,Latitude,Longitude,Altitude,Depth
+icr005928,Tanzania,Chinyanghuku,1,1,-6.93070316,36.09182358,836,Topsoil
+icr005929,Tanzania,Chinyanghuku,1,1,-6.93070316,36.09182358,836,Subsoil
+icr005946,Tanzania,Chinyanghuku,2,1,-6.90836716,36.08665466,786,Topsoil
+icr005947,Tanzania,Chinyanghuku,2,1,-6.90836716,36.08665466,786,Subsoil
+icr005965,Tanzania,Chinyanghuku,3,1,-6.88353014,36.0907402,772,Topsoil
+icr005966,Tanzania,Chinyanghuku,3,1,-6.88353014,36.0907402,772,Subsoil
+icr005985,Tanzania,Chinyanghuku,4,2,-6.86680222,36.09944916,811,Topsoil
+icr005986,Tanzania,Chinyanghuku,4,2,-6.86680222,36.09944916,811,Subsoil
+icr005998,Tanzania,Chinyanghuku,5,1,-6.93858,36.1244,NA,Topsoil
+icr005999,Tanzania,Chinyanghuku,5,1,-6.93858,36.1244,NA,Subsoil
+icr006015,Tanzania,Chinyanghuku,6,1,-6.91083193,36.11650848,821,Topsoil
+icr006016,Tanzania,Chinyanghuku,6,1,-6.91083193,36.11650848,821,Subsoil
+icr006035,Tanzania,Chinyanghuku,7,1,-6.88956308,36.12222672,789,Topsoil
+icr006036,Tanzania,Chinyanghuku,7,1,-6.88956308,36.12222672,789,Subsoil
+icr006055,Tanzania,Chinyanghuku,8,1,-6.86175203,36.11831284,789,Topsoil
+icr006056,Tanzania,Chinyanghuku,8,1,-6.86175203,36.11831284,789,Subsoil
+icr006076,Tanzania,Chinyanghuku,9,5,-6.93122,36.1357,0,Topsoil
+icr006077,Tanzania,Chinyanghuku,9,5,-6.93122,36.1357,0,Subsoil
+icr006085,Tanzania,Chinyanghuku,10,2,-6.90524,36.1372,0,Topsoil
+icr006086,Tanzania,Chinyanghuku,10,2,-6.90524,36.1372,0,Subsoil
+icr006101,Tanzania,Chinyanghuku,11,1,-6.88657,36.1374,0,Topsoil
+icr006102,Tanzania,Chinyanghuku,11,1,-6.88657,36.1374,0,Subsoil
+icr006121,Tanzania,Chinyanghuku,12,1,-6.86209822,36.14105606,849,Topsoil
+icr006122,Tanzania,Chinyanghuku,12,1,-6.86209822,36.14105606,849,Subsoil
+icr006142,Tanzania,Chinyanghuku,13,5,-6.92808008,36.16547012,999,Topsoil
+icr006143,Tanzania,Chinyanghuku,13,5,-6.92808008,36.16547012,999,Subsoil
+icr006152,Tanzania,Chinyanghuku,14,3,-6.90498781,36.16339493,1182,Topsoil
+icr006153,Tanzania,Chinyanghuku,14,3,-6.90498781,36.16339493,1182,Subsoil
+icr006164,Tanzania,Chinyanghuku,15,2,-6.88443995,36.16698837,1005,Topsoil
+icr006165,Tanzania,Chinyanghuku,15,2,-6.88443995,36.16698837,1005,Subsoil
+icr006179,Tanzania,Chinyanghuku,16,1,-6.87134,36.1579,0,Topsoil
+icr006180,Tanzania,Chinyanghuku,16,1,-6.87134,36.1579,0,Subsoil
+icr006454,Tanzania,Pandambili,1,1,-6.12600994,36.44020081,1031,Topsoil
+icr006455,Tanzania,Pandambili,1,1,-6.12600994,36.44020081,1031,Subsoil
+icr006474,Tanzania,Pandambili,2,1,-6.08874989,36.43598175,1089,Topsoil
+icr006475,Tanzania,Pandambili,2,1,-6.08874989,36.43598175,1089,Subsoil
+icr006492,Tanzania,Pandambili,3,1,-6.06394,36.4405,0,Topsoil
+icr006493,Tanzania,Pandambili,3,1,-6.06394,36.4405,0,Subsoil
+icr006510,Tanzania,Pandambili,4,1,-6.04692984,36.4438591,1125,Topsoil
+icr006511,Tanzania,Pandambili,4,1,-6.04692984,36.4438591,1125,Subsoil
+icr006530,Tanzania,Pandambili,5,1,-6.11749,36.4577,1043,Topsoil
+icr006531,Tanzania,Pandambili,5,1,-6.11749,36.4577,1043,Subsoil
+icr006550,Tanzania,Pandambili,6,1,-6.08820009,36.46326065,1052,Topsoil
+icr006551,Tanzania,Pandambili,6,1,-6.08820009,36.46326065,1052,Subsoil
+icr006570,Tanzania,Pandambili,7,2,-6.06997013,36.46458817,1061,Topsoil
+icr006571,Tanzania,Pandambili,7,2,-6.06997013,36.46458817,1061,Subsoil
+icr006586,Tanzania,Pandambili,8,1,-6.05574989,36.45772171,1072,Topsoil
+icr006587,Tanzania,Pandambili,8,1,-6.05574989,36.45772171,1072,Subsoil
+icr006606,Tanzania,Pandambili,9,1,-6.12151,36.4836,1068,Topsoil
+icr006607,Tanzania,Pandambili,9,1,-6.12151,36.4836,1068,Subsoil
+icr006626,Tanzania,Pandambili,10,1,-6.09622,36.4863,1084,Topsoil
+icr006627,Tanzania,Pandambili,10,1,-6.09622,36.4863,1084,Subsoil
+icr006646,Tanzania,Pandambili,11,1,-6.0698,36.4918,1096,Topsoil
+icr006647,Tanzania,Pandambili,11,1,-6.0698,36.4918,1096,Subsoil
+icr006666,Tanzania,Pandambili,12,1,-6.05854988,36.49095154,1103,Topsoil
+icr006667,Tanzania,Pandambili,12,1,-6.05854988,36.49095154,1103,Subsoil
+icr006684,Tanzania,Pandambili,13,1,-6.12214,36.5064,1112,Topsoil
+icr006685,Tanzania,Pandambili,13,1,-6.12214,36.5064,1112,Subsoil
+icr006704,Tanzania,Pandambili,14,1,-6.09060001,36.50844955,1124,Topsoil
+icr006705,Tanzania,Pandambili,14,1,-6.09060001,36.50844955,1124,Subsoil
+icr006724,Tanzania,Pandambili,15,1,-6.07987,36.5067,1117,Topsoil
+icr006725,Tanzania,Pandambili,15,1,-6.07987,36.5067,1117,Subsoil
+icr006744,Tanzania,Pandambili,16,1,-6.05373,36.5135,1159,Topsoil
+icr006745,Tanzania,Pandambili,16,1,-6.05373,36.5135,1159,Subsoil
+icr007730,Tanzania,Kiberashi,1,1,-5.38104677,37.44506836,1133,Topsoil
+icr007731,Tanzania,Kiberashi,1,1,-5.38104677,37.44506836,1133,Subsoil
+icr007750,Tanzania,Kiberashi,2,1,-5.35250807,37.44896698,1287,Topsoil
+icr007751,Tanzania,Kiberashi,2,1,-5.35250807,37.44896698,1287,Subsoil
+icr007770,Tanzania,Kiberashi,3,1,-5.33404493,37.45391846,1173,Topsoil
+icr007771,Tanzania,Kiberashi,3,1,-5.33404493,37.45391846,1173,Subsoil
+icr007790,Tanzania,Kiberashi,4,1,-5.31900215,37.45064163,1175,Topsoil
+icr007791,Tanzania,Kiberashi,4,1,-5.31900215,37.45064163,1175,Subsoil
+icr007810,Tanzania,Kiberashi,5,1,-5.38245487,37.46924591,1092,Topsoil
+icr007811,Tanzania,Kiberashi,5,1,-5.38245487,37.46924591,1092,Subsoil
+icr007830,Tanzania,Kiberashi,6,1,-5.35331202,37.46604919,1173,Topsoil
+icr007831,Tanzania,Kiberashi,6,1,-5.35331202,37.46604919,1173,Subsoil
+icr007850,Tanzania,Kiberashi,7,1,-5.33592987,37.46857452,1152,Topsoil
+icr007851,Tanzania,Kiberashi,7,1,-5.33592987,37.46857452,1152,Subsoil
+icr007870,Tanzania,Kiberashi,8,1,-5.30757999,37.47093964,0,Topsoil
+icr007871,Tanzania,Kiberashi,8,1,-5.30757999,37.47093964,0,Subsoil
+icr007890,Tanzania,Kiberashi,9,1,-5.3817668,37.49669647,1028,Topsoil
+icr007891,Tanzania,Kiberashi,9,1,-5.3817668,37.49669647,1028,Subsoil
+icr007910,Tanzania,Kiberashi,10,1,-5.36247683,37.49689102,0,Topsoil
+icr007911,Tanzania,Kiberashi,10,1,-5.36247683,37.49689102,0,Subsoil
+icr007928,Tanzania,Kiberashi,11,1,-5.33933687,37.49335098,1079,Topsoil
+icr007929,Tanzania,Kiberashi,11,1,-5.33933687,37.49335098,1079,Subsoil
+icr007949,Tanzania,Kiberashi,12,2,-5.31183291,37.49250793,0,Topsoil
+icr007950,Tanzania,Kiberashi,12,2,-5.31183291,37.49250793,0,Subsoil
+icr007967,Tanzania,Kiberashi,13,1,-5.37793303,37.51511383,0,Topsoil
+icr007968,Tanzania,Kiberashi,13,1,-5.37793303,37.51511383,0,Subsoil
+icr007987,Tanzania,Kiberashi,14,1,-5.35679007,37.50985718,0,Topsoil
+icr007988,Tanzania,Kiberashi,14,1,-5.35679007,37.50985718,0,Subsoil
+icr008007,Tanzania,Kiberashi,15,1,-5.33370018,37.51532745,1078,Topsoil
+icr008008,Tanzania,Kiberashi,15,1,-5.33370018,37.51532745,1078,Subsoil
+icr008027,Tanzania,Kiberashi,16,1,-5.30851889,37.51255035,0,Topsoil
+icr008028,Tanzania,Kiberashi,16,1,-5.30851889,37.51255035,0,Subsoil
+icr009918,Tanzania,Mbinga,1,1,-11.12269974,35.12689972,1072,Topsoil
+icr009919,Tanzania,Mbinga,1,1,-11.12269974,35.12689972,1072,Subsoil
+icr009938,Tanzania,Mbinga,2,1,-11.09962845,35.13019943,1053,Topsoil
+icr009939,Tanzania,Mbinga,2,1,-11.09962845,35.13019943,1053,Subsoil
+icr009958,Tanzania,Mbinga,3,1,-11.07450008,35.12540054,1020,Topsoil
+icr009959,Tanzania,Mbinga,3,1,-11.07450008,35.12540054,1020,Subsoil
+icr009978,Tanzania,Mbinga,4,1,-11.05970001,35.12659836,1098,Topsoil
+icr009979,Tanzania,Mbinga,4,1,-11.05970001,35.12659836,1098,Subsoil
+icr009998,Tanzania,Mbinga,5,1,-11.12320042,35.14569855,1051,Topsoil
+icr009999,Tanzania,Mbinga,5,1,-11.12320042,35.14569855,1051,Subsoil
+icr010018,Tanzania,Mbinga,6,1,-11.10610008,35.14979935,1000,Topsoil
+icr010019,Tanzania,Mbinga,6,1,-11.10610008,35.14979935,1000,Subsoil
+icr010038,Tanzania,Mbinga,7,1,-11.07940006,35.15179825,1040,Topsoil
+icr010039,Tanzania,Mbinga,7,1,-11.07940006,35.15179825,1040,Subsoil
+icr010058,Tanzania,Mbinga,8,1,-11.05710316,35.15173721,1009,Topsoil
+icr010059,Tanzania,Mbinga,8,1,-11.05710316,35.15173721,1009,Subsoil
+icr010078,Tanzania,Mbinga,9,1,-11.117300030000001,35.17409897,961,Topsoil
+icr010079,Tanzania,Mbinga,9,1,-11.117300030000001,35.17409897,961,Subsoil
+icr010098,Tanzania,Mbinga,10,1,-11.10509968,35.17229843,989,Topsoil
+icr010099,Tanzania,Mbinga,10,1,-11.10509968,35.17229843,989,Subsoil
+icr010118,Tanzania,Mbinga,11,1,-11.07940006,35.16930008,957,Topsoil
+icr010119,Tanzania,Mbinga,11,1,-11.07940006,35.16930008,957,Subsoil
+icr010138,Tanzania,Mbinga,12,1,-11.05809975,35.16949844,958,Topsoil
+icr010139,Tanzania,Mbinga,12,1,-11.05809975,35.16949844,958,Subsoil
+icr010158,Tanzania,Mbinga,13,1,-11.12909985,35.20069885,927,Topsoil
+icr010159,Tanzania,Mbinga,13,1,-11.12909985,35.20069885,927,Subsoil
+icr010178,Tanzania,Mbinga,14,1,-11.09879971,35.19520187,926,Topsoil
+icr010179,Tanzania,Mbinga,14,1,-11.09879971,35.19520187,926,Subsoil
+icr010198,Tanzania,Mbinga,15,1,-11.08710003,35.19179916,956,Topsoil
+icr010199,Tanzania,Mbinga,15,1,-11.08710003,35.19179916,956,Subsoil
+icr010218,Tanzania,Mbinga,16,1,-11.0614996,35.19319916,957,Topsoil
+icr010219,Tanzania,Mbinga,16,1,-11.0614996,35.19319916,957,Subsoil
+icr010335,Mali,Kontela,1,1,14.77008,-11.03315333,0,Topsoil
+icr010336,Mali,Kontela,1,1,14.77008,-11.03315333,0,Subsoil
+icr010355,Mali,Kontela,2,1,14.80026667,-11.03579167,40,Topsoil
+icr010356,Mali,Kontela,2,1,14.80026667,-11.03579167,40,Subsoil
+icr010375,Mali,Kontela,3,1,14.82152167,-11.03285833,89,Topsoil
+icr010376,Mali,Kontela,3,1,14.82152167,-11.03285833,89,Subsoil
+icr010395,Mali,Kontela,4,1,14.83678,-11.03356833,0,Topsoil
+icr010396,Mali,Kontela,4,1,14.83678,-11.03356833,0,Subsoil
+icr010415,Mali,Kontela,5,1,14.76583,-11.011,0,Topsoil
+icr010416,Mali,Kontela,5,1,14.76583,-11.011,0,Subsoil
+icr010435,Mali,Kontela,6,1,14.80017167,-11.01175833,0,Topsoil
+icr010436,Mali,Kontela,6,1,14.80017167,-11.01175833,0,Subsoil
+icr010455,Mali,Kontela,7,1,14.82445833,-11.00853333,0,Topsoil
+icr010456,Mali,Kontela,7,1,14.82445833,-11.00853333,0,Subsoil
+icr010475,Mali,Kontela,8,1,14.83877,-11.01125167,0,Topsoil
+icr010476,Mali,Kontela,8,1,14.83877,-11.01125167,0,Subsoil
+icr010495,Mali,Kontela,9,1,14.77771167,-10.98879,79,Topsoil
+icr010496,Mali,Kontela,9,1,14.77771167,-10.98879,79,Subsoil
+icr010515,Mali,Kontela,10,1,14.80662167,-10.98228,92,Topsoil
+icr010516,Mali,Kontela,10,1,14.80662167,-10.98228,92,Subsoil
+icr010535,Mali,Kontela,11,1,14.82578833,-10.99383,0,Topsoil
+icr010536,Mali,Kontela,11,1,14.82578833,-10.99383,0,Subsoil
+icr010555,Mali,Kontela,12,1,14.83955333,-10.99074667,0,Topsoil
+icr010556,Mali,Kontela,12,1,14.83955333,-10.99074667,0,Subsoil
+icr010575,Mali,Kontela,13,1,14.77818833,-10.964785,65,Topsoil
+icr010576,Mali,Kontela,13,1,14.77818833,-10.964785,65,Subsoil
+icr010595,Mali,Kontela,14,1,14.79109833,-10.95833333,0,Topsoil
+icr010596,Mali,Kontela,14,1,14.79109833,-10.95833333,0,Subsoil
+icr010615,Mali,Kontela,15,1,14.82136667,-10.96745667,72,Topsoil
+icr010616,Mali,Kontela,15,1,14.82136667,-10.96745667,72,Subsoil
+icr010635,Mali,Kontela,16,1,14.84399167,-10.96401,69,Topsoil
+icr010636,Mali,Kontela,16,1,14.84399167,-10.96401,69,Subsoil
+icr010687,Mali,Koloko,1,1,12.45030667,-6.327395,432,Topsoil
+icr010688,Mali,Koloko,1,1,12.45030667,-6.327395,432,Subsoil
+icr010707,Mali,Koloko,2,1,12.47221667,-6.326855,324,Topsoil
+icr010708,Mali,Koloko,2,1,12.47221667,-6.326855,324,Subsoil
+icr010727,Mali,Koloko,3,1,12.49274333,-6.33263,370,Topsoil
+icr010728,Mali,Koloko,3,1,12.49274333,-6.33263,370,Subsoil
+icr010747,Mali,Koloko,4,1,12.51337,-6.32173,336,Topsoil
+icr010748,Mali,Koloko,4,1,12.51337,-6.32173,336,Subsoil
+icr010767,Mali,Koloko,5,1,12.45235333,-6.309545,294,Topsoil
+icr010768,Mali,Koloko,5,1,12.45235333,-6.309545,294,Subsoil
+icr010787,Mali,Koloko,6,1,12.46614167,-6.312131667,361,Topsoil
+icr010788,Mali,Koloko,6,1,12.46614167,-6.312131667,361,Subsoil
+icr010808,Mali,Koloko,7,2,12.49110333,-6.314946667,300,Topsoil
+icr010809,Mali,Koloko,7,2,12.49110333,-6.314946667,300,Subsoil
+icr010826,Mali,Koloko,8,1,12.51964667,-6.302163333,335,Topsoil
+icr010827,Mali,Koloko,8,1,12.51964667,-6.302163333,335,Subsoil
+icr010845,Mali,Koloko,9,1,12.45190833,-6.288508333,348,Topsoil
+icr010846,Mali,Koloko,9,1,12.45190833,-6.288508333,348,Subsoil
+icr010865,Mali,Koloko,10,1,12.47088667,-6.281816667,290,Topsoil
+icr010866,Mali,Koloko,10,1,12.47088667,-6.281816667,290,Subsoil
+icr010885,Mali,Koloko,11,1,12.49784667,-6.286193333,233,Topsoil
+icr010886,Mali,Koloko,11,1,12.49784667,-6.286193333,233,Subsoil
+icr010905,Mali,Koloko,12,1,12.51425667,-6.280505,253,Topsoil
+icr010906,Mali,Koloko,12,1,12.51425667,-6.280505,253,Subsoil
+icr010925,Mali,Koloko,13,1,12.44838333,-6.263188333,295,Topsoil
+icr010926,Mali,Koloko,13,1,12.44838333,-6.263188333,295,Subsoil
+icr010945,Mali,Koloko,14,1,12.47028667,-6.265613333,301,Topsoil
+icr010946,Mali,Koloko,14,1,12.47028667,-6.265613333,301,Subsoil
+icr010965,Mali,Koloko,15,1,12.49387,-6.255561667,253,Topsoil
+icr010966,Mali,Koloko,15,1,12.49387,-6.255561667,253,Subsoil
+icr010985,Mali,Koloko,16,1,12.51692167,-6.259611667,330,Topsoil
+icr010986,Mali,Koloko,16,1,12.51692167,-6.259611667,330,Subsoil
+icr011037,Burkina Faso,Bondigui,1,1,10.88517333,-3.581576667,404,Topsoil
+icr011038,Burkina Faso,Bondigui,1,1,10.88517333,-3.581576667,404,Subsoil
+icr011067,Burkina Faso,Bondigui,2,7,10.90327833,-3.576025,279,Topsoil
+icr011068,Burkina Faso,Bondigui,2,7,10.90327833,-3.576025,279,Subsoil
+icr011077,Burkina Faso,Bondigui,3,2,10.92339333,-3.57667,328,Topsoil
+icr011078,Burkina Faso,Bondigui,3,2,10.92339333,-3.57667,328,Subsoil
+icr011097,Burkina Faso,Bondigui,4,3,10.94759,-3.585211667,258,Topsoil
+icr011098,Burkina Faso,Bondigui,4,3,10.94759,-3.585211667,258,Subsoil
+icr011111,Burkina Faso,Bondigui,5,1,10.87761667,-3.558683333,345,Topsoil
+icr011112,Burkina Faso,Bondigui,5,1,10.87761667,-3.558683333,345,Subsoil
+icr011133,Burkina Faso,Bondigui,6,5,10.90319167,-3.555051667,339,Topsoil
+icr011134,Burkina Faso,Bondigui,6,5,10.90319167,-3.555051667,339,Subsoil
+icr011144,Burkina Faso,Bondigui,7,1,10.92799833,-3.564085,260,Topsoil
+icr011145,Burkina Faso,Bondigui,7,1,10.92799833,-3.564085,260,Subsoil
+icr011164,Burkina Faso,Bondigui,8,1,10.94325667,-3.550565,299,Topsoil
+icr011165,Burkina Faso,Bondigui,8,1,10.94325667,-3.550565,299,Subsoil
+icr011182,Burkina Faso,Bondigui,9,1,10.88015667,-3.540295,254,Topsoil
+icr011183,Burkina Faso,Bondigui,9,1,10.88015667,-3.540295,254,Subsoil
+icr011202,Burkina Faso,Bondigui,10,1,10.90277,-3.530618333,246,Topsoil
+icr011203,Burkina Faso,Bondigui,10,1,10.90277,-3.530618333,246,Subsoil
+icr011222,Burkina Faso,Bondigui,11,1,10.924675,-3.533448333,306,Topsoil
+icr011223,Burkina Faso,Bondigui,11,1,10.924675,-3.533448333,306,Subsoil
+icr011241,Burkina Faso,Bondigui,12,1,10.94154333,-3.539666667,252,Topsoil
+icr011242,Burkina Faso,Bondigui,12,1,10.94154333,-3.539666667,252,Subsoil
+icr011263,Burkina Faso,Bondigui,13,2,10.87681333,-3.50814,253,Topsoil
+icr011264,Burkina Faso,Bondigui,13,2,10.87681333,-3.50814,253,Subsoil
+icr011281,Burkina Faso,Bondigui,14,1,10.89882833,-3.513665,345,Topsoil
+icr011282,Burkina Faso,Bondigui,14,1,10.89882833,-3.513665,345,Subsoil
+icr011301,Burkina Faso,Bondigui,15,1,10.92729667,-3.511266667,312,Topsoil
+icr011302,Burkina Faso,Bondigui,15,1,10.92729667,-3.511266667,312,Subsoil
+icr011321,Burkina Faso,Bondigui,16,1,10.950885,-3.513765,309,Topsoil
+icr011322,Burkina Faso,Bondigui,16,1,10.950885,-3.513765,309,Subsoil
+icr011824,Tanzania,Bukwaya,1,1,-3.06374502,33.01008606,1256,Topsoil
+icr011825,Tanzania,Bukwaya,1,1,-3.06374502,33.01008606,1256,Subsoil
+icr011843,Tanzania,Bukwaya,2,2,-3.0296979,33.01520157,1211,Topsoil
+icr011844,Tanzania,Bukwaya,2,2,-3.0296979,33.01520157,1211,Subsoil
+icr011863,Tanzania,Bukwaya,3,1,-3.00909805,33.01538086,1193,Topsoil
+icr011864,Tanzania,Bukwaya,3,1,-3.00909805,33.01538086,1193,Subsoil
+icr011881,Tanzania,Bukwaya,4,1,-2.99281502,33.01611328,1216,Topsoil
+icr011882,Tanzania,Bukwaya,4,1,-2.99281502,33.01611328,1216,Subsoil
+icr011901,Tanzania,Bukwaya,5,1,-3.06098199,33.03066254,1233,Topsoil
+icr011902,Tanzania,Bukwaya,5,1,-3.06098199,33.03066254,1233,Subsoil
+icr011921,Tanzania,Bukwaya,6,1,-3.03815293,33.04239655,1185,Topsoil
+icr011922,Tanzania,Bukwaya,6,1,-3.03815293,33.04239655,1185,Subsoil
+icr011941,Tanzania,Bukwaya,7,1,-3.00733495,33.04496384,1203,Topsoil
+icr011942,Tanzania,Bukwaya,7,1,-3.00733495,33.04496384,1203,Subsoil
+icr011960,Tanzania,Bukwaya,8,1,-2.98746705,33.03326416,1184,Topsoil
+icr011961,Tanzania,Bukwaya,8,1,-2.98746705,33.03326416,1184,Subsoil
+icr011978,Tanzania,Bukwaya,9,3,-3.05848002,33.06501389,1229,Topsoil
+icr011979,Tanzania,Bukwaya,9,3,-3.05848002,33.06501389,1229,Subsoil
+icr011990,Tanzania,Bukwaya,10,1,-3.03098702,33.06267166,1179,Topsoil
+icr011991,Tanzania,Bukwaya,10,1,-3.03098702,33.06267166,1179,Subsoil
+icr012008,Tanzania,Bukwaya,11,1,-3.01006794,33.06552124,1168,Topsoil
+icr012009,Tanzania,Bukwaya,11,1,-3.01006794,33.06552124,1168,Subsoil
+icr012027,Tanzania,Bukwaya,12,1,-2.98789811,33.06058121,1176,Topsoil
+icr012028,Tanzania,Bukwaya,12,1,-2.98789811,33.06058121,1176,Subsoil
+icr012043,Tanzania,Bukwaya,13,1,-3.06005502,33.08431244,1196,Topsoil
+icr012044,Tanzania,Bukwaya,13,1,-3.06005502,33.08431244,1196,Subsoil
+icr012063,Tanzania,Bukwaya,14,1,-3.03619504,33.09140778,1171,Topsoil
+icr012064,Tanzania,Bukwaya,14,1,-3.03619504,33.09140778,1171,Subsoil
+icr012083,Tanzania,Bukwaya,15,3,-3.0151,33.08854294,1172,Topsoil
+icr012084,Tanzania,Bukwaya,15,3,-3.0151,33.08854294,1172,Subsoil
+icr012087,Tanzania,Bukwaya,16,1,-2.99145794,33.07735062,1153,Topsoil
+icr012088,Tanzania,Bukwaya,16,1,-2.99145794,33.07735062,1153,Subsoil
+icr014408,Malawi,Nkhata Bay,1,1,-11.65983,34.21137167,510,Topsoil
+icr014409,Malawi,Nkhata Bay,1,1,-11.65983,34.21137167,510,Subsoil
+icr014428,Malawi,Nkhata Bay,2,1,-11.64441667,34.208565,552,Topsoil
+icr014429,Malawi,Nkhata Bay,2,1,-11.64441667,34.208565,552,Subsoil
+icr014448,Malawi,Nkhata Bay,3,1,-11.61566833,34.20503833,522,Topsoil
+icr014449,Malawi,Nkhata Bay,3,1,-11.61566833,34.20503833,522,Subsoil
+icr014468,Malawi,Nkhata Bay,4,1,-11.59462833,34.20611667,556,Topsoil
+icr014469,Malawi,Nkhata Bay,4,1,-11.59462833,34.20611667,556,Subsoil
+icr014488,Malawi,Nkhata Bay,5,1,-11.65235833,34.228905,509,Topsoil
+icr014489,Malawi,Nkhata Bay,5,1,-11.65235833,34.228905,509,Subsoil
+icr014508,Malawi,Nkhata Bay,6,1,-11.636035,34.225515,508,Topsoil
+icr014509,Malawi,Nkhata Bay,6,1,-11.636035,34.225515,508,Subsoil
+icr014528,Malawi,Nkhata Bay,7,1,-11.61275667,34.22261833,518,Topsoil
+icr014529,Malawi,Nkhata Bay,7,1,-11.61275667,34.22261833,518,Subsoil
+icr014548,Malawi,Nkhata Bay,8,1,-11.59183667,34.230455,527,Topsoil
+icr014549,Malawi,Nkhata Bay,8,1,-11.59183667,34.230455,527,Subsoil
+icr014568,Malawi,Nkhata Bay,9,1,-11.65377833,34.24810833,552,Topsoil
+icr014569,Malawi,Nkhata Bay,9,1,-11.65377833,34.24810833,552,Subsoil
+icr014588,Malawi,Nkhata Bay,10,1,-11.64765,34.24794167,526,Topsoil
+icr014589,Malawi,Nkhata Bay,10,1,-11.64765,34.24794167,526,Subsoil
+icr014608,Malawi,Nkhata Bay,11,2,-11.61035833,34.25054833,549,Topsoil
+icr014609,Malawi,Nkhata Bay,11,2,-11.61035833,34.25054833,549,Subsoil
+icr014628,Malawi,Nkhata Bay,12,1,-11.58774167,34.25251,628,Topsoil
+icr014629,Malawi,Nkhata Bay,12,1,-11.58774167,34.25251,628,Subsoil
+icr014648,Malawi,Nkhata Bay,13,1,-11.66673333,34.27007167,611,Topsoil
+icr014649,Malawi,Nkhata Bay,13,1,-11.66673333,34.27007167,611,Subsoil
+icr014668,Malawi,Nkhata Bay,14,1,-11.63818833,34.281435,602,Topsoil
+icr014669,Malawi,Nkhata Bay,14,1,-11.63818833,34.281435,602,Subsoil
+icr014688,Malawi,Nkhata Bay,15,1,-11.61,34.27014,611,Topsoil
+icr014689,Malawi,Nkhata Bay,15,1,-11.61,34.27014,611,Subsoil
+icr014708,Malawi,Nkhata Bay,16,1,-11.59017167,34.27192667,643,Topsoil
+icr014709,Malawi,Nkhata Bay,16,1,-11.59017167,34.27192667,643,Subsoil
+icr014743,Malawi,Thuchila,1,1,-15.975425,35.28968167,729,Topsoil
+icr014744,Malawi,Thuchila,1,1,-15.975425,35.28968167,729,Subsoil
+icr014763,Malawi,Thuchila,2,1,-15.94640333,35.29900667,711,Topsoil
+icr014764,Malawi,Thuchila,2,1,-15.94640333,35.29900667,711,Subsoil
+icr014783,Malawi,Thuchila,3,1,-15.92747167,35.297925,729,Topsoil
+icr014784,Malawi,Thuchila,3,1,-15.92747167,35.297925,729,Subsoil
+icr014803,Malawi,Thuchila,4,1,-15.91097,35.30012,730,Topsoil
+icr014804,Malawi,Thuchila,4,1,-15.91097,35.30012,730,Subsoil
+icr014823,Malawi,Thuchila,5,1,-15.97529,35.31520167,688,Topsoil
+icr014824,Malawi,Thuchila,5,1,-15.97529,35.31520167,688,Subsoil
+icr014843,Malawi,Thuchila,6,1,-15.95316167,35.32146333,711,Topsoil
+icr014844,Malawi,Thuchila,6,1,-15.95316167,35.32146333,711,Subsoil
+icr014863,Malawi,Thuchila,7,2,-15.93559667,35.30966833,709,Topsoil
+icr014864,Malawi,Thuchila,7,2,-15.93559667,35.30966833,709,Subsoil
+icr014883,Malawi,Thuchila,8,1,-15.904765,35.323465,741,Topsoil
+icr014884,Malawi,Thuchila,8,1,-15.904765,35.323465,741,Subsoil
+icr014903,Malawi,Thuchila,9,1,-15.97414833,35.34251833,704,Topsoil
+icr014904,Malawi,Thuchila,9,1,-15.97414833,35.34251833,704,Subsoil
+icr014923,Malawi,Thuchila,10,2,-15.95095333,35.33888167,685,Topsoil
+icr014924,Malawi,Thuchila,10,2,-15.95095333,35.33888167,685,Subsoil
+icr014943,Malawi,Thuchila,11,1,-15.92507167,35.34257333,705,Topsoil
+icr014944,Malawi,Thuchila,11,1,-15.92507167,35.34257333,705,Subsoil
+icr014963,Malawi,Thuchila,12,1,-15.90355,35.33182833,731,Topsoil
+icr014964,Malawi,Thuchila,12,1,-15.90355,35.33182833,731,Subsoil
+icr014983,Malawi,Thuchila,13,2,-15.98191167,35.36489667,718,Topsoil
+icr014984,Malawi,Thuchila,13,2,-15.98191167,35.36489667,718,Subsoil
+icr015003,Malawi,Thuchila,14,1,-15.947415,35.36159833,717,Topsoil
+icr015004,Malawi,Thuchila,14,1,-15.947415,35.36159833,717,Subsoil
+icr015023,Malawi,Thuchila,15,1,-15.92851667,35.36705333,688,Topsoil
+icr015024,Malawi,Thuchila,15,1,-15.92851667,35.36705333,688,Subsoil
+icr015043,Malawi,Thuchila,16,1,-15.905015,35.36222,692,Topsoil
+icr015044,Malawi,Thuchila,16,1,-15.905015,35.36222,692,Subsoil
+icr015063,Ghana,Lambussie,1,1,10.86386167,-2.686115,238,Topsoil
+icr015064,Ghana,Lambussie,1,1,10.86386167,-2.686115,238,Subsoil
+icr015083,Ghana,Lambussie,2,1,10.88871,-2.684621667,284,Topsoil
+icr015084,Ghana,Lambussie,2,1,10.88871,-2.684621667,284,Subsoil
+icr015103,Ghana,Lambussie,3,1,10.90801333,-2.681893333,268,Topsoil
+icr015104,Ghana,Lambussie,3,1,10.90801333,-2.681893333,268,Subsoil
+icr015122,Ghana,Lambussie,4,2,10.93269333,-2.682308333,357,Topsoil
+icr015123,Ghana,Lambussie,4,2,10.93269333,-2.682308333,357,Subsoil
+icr015137,Ghana,Lambussie,5,1,10.86856833,-2.663826667,167,Topsoil
+icr015138,Ghana,Lambussie,5,1,10.86856833,-2.663826667,167,Subsoil
+icr015157,Ghana,Lambussie,6,1,10.87777,-2.661688333,166,Topsoil
+icr015158,Ghana,Lambussie,6,1,10.87777,-2.661688333,166,Subsoil
+icr015177,Ghana,Lambussie,7,1,10.9093,-2.65447,260,Topsoil
+icr015178,Ghana,Lambussie,7,1,10.9093,-2.65447,260,Subsoil
+icr015199,Ghana,Lambussie,8,1,10.92868833,-2.664413333,337,Topsoil
+icr015200,Ghana,Lambussie,8,1,10.92868833,-2.664413333,337,Subsoil
+icr015216,Ghana,Lambussie,9,1,10.86049667,-2.632743333,300,Topsoil
+icr015217,Ghana,Lambussie,9,1,10.86049667,-2.632743333,300,Subsoil
+icr015236,Ghana,Lambussie,10,1,10.88649333,-2.640236667,356,Topsoil
+icr015237,Ghana,Lambussie,10,1,10.88649333,-2.640236667,356,Subsoil
+icr015256,Ghana,Lambussie,11,1,10.91673167,-2.6396,246,Topsoil
+icr015257,Ghana,Lambussie,11,1,10.91673167,-2.6396,246,Subsoil
+icr015275,Ghana,Lambussie,12,1,10.92958167,-2.637041667,251,Topsoil
+icr015276,Ghana,Lambussie,12,1,10.92958167,-2.637041667,251,Subsoil
+icr015295,Ghana,Lambussie,13,1,10.86627833,-2.607243333,293,Topsoil
+icr015296,Ghana,Lambussie,13,1,10.86627833,-2.607243333,293,Subsoil
+icr015315,Ghana,Lambussie,14,1,10.88011667,-2.620426667,140,Topsoil
+icr015335,Ghana,Lambussie,15,1,10.90988167,-2.62005,257,Topsoil
+icr015336,Ghana,Lambussie,15,1,10.90988167,-2.62005,257,Subsoil
+icr015352,Ghana,Lambussie,16,1,10.92147667,-2.616638333,295,Topsoil
+icr015353,Ghana,Lambussie,16,1,10.92147667,-2.616638333,295,Subsoil
+icr015432,Ghana,Kubeasi,1,1,6.69583167,-1.306978333,252,Topsoil
+icr015433,Ghana,Kubeasi,1,1,6.69583167,-1.306978333,252,Subsoil
+icr015452,Ghana,Kubeasi,2,1,6.71096333,-1.309231667,264,Topsoil
+icr015453,Ghana,Kubeasi,2,1,6.71096333,-1.309231667,264,Subsoil
+icr015472,Ghana,Kubeasi,3,1,6.73277333,-1.305245,235,Topsoil
+icr015473,Ghana,Kubeasi,3,1,6.73277333,-1.305245,235,Subsoil
+icr015492,Ghana,Kubeasi,4,1,6.75996167,-1.309595,258,Topsoil
+icr015493,Ghana,Kubeasi,4,1,6.75996167,-1.309595,258,Subsoil
+icr015512,Ghana,Kubeasi,5,1,6.68448,-1.28564,313,Topsoil
+icr015513,Ghana,Kubeasi,5,1,6.68448,-1.28564,313,Subsoil
+icr015532,Ghana,Kubeasi,6,1,6.71250667,-1.292856667,251,Topsoil
+icr015533,Ghana,Kubeasi,6,1,6.71250667,-1.292856667,251,Subsoil
+icr015552,Ghana,Kubeasi,7,1,6.728055,-1.284068333,245,Topsoil
+icr015553,Ghana,Kubeasi,7,1,6.728055,-1.284068333,245,Subsoil
+icr015572,Ghana,Kubeasi,8,1,6.75536333,-1.295706667,250,Topsoil
+icr015573,Ghana,Kubeasi,8,1,6.75536333,-1.295706667,250,Subsoil
+icr015592,Ghana,Kubeasi,9,1,6.68232667,-1.25978,223,Topsoil
+icr015593,Ghana,Kubeasi,9,1,6.68232667,-1.25978,223,Subsoil
+icr015612,Ghana,Kubeasi,10,1,6.71195333,-1.260205,253,Topsoil
+icr015613,Ghana,Kubeasi,10,1,6.71195333,-1.260205,253,Subsoil
+icr015632,Ghana,Kubeasi,11,1,6.74021833,-1.266893333,213,Topsoil
+icr015633,Ghana,Kubeasi,11,1,6.74021833,-1.266893333,213,Subsoil
+icr015652,Ghana,Kubeasi,12,1,6.75881833,-1.269926667,244,Topsoil
+icr015653,Ghana,Kubeasi,12,1,6.75881833,-1.269926667,244,Subsoil
+icr015672,Ghana,Kubeasi,13,1,6.69200167,-1.241593333,205,Topsoil
+icr015673,Ghana,Kubeasi,13,1,6.69200167,-1.241593333,205,Subsoil
+icr015692,Ghana,Kubeasi,14,1,6.71126667,-1.249091667,218,Topsoil
+icr015693,Ghana,Kubeasi,14,1,6.71126667,-1.249091667,218,Subsoil
+icr015712,Ghana,Kubeasi,15,1,6.73047667,-1.24715,219,Topsoil
+icr015713,Ghana,Kubeasi,15,1,6.73047667,-1.24715,219,Subsoil
+icr015732,Ghana,Kubeasi,16,1,6.75628667,-1.243568333,241,Topsoil
+icr015733,Ghana,Kubeasi,16,1,6.75628667,-1.243568333,241,Subsoil
+icr015752,Ghana,Ajumako,1,1,5.37398667,-0.787106667,63,Topsoil
+icr015753,Ghana,Ajumako,1,1,5.37398667,-0.787106667,63,Subsoil
+icr015772,Ghana,Ajumako,2,1,5.39579,-0.780361667,59,Topsoil
+icr015773,Ghana,Ajumako,2,1,5.39579,-0.780361667,59,Subsoil
+icr015792,Ghana,Ajumako,3,1,5.41379333,-0.780368333,75,Topsoil
+icr015793,Ghana,Ajumako,3,1,5.41379333,-0.780368333,75,Subsoil
+icr015812,Ghana,Ajumako,4,1,5.44978,-0.771613333,103,Topsoil
+icr015813,Ghana,Ajumako,4,1,5.44978,-0.771613333,103,Subsoil
+icr015832,Ghana,Ajumako,5,2,5.371555,-0.762728333,49,Topsoil
+icr015833,Ghana,Ajumako,5,2,5.371555,-0.762728333,49,Subsoil
+icr015852,Ghana,Ajumako,6,1,5.39815167,-0.751176667,59,Topsoil
+icr015853,Ghana,Ajumako,6,1,5.39815167,-0.751176667,59,Subsoil
+icr015872,Ghana,Ajumako,7,2,5.42006,-0.75521,78,Topsoil
+icr015873,Ghana,Ajumako,7,2,5.42006,-0.75521,78,Subsoil
+icr015892,Ghana,Ajumako,8,1,5.44254833,-0.764775,66,Topsoil
+icr015893,Ghana,Ajumako,8,1,5.44254833,-0.764775,66,Subsoil
+icr015912,Ghana,Ajumako,9,1,5.377035,-0.726425,58,Topsoil
+icr015913,Ghana,Ajumako,9,1,5.377035,-0.726425,58,Subsoil
+icr015932,Ghana,Ajumako,10,1,5.39910833,-0.733821667,73,Topsoil
+icr015933,Ghana,Ajumako,10,1,5.39910833,-0.733821667,73,Subsoil
+icr015952,Ghana,Ajumako,11,1,5.41552833,-0.736546667,74,Topsoil
+icr015953,Ghana,Ajumako,11,1,5.41552833,-0.736546667,74,Subsoil
+icr015972,Ghana,Ajumako,12,1,5.434675,-0.728883333,94,Topsoil
+icr015973,Ghana,Ajumako,12,1,5.434675,-0.728883333,94,Subsoil
+icr015992,Ghana,Ajumako,13,1,5.36981833,-0.714001667,33,Topsoil
+icr015993,Ghana,Ajumako,13,1,5.36981833,-0.714001667,33,Subsoil
+icr016012,Ghana,Ajumako,14,1,5.39372667,-0.707133333,84,Topsoil
+icr016013,Ghana,Ajumako,14,1,5.39372667,-0.707133333,84,Subsoil
+icr016032,Ghana,Ajumako,15,1,5.42318167,-0.709083333,140,Topsoil
+icr016033,Ghana,Ajumako,15,1,5.42318167,-0.709083333,140,Subsoil
+icr016052,Ghana,Ajumako,16,1,5.44766667,-0.717421667,89,Topsoil
+icr016053,Ghana,Ajumako,16,1,5.44766667,-0.717421667,89,Subsoil
+icr020848,Tanzania,Kidatu,1,1,-8.07403278,37.26938248,295,Topsoil
+icr020849,Tanzania,Kidatu,1,1,-8.07403278,37.26938248,295,Subsoil
+icr020868,Tanzania,Kidatu,2,1,-8.04190826,37.27168274,306,Topsoil
+icr020869,Tanzania,Kidatu,2,1,-8.04190826,37.27168274,306,Subsoil
+icr020888,Tanzania,Kidatu,3,1,-8.02105045,37.27035141,300,Topsoil
+icr020889,Tanzania,Kidatu,3,1,-8.02105045,37.27035141,300,Subsoil
+icr020908,Tanzania,Kidatu,4,1,-8.00080681,37.27236938,311,Topsoil
+icr020909,Tanzania,Kidatu,4,1,-8.00080681,37.27236938,311,Subsoil
+icr020927,Tanzania,Kidatu,5,1,-8.07408333,37.29367447,329,Topsoil
+icr020928,Tanzania,Kidatu,5,1,-8.07408333,37.29367447,329,Subsoil
+icr020947,Tanzania,Kidatu,6,1,-8.04761505,37.295681,322,Topsoil
+icr020948,Tanzania,Kidatu,6,1,-8.04761505,37.295681,322,Subsoil
+icr020970,Tanzania,Kidatu,7,3,-8.02381229,37.29229736,319,Topsoil
+icr020971,Tanzania,Kidatu,7,3,-8.02381229,37.29229736,319,Subsoil
+icr020986,Tanzania,Kidatu,8,1,-8.00173283,37.29563904,323,Topsoil
+icr020987,Tanzania,Kidatu,8,1,-8.00173283,37.29563904,323,Subsoil
+icr021004,Tanzania,Kidatu,9,1,-8.06768513,37.31658554,324,Topsoil
+icr021005,Tanzania,Kidatu,9,1,-8.06768513,37.31658554,324,Subsoil
+icr021023,Tanzania,Kidatu,10,1,-8.0423584,37.31354523,348,Topsoil
+icr021024,Tanzania,Kidatu,10,1,-8.0423584,37.31354523,348,Subsoil
+icr021043,Tanzania,Kidatu,11,1,-8.02555275,37.31706238,329,Topsoil
+icr021044,Tanzania,Kidatu,11,1,-8.02555275,37.31706238,329,Subsoil
+icr021063,Tanzania,Kidatu,12,1,-8.00514507,37.31461716,333,Topsoil
+icr021064,Tanzania,Kidatu,12,1,-8.00514507,37.31461716,333,Subsoil
+icr021083,Tanzania,Kidatu,13,1,-8.07075501,37.33062744,299,Topsoil
+icr021084,Tanzania,Kidatu,13,1,-8.07075501,37.33062744,299,Subsoil
+icr021103,Tanzania,Kidatu,14,1,-8.04930496,37.33369827,325,Topsoil
+icr021104,Tanzania,Kidatu,14,1,-8.04930496,37.33369827,325,Subsoil
+icr021123,Tanzania,Kidatu,15,1,-8.02354813,37.33749771,316,Topsoil
+icr021124,Tanzania,Kidatu,15,1,-8.02354813,37.33749771,316,Subsoil
+icr021141,Tanzania,Kidatu,16,1,-8.00446224,37.32851028,319,Topsoil
+icr021142,Tanzania,Kidatu,16,1,-8.00446224,37.32851028,319,Subsoil
+icr023116,Mozambique,Macassangila,1,1,-13.44472167,35.46230333,1054,Topsoil
+icr023117,Mozambique,Macassangila,1,1,-13.44472167,35.46230333,1054,Subsoil
+icr023136,Mozambique,Macassangila,2,1,-13.42477667,35.46136,1081,Topsoil
+icr023137,Mozambique,Macassangila,2,1,-13.42477667,35.46136,1081,Subsoil
+icr023155,Mozambique,Macassangila,3,1,-13.39751667,35.463245,1182,Topsoil
+icr023156,Mozambique,Macassangila,3,1,-13.39751667,35.463245,1182,Subsoil
+icr023175,Mozambique,Macassangila,4,1,-13.37361833,35.45979833,1210,Topsoil
+icr023176,Mozambique,Macassangila,4,1,-13.37361833,35.45979833,1210,Subsoil
+icr023195,Mozambique,Macassangila,5,1,-13.43447167,35.48144667,1084,Topsoil
+icr023213,Mozambique,Macassangila,6,2,-13.414135,35.48740333,1099,Topsoil
+icr023214,Mozambique,Macassangila,6,2,-13.414135,35.48740333,1099,Subsoil
+icr023233,Mozambique,Macassangila,7,1,-13.40028833,35.48778167,1146,Topsoil
+icr023234,Mozambique,Macassangila,7,1,-13.40028833,35.48778167,1146,Subsoil
+icr023253,Mozambique,Macassangila,8,1,-13.37299833,35.47741667,1183,Topsoil
+icr023254,Mozambique,Macassangila,8,1,-13.37299833,35.47741667,1183,Subsoil
+icr023273,Mozambique,Macassangila,9,1,-13.43872667,35.509765,1064,Topsoil
+icr023274,Mozambique,Macassangila,9,1,-13.43872667,35.509765,1064,Subsoil
+icr023293,Mozambique,Macassangila,10,1,-13.41760667,35.511175,1100,Topsoil
+icr023294,Mozambique,Macassangila,10,1,-13.41760667,35.511175,1100,Subsoil
+icr023313,Mozambique,Macassangila,11,1,-13.399045,35.50034833,1122,Topsoil
+icr023314,Mozambique,Macassangila,11,1,-13.399045,35.50034833,1122,Subsoil
+icr023333,Mozambique,Macassangila,12,1,-13.37075167,35.50440167,1120,Topsoil
+icr023334,Mozambique,Macassangila,12,1,-13.37075167,35.50440167,1120,Subsoil
+icr023353,Mozambique,Macassangila,13,1,-13.44441167,35.52735167,1058,Topsoil
+icr023354,Mozambique,Macassangila,13,1,-13.44441167,35.52735167,1058,Subsoil
+icr023373,Mozambique,Macassangila,14,1,-13.41841667,35.52110333,1064,Topsoil
+icr023374,Mozambique,Macassangila,14,1,-13.41841667,35.52110333,1064,Subsoil
+icr023393,Mozambique,Macassangila,15,1,-13.40278,35.52307667,1114,Topsoil
+icr023394,Mozambique,Macassangila,15,1,-13.40278,35.52307667,1114,Subsoil
+icr023413,Mozambique,Macassangila,16,1,-13.37711,35.52999333,1100,Topsoil
+icr023414,Mozambique,Macassangila,16,1,-13.37711,35.52999333,1100,Subsoil
+icr023433,Mozambique,Chica_b,1,1,-14.75066833,39.839635,259,Topsoil
+icr023434,Mozambique,Chica_b,1,1,-14.75066833,39.839635,259,Subsoil
+icr023453,Mozambique,Chica_b,2,1,-14.726465,39.84090667,254,Topsoil
+icr023454,Mozambique,Chica_b,2,1,-14.726465,39.84090667,254,Subsoil
+icr023473,Mozambique,Chica_b,3,1,-14.70832833,39.83611667,315,Topsoil
+icr023474,Mozambique,Chica_b,3,1,-14.70832833,39.83611667,315,Subsoil
+icr023493,Mozambique,Chica_b,4,1,-14.68884167,39.84353333,330,Topsoil
+icr023494,Mozambique,Chica_b,4,1,-14.68884167,39.84353333,330,Subsoil
+icr023513,Mozambique,Chica_b,5,1,-14.75414,39.85758167,269,Topsoil
+icr023514,Mozambique,Chica_b,5,1,-14.75414,39.85758167,269,Subsoil
+icr023533,Mozambique,Chica_b,6,1,-14.72360167,39.86317833,285,Topsoil
+icr023534,Mozambique,Chica_b,6,1,-14.72360167,39.86317833,285,Subsoil
+icr023553,Mozambique,Chica_b,7,1,-14.70096833,39.86144167,302,Topsoil
+icr023554,Mozambique,Chica_b,7,1,-14.70096833,39.86144167,302,Subsoil
+icr023573,Mozambique,Chica_b,8,1,-14.68552,39.86471833,284,Topsoil
+icr023574,Mozambique,Chica_b,8,1,-14.68552,39.86471833,284,Subsoil
+icr023593,Mozambique,Chica_b,9,1,-14.7512,39.8859,NA,Topsoil
+icr023594,Mozambique,Chica_b,9,1,-14.7512,39.8859,NA,Subsoil
+icr023613,Mozambique,Chica_b,10,1,-14.72912667,39.87938333,253,Topsoil
+icr023614,Mozambique,Chica_b,10,1,-14.72912667,39.87938333,253,Subsoil
+icr023633,Mozambique,Chica_b,11,1,-14.701545,39.88362667,248,Topsoil
+icr023634,Mozambique,Chica_b,11,1,-14.701545,39.88362667,248,Subsoil
+icr023652,Mozambique,Chica_b,12,2,-14.68108833,39.88605833,257,Topsoil
+icr023653,Mozambique,Chica_b,12,2,-14.68108833,39.88605833,257,Subsoil
+icr023672,Mozambique,Chica_b,13,1,-14.74916833,39.90905167,248,Topsoil
+icr023673,Mozambique,Chica_b,13,1,-14.74916833,39.90905167,248,Subsoil
+icr023692,Mozambique,Chica_b,14,1,-14.72569333,39.90788167,239,Topsoil
+icr023693,Mozambique,Chica_b,14,1,-14.72569333,39.90788167,239,Subsoil
+icr023712,Mozambique,Chica_b,15,1,-14.70472833,39.91341833,314,Topsoil
+icr023713,Mozambique,Chica_b,15,1,-14.70472833,39.91341833,314,Subsoil
+icr023731,Mozambique,Chica_b,16,1,-14.68274,39.90612,272,Topsoil
+icr023732,Mozambique,Chica_b,16,1,-14.68274,39.90612,272,Subsoil
+icr024868,Tanzania,Itende,1,3,-6.92843294,34.1724205,1234,Topsoil
+icr024869,Tanzania,Itende,1,3,-6.92843294,34.1724205,1234,Subsoil
+icr024879,Tanzania,Itende,2,1,-6.89794493,34.17971039,1231,Topsoil
+icr024880,Tanzania,Itende,2,1,-6.89794493,34.17971039,1231,Subsoil
+icr024899,Tanzania,Itende,3,1,-6.88135815,34.17768097,1220,Topsoil
+icr024900,Tanzania,Itende,3,1,-6.88135815,34.17768097,1220,Subsoil
+icr024917,Tanzania,Itende,4,1,-6.86510992,34.18169403,1229,Topsoil
+icr024918,Tanzania,Itende,4,1,-6.86510992,34.18169403,1229,Subsoil
+icr024937,Tanzania,Itende,5,1,-6.92998695,34.19476318,1219,Topsoil
+icr024938,Tanzania,Itende,5,1,-6.92998695,34.19476318,1219,Subsoil
+icr024956,Tanzania,Itende,6,1,-6.91006517,34.19247818,1243,Topsoil
+icr024957,Tanzania,Itende,6,1,-6.91006517,34.19247818,1243,Subsoil
+icr024976,Tanzania,Itende,7,2,-6.87918282,34.19307327,1223,Topsoil
+icr024977,Tanzania,Itende,7,2,-6.87918282,34.19307327,1223,Subsoil
+icr024994,Tanzania,Itende,8,3,-6.859828,34.19452667,1275,Topsoil
+icr024995,Tanzania,Itende,8,3,-6.859828,34.19452667,1275,Subsoil
+icr025009,Tanzania,Itende,9,5,-6.927495,34.22314835,1207,Topsoil
+icr025010,Tanzania,Itende,9,5,-6.927495,34.22314835,1207,Subsoil
+icr025016,Tanzania,Itende,10,1,-6.90416813,34.21570587,1223,Topsoil
+icr025017,Tanzania,Itende,10,1,-6.90416813,34.21570587,1223,Subsoil
+icr025036,Tanzania,Itende,11,1,-6.87863302,34.2233963,1221,Topsoil
+icr025037,Tanzania,Itende,11,1,-6.87863302,34.2233963,1221,Subsoil
+icr025055,Tanzania,Itende,12,1,-6.85391283,34.21279907,1219,Topsoil
+icr025056,Tanzania,Itende,12,1,-6.85391283,34.21279907,1219,Subsoil
+icr025074,Tanzania,Itende,13,1,-6.91894484,34.23665237,1217,Topsoil
+icr025075,Tanzania,Itende,13,1,-6.91894484,34.23665237,1217,Subsoil
+icr025092,Tanzania,Itende,14,1,-6.89881992,34.24073792,1188,Topsoil
+icr025093,Tanzania,Itende,14,1,-6.89881992,34.24073792,1188,Subsoil
+icr025111,Tanzania,Itende,15,1,-6.87730789,34.24555969,1165,Topsoil
+icr025112,Tanzania,Itende,15,1,-6.87730789,34.24555969,1165,Subsoil
+icr025135,Tanzania,Itende,16,7,-6.8516202,34.24331284,1267,Topsoil
+icr025136,Tanzania,Itende,16,7,-6.8516202,34.24331284,1267,Subsoil
+icr030024,Ethiopia,Dambidolo,1,1,8.57689476,34.97977448,1585,Topsoil
+icr030025,Ethiopia,Dambidolo,1,1,8.57689476,34.97977448,1585,Subsoil
+icr030043,Ethiopia,Dambidolo,2,1,8.60079002,34.98501205,1474,Topsoil
+icr030044,Ethiopia,Dambidolo,2,1,8.60079002,34.98501205,1474,Subsoil
+icr030063,Ethiopia,Dambidolo,3,1,8.6298523,34.98375702,1389,Topsoil
+icr030064,Ethiopia,Dambidolo,3,1,8.6298523,34.98375702,1389,Subsoil
+icr030083,Ethiopia,Dambidolo,4,1,8.65487957,34.98785019,1450,Topsoil
+icr030084,Ethiopia,Dambidolo,4,1,8.65487957,34.98785019,1450,Subsoil
+icr030103,Ethiopia,Dambidolo,5,1,8.58185482,34.99887466,1212,Topsoil
+icr030104,Ethiopia,Dambidolo,5,1,8.58185482,34.99887466,1212,Subsoil
+icr030123,Ethiopia,Dambidolo,6,2,8.59928799,35.00059891,1379,Topsoil
+icr030124,Ethiopia,Dambidolo,6,2,8.59928799,35.00059891,1379,Subsoil
+icr030143,Ethiopia,Dambidolo,7,1,8.62714481,35.00778198,1365,Topsoil
+icr030144,Ethiopia,Dambidolo,7,1,8.62714481,35.00778198,1365,Subsoil
+icr030163,Ethiopia,Dambidolo,8,1,8.64413834,34.9988327,1387,Topsoil
+icr030164,Ethiopia,Dambidolo,8,1,8.64413834,34.9988327,1387,Subsoil
+icr030183,Ethiopia,Dambidolo,9,5,8.57880211,35.02257156,1126,Topsoil
+icr030184,Ethiopia,Dambidolo,9,5,8.57880211,35.02257156,1126,Subsoil
+icr030200,Ethiopia,Dambidolo,10,2,8.60359764,35.02456665,1426,Topsoil
+icr030201,Ethiopia,Dambidolo,10,2,8.60359764,35.02456665,1426,Subsoil
+icr030218,Ethiopia,Dambidolo,11,1,8.61843967,35.02986145,1226,Topsoil
+icr030219,Ethiopia,Dambidolo,11,1,8.61843967,35.02986145,1226,Subsoil
+icr030238,Ethiopia,Dambidolo,12,1,8.64140797,35.02413177,1371,Topsoil
+icr030239,Ethiopia,Dambidolo,12,1,8.64140797,35.02413177,1371,Subsoil
+icr030258,Ethiopia,Dambidolo,13,1,8.57747841,35.04580688,1354,Topsoil
+icr030259,Ethiopia,Dambidolo,13,1,8.57747841,35.04580688,1354,Subsoil
+icr030276,Ethiopia,Dambidolo,14,1,8.6030798,35.04847336,1326,Topsoil
+icr030277,Ethiopia,Dambidolo,14,1,8.6030798,35.04847336,1326,Subsoil
+icr030296,Ethiopia,Dambidolo,15,1,8.62918758,35.05138397,1229,Topsoil
+icr030297,Ethiopia,Dambidolo,15,1,8.62918758,35.05138397,1229,Subsoil
+icr030316,Ethiopia,Dambidolo,16,1,8.64607239,35.05302811,1350,Topsoil
+icr030317,Ethiopia,Dambidolo,16,1,8.64607239,35.05302811,1350,Subsoil
+icr030335,Ethiopia,Merar,1,3,9.57485485,42.66679382,1928,Topsoil
+icr030336,Ethiopia,Merar,1,3,9.57485485,42.66679382,1928,Subsoil
+icr030352,Ethiopia,Merar,2,3,9.5947551699999991,42.66899109,1935,Topsoil
+icr030353,Ethiopia,Merar,2,3,9.5947551699999991,42.66899109,1935,Subsoil
+icr030367,Ethiopia,Merar,3,7,9.61504269,42.66503906,1833,Topsoil
+icr030368,Ethiopia,Merar,3,7,9.61504269,42.66503906,1833,Subsoil
+icr030376,Ethiopia,Merar,4,1,9.63304997,42.66046143,1827,Topsoil
+icr030377,Ethiopia,Merar,4,1,9.63304997,42.66046143,1827,Subsoil
+icr030387,Ethiopia,Merar,5,2,9.56801796,42.69237518,1929,Topsoil
+icr030388,Ethiopia,Merar,5,2,9.56801796,42.69237518,1929,Subsoil
+icr030400,Ethiopia,Merar,6,2,9.59038162,42.68822861,1939,Topsoil
+icr030401,Ethiopia,Merar,6,2,9.59038162,42.68822861,1939,Subsoil
+icr030416,Ethiopia,Merar,7,1,9.61859798,42.69437027,1911,Topsoil
+icr030430,Ethiopia,Merar,8,6,9.63597775,42.69142151,1867,Topsoil
+icr030431,Ethiopia,Merar,8,6,9.63597775,42.69142151,1867,Subsoil
+icr030438,Ethiopia,Merar,9,1,9.56470776,42.71464157,1903,Topsoil
+icr030439,Ethiopia,Merar,9,1,9.56470776,42.71464157,1903,Subsoil
+icr030458,Ethiopia,Merar,10,1,9.59254456,42.7080574,1913,Topsoil
+icr030459,Ethiopia,Merar,10,1,9.59254456,42.7080574,1913,Subsoil
+icr030478,Ethiopia,Merar,11,1,9.6164484,42.70803833,1922,Topsoil
+icr030479,Ethiopia,Merar,11,1,9.6164484,42.70803833,1922,Subsoil
+icr030494,Ethiopia,Merar,12,1,9.63629723,42.71965027,1911,Topsoil
+icr030495,Ethiopia,Merar,12,1,9.63629723,42.71965027,1911,Subsoil
+icr030511,Ethiopia,Merar,13,1,9.56637478,42.73178101,1956,Topsoil
+icr030512,Ethiopia,Merar,13,1,9.56637478,42.73178101,1956,Subsoil
+icr030531,Ethiopia,Merar,14,1,9.5883646,42.72484207,1919,Topsoil
+icr030532,Ethiopia,Merar,14,1,9.5883646,42.72484207,1919,Subsoil
+icr030551,Ethiopia,Merar,15,1,9.61545658,42.73780441,1919,Topsoil
+icr030552,Ethiopia,Merar,15,1,9.61545658,42.73780441,1919,Subsoil
+icr030571,Ethiopia,Merar,16,2,9.63665199,42.73842239,1924,Topsoil
+icr030572,Ethiopia,Merar,16,2,9.63665199,42.73842239,1924,Subsoil
+icr033351,Kenya,Mbalambala,1,1,-0.150345,38.99033356,243,Topsoil
+icr033352,Kenya,Mbalambala,1,1,-0.150345,38.99033356,243,Subsoil
+icr033371,Kenya,Mbalambala,2,1,-0.12604301,38.9902153,238,Topsoil
+icr033372,Kenya,Mbalambala,2,1,-0.12604301,38.9902153,238,Subsoil
+icr033389,Kenya,Mbalambala,2,10,-0.12994801,38.99116898,237,Topsoil
+icr033390,Kenya,Mbalambala,2,10,-0.12994801,38.99116898,237,Subsoil
+icr033392,Kenya,Mbalambala,3,2,-0.102418,38.9889183,232,Topsoil
+icr033393,Kenya,Mbalambala,3,2,-0.102418,38.9889183,232,Subsoil
+icr033407,Kenya,Mbalambala,5,1,-0.15257999,39.01852417,243,Topsoil
+icr033408,Kenya,Mbalambala,5,1,-0.15257999,39.01852417,243,Subsoil
+icr033427,Kenya,Mbalambala,6,1,-0.12714501,39.014431,227,Topsoil
+icr033428,Kenya,Mbalambala,6,1,-0.12714501,39.014431,227,Subsoil
+icr033445,Kenya,Mbalambala,6,10,-0.129155,39.01071167,229,Topsoil
+icr033446,Kenya,Mbalambala,6,10,-0.129155,39.01071167,229,Subsoil
+icr033447,Kenya,Mbalambala,7,1,-0.104105,39.01512146,227,Topsoil
+icr033448,Kenya,Mbalambala,7,1,-0.104105,39.01512146,227,Subsoil
+icr033466,Kenya,Mbalambala,9,1,-0.14825299,39.0405426,226,Topsoil
+icr033467,Kenya,Mbalambala,9,1,-0.14825299,39.0405426,226,Subsoil
+icr033486,Kenya,Mbalambala,10,1,-0.13617,39.0349884,227,Topsoil
+icr033487,Kenya,Mbalambala,10,1,-0.13617,39.0349884,227,Subsoil
+icr033506,Kenya,Mbalambala,11,1,-0.106482,39.03767776,218,Topsoil
+icr033507,Kenya,Mbalambala,11,1,-0.106482,39.03767776,218,Subsoil
+icr033525,Kenya,Mbalambala,13,1,-0.15493301,39.06001282,221,Topsoil
+icr033526,Kenya,Mbalambala,13,1,-0.15493301,39.06001282,221,Subsoil
+icr033545,Kenya,Mbalambala,14,1,-0.137943,39.0579567,223,Topsoil
+icr033546,Kenya,Mbalambala,14,1,-0.137943,39.0579567,223,Subsoil
+icr033566,Kenya,Mbalambala,15,2,-0.109038,39.05654144,216,Topsoil
+icr033567,Kenya,Mbalambala,15,2,-0.109038,39.05654144,216,Subsoil
+icr033580,Kenya,Mbalambala,15,10,-0.104208,39.05907822,218,Topsoil
+icr033581,Kenya,Mbalambala,15,10,-0.104208,39.05907822,218,Subsoil
+icr033582,Kenya,Mbalambala,16,1,-0.091448,39.06403351,196,Topsoil
+icr033583,Kenya,Mbalambala,16,1,-0.091448,39.06403351,196,Subsoil
+icr033602,Ethiopia,Mega,1,1,4.14386177,38.25843048,1633,Topsoil
+icr033603,Ethiopia,Mega,1,1,4.14386177,38.25843048,1633,Subsoil
+icr033621,Ethiopia,Mega,2,1,4.17808723,38.26189041,1540,Topsoil
+icr033622,Ethiopia,Mega,2,1,4.17808723,38.26189041,1540,Subsoil
+icr033637,Ethiopia,Mega,3,1,4.19490194,38.25834656,1536,Topsoil
+icr033638,Ethiopia,Mega,3,1,4.19490194,38.25834656,1536,Subsoil
+icr033656,Ethiopia,Mega,4,1,4.21533012,38.26117706,1550,Topsoil
+icr033657,Ethiopia,Mega,4,1,4.21533012,38.26117706,1550,Subsoil
+icr033676,Ethiopia,Mega,5,1,4.14940786,38.29164124,1577,Topsoil
+icr033677,Ethiopia,Mega,5,1,4.14940786,38.29164124,1577,Subsoil
+icr033696,Ethiopia,Mega,6,1,4.17650223,38.28850937,1533,Topsoil
+icr033697,Ethiopia,Mega,6,1,4.17650223,38.28850937,1533,Subsoil
+icr033714,Ethiopia,Mega,7,1,4.19285202,38.2822876,1551,Topsoil
+icr033715,Ethiopia,Mega,7,1,4.19285202,38.2822876,1551,Subsoil
+icr033732,Ethiopia,Mega,8,1,4.2169199,38.28134918,1580,Topsoil
+icr033733,Ethiopia,Mega,8,1,4.2169199,38.28134918,1580,Subsoil
+icr033752,Ethiopia,Mega,9,1,4.14850712,38.31196213,1582,Topsoil
+icr033753,Ethiopia,Mega,9,1,4.14850712,38.31196213,1582,Subsoil
+icr033771,Ethiopia,Mega,10,1,4.1779871,38.30709839,1524,Topsoil
+icr033772,Ethiopia,Mega,10,1,4.1779871,38.30709839,1524,Subsoil
+icr033791,Ethiopia,Mega,11,1,4.1927681,38.30604172,1543,Topsoil
+icr033792,Ethiopia,Mega,11,1,4.1927681,38.30604172,1543,Subsoil
+icr033811,Ethiopia,Mega,12,1,4.20917797,38.31288528,1513,Topsoil
+icr033812,Ethiopia,Mega,12,1,4.20917797,38.31288528,1513,Subsoil
+icr033831,Ethiopia,Mega,13,1,4.14266682,38.33316422,1528,Topsoil
+icr033832,Ethiopia,Mega,13,1,4.14266682,38.33316422,1528,Subsoil
+icr033851,Ethiopia,Mega,14,1,4.16091299,38.33256149,1527,Topsoil
+icr033852,Ethiopia,Mega,14,1,4.16091299,38.33256149,1527,Subsoil
+icr033871,Ethiopia,Mega,15,1,4.19322205,38.3321991,1521,Topsoil
+icr033872,Ethiopia,Mega,15,1,4.19322205,38.3321991,1521,Subsoil
+icr033890,Ethiopia,Mega,16,1,4.20751286,38.32760239,1513,Topsoil
+icr033891,Ethiopia,Mega,16,1,4.20751286,38.32760239,1513,Subsoil
+icr033910,Nigeria,Ibi,1,1,8.10135,9.867401667,128,Topsoil
+icr033911,Nigeria,Ibi,1,1,8.10135,9.867401667,128,Subsoil
+icr033930,Nigeria,Ibi,2,1,8.13086,9.857668333,127,Topsoil
+icr033931,Nigeria,Ibi,2,1,8.13086,9.857668333,127,Subsoil
+icr033950,Nigeria,Ibi,3,1,8.14880667,9.866153333,126,Topsoil
+icr033951,Nigeria,Ibi,3,1,8.14880667,9.866153333,126,Subsoil
+icr033970,Nigeria,Ibi,4,1,8.17299167,9.854511667,73,Topsoil
+icr033971,Nigeria,Ibi,4,1,8.17299167,9.854511667,73,Subsoil
+icr033990,Nigeria,Ibi,5,1,8.10690833,9.881415,120,Topsoil
+icr033991,Nigeria,Ibi,5,1,8.10690833,9.881415,120,Subsoil
+icr034010,Nigeria,Ibi,6,1,8.12667833,9.8805283330000009,139,Topsoil
+icr034011,Nigeria,Ibi,6,1,8.12667833,9.8805283330000009,139,Subsoil
+icr034030,Nigeria,Ibi,7,1,8.146075,9.884018333,121,Topsoil
+icr034031,Nigeria,Ibi,7,1,8.146075,9.884018333,121,Subsoil
+icr034050,Nigeria,Ibi,8,1,8.173905,9.888138333,153,Topsoil
+icr034051,Nigeria,Ibi,8,1,8.173905,9.888138333,153,Subsoil
+icr034070,Nigeria,Ibi,9,1,8.10638833,9.903975,152,Topsoil
+icr034071,Nigeria,Ibi,9,1,8.10638833,9.903975,152,Subsoil
+icr034090,Nigeria,Ibi,10,1,8.12839333,9.910415,132,Topsoil
+icr034091,Nigeria,Ibi,10,1,8.12839333,9.910415,132,Subsoil
+icr034110,Nigeria,Ibi,11,1,8.15104,9.90334,NA,Topsoil
+icr034111,Nigeria,Ibi,11,1,8.15104,9.90334,NA,Subsoil
+icr034130,Nigeria,Ibi,12,1,8.16784833,9.90665,144,Topsoil
+icr034131,Nigeria,Ibi,12,1,8.16784833,9.90665,144,Subsoil
+icr034150,Nigeria,Ibi,13,1,8.10137667,9.921948333,145,Topsoil
+icr034151,Nigeria,Ibi,13,1,8.10137667,9.921948333,145,Subsoil
+icr034170,Nigeria,Ibi,14,1,8.132995,9.929275,152,Topsoil
+icr034171,Nigeria,Ibi,14,1,8.132995,9.929275,152,Subsoil
+icr034190,Nigeria,Ibi,15,1,8.15869333,9.93064,147,Topsoil
+icr034191,Nigeria,Ibi,15,1,8.15869333,9.93064,147,Subsoil
+icr034210,Nigeria,Ibi,16,1,8.17348833,9.927748333,136,Topsoil
+icr034211,Nigeria,Ibi,16,1,8.17348833,9.927748333,136,Subsoil
+icr034262,Nigeria,Katsina ala,1,1,6.97864333,9.305081667,171,Topsoil
+icr034263,Nigeria,Katsina ala,1,1,6.97864333,9.305081667,171,Subsoil
+icr034282,Nigeria,Katsina ala,2,1,7.00485667,9.30729,187,Topsoil
+icr034283,Nigeria,Katsina ala,2,1,7.00485667,9.30729,187,Subsoil
+icr034302,Nigeria,Katsina ala,3,1,7.02070167,9.30712,186,Topsoil
+icr034303,Nigeria,Katsina ala,3,1,7.02070167,9.30712,186,Subsoil
+icr034322,Nigeria,Katsina ala,4,2,7.04608833,9.304748333,157,Topsoil
+icr034323,Nigeria,Katsina ala,4,2,7.04608833,9.304748333,157,Subsoil
+icr034342,Nigeria,Katsina ala,5,1,6.97599333,9.33337,180,Topsoil
+icr034343,Nigeria,Katsina ala,5,1,6.97599333,9.33337,180,Subsoil
+icr034362,Nigeria,Katsina ala,6,1,7.00404333,9.332265,157,Topsoil
+icr034363,Nigeria,Katsina ala,6,1,7.00404333,9.332265,157,Subsoil
+icr034382,Nigeria,Katsina ala,7,1,7.02818167,9.335976667,144,Topsoil
+icr034383,Nigeria,Katsina ala,7,1,7.02818167,9.335976667,144,Subsoil
+icr034402,Nigeria,Katsina ala,8,1,7.04311,9.33436,181,Topsoil
+icr034403,Nigeria,Katsina ala,8,1,7.04311,9.33436,181,Subsoil
+icr034422,Nigeria,Katsina ala,9,1,6.97757667,9.348373333,196,Topsoil
+icr034423,Nigeria,Katsina ala,9,1,6.97757667,9.348373333,196,Subsoil
+icr034441,Nigeria,Katsina ala,10,1,7.0012,9.357101667,202,Topsoil
+icr034442,Nigeria,Katsina ala,10,1,7.0012,9.357101667,202,Subsoil
+icr034461,Nigeria,Katsina ala,11,2,7.03131,9.35504,168,Topsoil
+icr034462,Nigeria,Katsina ala,11,2,7.03131,9.35504,168,Subsoil
+icr034481,Nigeria,Katsina ala,12,1,7.05069667,9.354231667,159,Topsoil
+icr034482,Nigeria,Katsina ala,12,1,7.05069667,9.354231667,159,Subsoil
+icr034501,Nigeria,Katsina ala,13,1,6.98352667,9.376038333,197,Topsoil
+icr034502,Nigeria,Katsina ala,13,1,6.98352667,9.376038333,197,Subsoil
+icr034521,Nigeria,Katsina ala,14,1,7.00900167,9.378645,156,Topsoil
+icr034522,Nigeria,Katsina ala,14,1,7.00900167,9.378645,156,Subsoil
+icr034541,Nigeria,Katsina ala,15,1,7.02543,9.366843333,146,Topsoil
+icr034542,Nigeria,Katsina ala,15,1,7.02543,9.366843333,146,Subsoil
+icr034561,Nigeria,Katsina ala,16,1,7.04615167,9.370495,174,Topsoil
+icr034562,Nigeria,Katsina ala,16,1,7.04615167,9.370495,174,Subsoil
+icr034613,Nigeria,Imorun,1,1,6.717035,4.630036667,104,Topsoil
+icr034614,Nigeria,Imorun,1,1,6.717035,4.630036667,104,Subsoil
+icr034633,Nigeria,Imorun,2,1,6.74027833,4.629376667,116,Topsoil
+icr034634,Nigeria,Imorun,2,1,6.74027833,4.629376667,116,Subsoil
+icr034653,Nigeria,Imorun,3,1,6.768445,4.625046667,139,Topsoil
+icr034654,Nigeria,Imorun,3,1,6.768445,4.625046667,139,Subsoil
+icr034673,Nigeria,Imorun,4,1,6.78424333,4.627915,131,Topsoil
+icr034674,Nigeria,Imorun,4,1,6.78424333,4.627915,131,Subsoil
+icr034693,Nigeria,Imorun,5,2,6.71556,4.650443333,103,Topsoil
+icr034694,Nigeria,Imorun,5,2,6.71556,4.650443333,103,Subsoil
+icr034713,Nigeria,Imorun,6,1,6.74281667,4.643856667,149,Topsoil
+icr034714,Nigeria,Imorun,6,1,6.74281667,4.643856667,149,Subsoil
+icr034733,Nigeria,Imorun,7,1,6.76571833,4.644376667,129,Topsoil
+icr034734,Nigeria,Imorun,7,1,6.76571833,4.644376667,129,Subsoil
+icr034753,Nigeria,Imorun,8,1,6.78485167,4.643185,109,Topsoil
+icr034754,Nigeria,Imorun,8,1,6.78485167,4.643185,109,Subsoil
+icr034773,Nigeria,Imorun,9,1,6.72280333,4.667463333,116,Topsoil
+icr034774,Nigeria,Imorun,9,1,6.72280333,4.667463333,116,Subsoil
+icr034793,Nigeria,Imorun,10,1,6.74489167,4.666406667,138,Topsoil
+icr034794,Nigeria,Imorun,10,1,6.74489167,4.666406667,138,Subsoil
+icr034813,Nigeria,Imorun,11,1,6.76660833,4.672126667,122,Topsoil
+icr034814,Nigeria,Imorun,11,1,6.76660833,4.672126667,122,Subsoil
+icr034833,Nigeria,Imorun,12,1,6.79339,4.666761667,131,Topsoil
+icr034834,Nigeria,Imorun,12,1,6.79339,4.666761667,131,Subsoil
+icr034853,Nigeria,Imorun,13,1,6.71981167,4.688821667,108,Topsoil
+icr034854,Nigeria,Imorun,13,1,6.71981167,4.688821667,108,Subsoil
+icr034873,Nigeria,Imorun,14,2,6.74387833,4.68995,127,Topsoil
+icr034874,Nigeria,Imorun,14,2,6.74387833,4.68995,127,Subsoil
+icr034893,Nigeria,Imorun,15,1,6.76124,4.692641667,85,Topsoil
+icr034894,Nigeria,Imorun,15,1,6.76124,4.692641667,85,Subsoil
+icr034913,Nigeria,Imorun,16,1,6.780285,4.696635,115,Topsoil
+icr034914,Nigeria,Imorun,16,1,6.780285,4.696635,115,Subsoil
+icr037417,Mali,Finnkolo,1,3,11.27548333,-5.5312,365,Topsoil
+icr037418,Mali,Finnkolo,1,3,11.27548333,-5.5312,365,Subsoil
+icr037445,Mali,Finnkolo,2,7,11.30450833,-5.532908333,451,Topsoil
+icr037446,Mali,Finnkolo,2,7,11.30450833,-5.532908333,451,Subsoil
+icr037453,Mali,Finnkolo,3,1,11.32941667,-5.534058333,386,Topsoil
+icr037454,Mali,Finnkolo,3,1,11.32941667,-5.534058333,386,Subsoil
+icr037475,Mali,Finnkolo,4,2,11.34459667,-5.52968,352,Topsoil
+icr037476,Mali,Finnkolo,4,2,11.34459667,-5.52968,352,Subsoil
+icr037491,Mali,Finnkolo,5,1,11.27253667,-5.513963333,379,Topsoil
+icr037492,Mali,Finnkolo,5,1,11.27253667,-5.513963333,379,Subsoil
+icr037511,Mali,Finnkolo,6,1,11.30263,-5.513288333,397,Topsoil
+icr037512,Mali,Finnkolo,6,1,11.30263,-5.513288333,397,Subsoil
+icr037531,Mali,Finnkolo,7,1,11.32956833,-5.518538333,430,Topsoil
+icr037532,Mali,Finnkolo,7,1,11.32956833,-5.518538333,430,Subsoil
+icr037553,Mali,Finnkolo,8,3,11.34812,-5.520495,510,Topsoil
+icr037554,Mali,Finnkolo,8,3,11.34812,-5.520495,510,Subsoil
+icr037574,Mali,Finnkolo,9,5,11.28301667,-5.486493333,594,Topsoil
+icr037575,Mali,Finnkolo,9,5,11.28301667,-5.486493333,594,Subsoil
+icr037590,Mali,Finnkolo,10,2,11.30168667,-5.48807,587,Topsoil
+icr037591,Mali,Finnkolo,10,2,11.30168667,-5.48807,587,Subsoil
+icr037620,Mali,Finnkolo,11,8,11.31536667,-5.496258333,474,Topsoil
+icr037621,Mali,Finnkolo,11,8,11.31536667,-5.496258333,474,Subsoil
+icr037626,Mali,Finnkolo,12,1,11.351895,-5.48847,444,Topsoil
+icr037627,Mali,Finnkolo,12,1,11.351895,-5.48847,444,Subsoil
+icr037646,Mali,Finnkolo,13,1,11.27255333,-5.464043333,471,Topsoil
+icr037647,Mali,Finnkolo,13,1,11.27255333,-5.464043333,471,Subsoil
+icr037675,Mali,Finnkolo,14,8,11.294715,-5.470245,482,Topsoil
+icr037676,Mali,Finnkolo,14,8,11.294715,-5.470245,482,Subsoil
+icr037689,Mali,Finnkolo,15,6,11.32902667,-5.466885,475,Topsoil
+icr037690,Mali,Finnkolo,15,6,11.32902667,-5.466885,475,Subsoil
+icr037699,Mali,Finnkolo,16,2,11.34972,-5.469775,432,Topsoil
+icr037700,Mali,Finnkolo,16,2,11.34972,-5.469775,432,Subsoil
+icr037755,Cameroon,Bana,1,5,5.232845,10.226835,1317,Topsoil
+icr037756,Cameroon,Bana,1,5,5.232845,10.226835,1317,Subsoil
+icr037767,Cameroon,Bana,2,1,5.26178333,10.22336667,1276,Topsoil
+icr037768,Cameroon,Bana,2,1,5.26178333,10.22336667,1276,Subsoil
+icr037787,Cameroon,Bana,3,1,5.28236667,10.22913667,1319,Topsoil
+icr037788,Cameroon,Bana,3,1,5.28236667,10.22913667,1319,Subsoil
+icr037807,Cameroon,Bana,4,1,5.30309333,10.22817,1230,Topsoil
+icr037808,Cameroon,Bana,4,1,5.30309333,10.22817,1230,Subsoil
+icr037843,Cameroon,Bana,5,9,5.238615,10.258085,1278,Topsoil
+icr037844,Cameroon,Bana,5,9,5.238615,10.258085,1278,Subsoil
+icr037851,Cameroon,Bana,6,3,5.253965,10.25103167,1260,Topsoil
+icr037852,Cameroon,Bana,6,3,5.253965,10.25103167,1260,Subsoil
+icr037869,Cameroon,Bana,7,2,5.27953833,10.242555,1288,Topsoil
+icr037870,Cameroon,Bana,7,2,5.27953833,10.242555,1288,Subsoil
+icr037901,Cameroon,Bana,8,8,5.30427333,10.249175,1359,Topsoil
+icr037902,Cameroon,Bana,8,8,5.30427333,10.249175,1359,Subsoil
+icr037907,Cameroon,Bana,9,1,5.23253833,10.27185333,1331,Topsoil
+icr037908,Cameroon,Bana,9,1,5.23253833,10.27185333,1331,Subsoil
+icr037927,Cameroon,Bana,10,1,5.25545667,10.26777667,1213,Topsoil
+icr037928,Cameroon,Bana,10,1,5.25545667,10.26777667,1213,Subsoil
+icr037947,Cameroon,Bana,11,2,5.28252333,10.27224833,1399,Topsoil
+icr037948,Cameroon,Bana,11,2,5.28252333,10.27224833,1399,Subsoil
+icr037969,Cameroon,Bana,12,3,5.29722333,10.26682167,1362,Topsoil
+icr037970,Cameroon,Bana,12,3,5.29722333,10.26682167,1362,Subsoil
+icr037986,Cameroon,Bana,13,1,5.233795,10.28871167,1313,Topsoil
+icr037987,Cameroon,Bana,13,1,5.233795,10.28871167,1313,Subsoil
+icr038016,Cameroon,Bana,14,8,5.25533,10.28552,1391,Topsoil
+icr038017,Cameroon,Bana,14,8,5.25533,10.28552,1391,Subsoil
+icr038034,Cameroon,Bana,15,5,5.28465667,10.28513333,1630,Topsoil
+icr038035,Cameroon,Bana,15,5,5.28465667,10.28513333,1630,Subsoil
+icr038056,Cameroon,Bana,16,7,5.30045833,10.293825,1625,Topsoil
+icr038057,Cameroon,Bana,16,7,5.30045833,10.293825,1625,Subsoil
+icr038106,Ethiopia,Kutaber,1,5,11.26593208,39.57683945,2674,Topsoil
+icr038107,Ethiopia,Kutaber,1,5,11.26593208,39.57683945,2674,Subsoil
+icr038118,Ethiopia,Kutaber,2,1,11.28125763,39.5773468,2837,Topsoil
+icr038119,Ethiopia,Kutaber,2,1,11.28125763,39.5773468,2837,Subsoil
+icr038138,Ethiopia,Kutaber,3,2,11.30827332,39.57263565,2395,Topsoil
+icr038139,Ethiopia,Kutaber,3,2,11.30827332,39.57263565,2395,Subsoil
+icr038154,Ethiopia,Kutaber,4,3,11.32647038,39.57241058,2672,Topsoil
+icr038155,Ethiopia,Kutaber,4,3,11.32647038,39.57241058,2672,Subsoil
+icr038170,Ethiopia,Kutaber,5,1,11.25986958,39.59523392,2757,Topsoil
+icr038171,Ethiopia,Kutaber,5,1,11.25986958,39.59523392,2757,Subsoil
+icr038189,Ethiopia,Kutaber,6,1,11.2826004,39.59399414,2401,Topsoil
+icr038190,Ethiopia,Kutaber,6,1,11.2826004,39.59399414,2401,Subsoil
+icr038216,Ethiopia,Kutaber,7,5,11.31150246,39.59640884,2667,Topsoil
+icr038234,Ethiopia,Kutaber,8,5,11.33642006,39.59075165,2536,Topsoil
+icr038235,Ethiopia,Kutaber,8,5,11.33642006,39.59075165,2536,Subsoil
+icr038251,Ethiopia,Kutaber,9,5,11.26762962,39.61626434,2630,Topsoil
+icr038252,Ethiopia,Kutaber,9,5,11.26762962,39.61626434,2630,Subsoil
+icr038273,Ethiopia,Kutaber,10,6,11.28393459,39.61522293,2332,Topsoil
+icr038274,Ethiopia,Kutaber,10,6,11.28393459,39.61522293,2332,Subsoil
+icr038289,Ethiopia,Kutaber,11,6,11.2998848,39.61911392,2266,Topsoil
+icr038290,Ethiopia,Kutaber,11,6,11.2998848,39.61911392,2266,Subsoil
+icr038305,Ethiopia,Kutaber,12,8,11.33621693,39.61544418,1997,Topsoil
+icr038306,Ethiopia,Kutaber,12,8,11.33621693,39.61544418,1997,Subsoil
+icr038312,Ethiopia,Kutaber,13,1,11.2650528,39.6417923,2593,Topsoil
+icr038313,Ethiopia,Kutaber,13,1,11.2650528,39.6417923,2593,Subsoil
+icr038331,Ethiopia,Kutaber,14,1,11.28757477,39.63938141,2455,Topsoil
+icr038332,Ethiopia,Kutaber,14,1,11.28757477,39.63938141,2455,Subsoil
+icr038351,Ethiopia,Kutaber,15,1,11.30782032,39.64009476,2039,Topsoil
+icr038352,Ethiopia,Kutaber,15,1,11.30782032,39.64009476,2039,Subsoil
+icr038368,Ethiopia,Kutaber,16,1,11.32898712,39.64373779,1872,Topsoil
+icr038369,Ethiopia,Kutaber,16,1,11.32898712,39.64373779,1872,Subsoil
+icr041641,Kenya,Marafa,1,2,-2.66469789,39.514431,181,Topsoil
+icr041642,Kenya,Marafa,1,2,-2.66469789,39.514431,181,Subsoil
+icr041659,Kenya,Marafa,2,1,-2.64596796,39.51325607,173,Topsoil
+icr041660,Kenya,Marafa,2,1,-2.64596796,39.51325607,173,Subsoil
+icr041679,Kenya,Marafa,3,1,-2.62334704,39.51435852,169,Topsoil
+icr041680,Kenya,Marafa,3,1,-2.62334704,39.51435852,169,Subsoil
+icr041699,Kenya,Marafa,4,1,-2.60788202,39.5163269,160,Topsoil
+icr041700,Kenya,Marafa,4,1,-2.60788202,39.5163269,160,Subsoil
+icr041719,Kenya,Marafa,5,2,-2.66981196,39.53773499,169,Topsoil
+icr041720,Kenya,Marafa,5,2,-2.66981196,39.53773499,169,Subsoil
+icr041739,Kenya,Marafa,6,1,-2.64416289,39.5366745,178,Topsoil
+icr041740,Kenya,Marafa,6,1,-2.64416289,39.5366745,178,Subsoil
+icr041759,Kenya,Marafa,7,1,-2.622082,39.53253555,178,Topsoil
+icr041760,Kenya,Marafa,7,1,-2.622082,39.53253555,178,Subsoil
+icr041779,Kenya,Marafa,8,1,-2.5984930999999998,39.53760147,173,Topsoil
+icr041780,Kenya,Marafa,8,1,-2.5984930999999998,39.53760147,173,Subsoil
+icr041799,Kenya,Marafa,9,1,-2.67196488,39.55476761,162,Topsoil
+icr041800,Kenya,Marafa,9,1,-2.67196488,39.55476761,162,Subsoil
+icr041819,Kenya,Marafa,10,1,-2.64218307,39.55010605,160,Topsoil
+icr041820,Kenya,Marafa,10,1,-2.64218307,39.55010605,160,Subsoil
+icr041838,Kenya,Marafa,11,1,-2.61965704,39.55268478,171,Topsoil
+icr041839,Kenya,Marafa,11,1,-2.61965704,39.55268478,171,Subsoil
+icr041858,Kenya,Marafa,12,1,-2.60102701,39.56488037,175,Topsoil
+icr041859,Kenya,Marafa,12,1,-2.60102701,39.56488037,175,Subsoil
+icr041878,Kenya,Marafa,13,1,-2.66731191,39.57624435,174,Topsoil
+icr041879,Kenya,Marafa,13,1,-2.66731191,39.57624435,174,Subsoil
+icr041898,Kenya,Marafa,14,2,-2.64556789,39.57897949,153,Topsoil
+icr041899,Kenya,Marafa,14,2,-2.64556789,39.57897949,153,Subsoil
+icr041915,Kenya,Marafa,15,1,-2.62039208,39.57739258,162,Topsoil
+icr041916,Kenya,Marafa,15,1,-2.62039208,39.57739258,162,Subsoil
+icr041935,Kenya,Marafa,16,1,-2.60346293,39.5819931,176,Topsoil
+icr041936,Kenya,Marafa,16,1,-2.60346293,39.5819931,176,Subsoil
+icr041987,Kenya,Morijo,1,1,-1.75930798,35.77468491,2136,Topsoil
+icr041988,Kenya,Morijo,1,1,-1.75930798,35.77468491,2136,Subsoil
+icr042004,Kenya,Morijo,2,1,-1.73033202,35.77527618,0,Topsoil
+icr042005,Kenya,Morijo,2,1,-1.73033202,35.77527618,0,Subsoil
+icr042024,Kenya,Morijo,3,1,-1.70595801,35.78072357,2240,Topsoil
+icr042025,Kenya,Morijo,3,1,-1.70595801,35.78072357,2240,Subsoil
+icr042048,Kenya,Morijo,4,4,-1.68905199,35.77809525,2401,Topsoil
+icr042049,Kenya,Morijo,4,4,-1.68905199,35.77809525,2401,Subsoil
+icr042062,Kenya,Morijo,5,2,-1.74951005,35.79748917,2202,Topsoil
+icr042063,Kenya,Morijo,5,2,-1.74951005,35.79748917,2202,Subsoil
+icr042078,Kenya,Morijo,6,1,-1.73061001,35.80042267,2119,Topsoil
+icr042079,Kenya,Morijo,6,1,-1.73061001,35.80042267,2119,Subsoil
+icr042098,Kenya,Morijo,7,1,-1.70412803,35.80501556,2172,Topsoil
+icr042099,Kenya,Morijo,7,1,-1.70412803,35.80501556,2172,Subsoil
+icr042115,Kenya,Morijo,8,1,-1.68290997,35.80660629,2354,Topsoil
+icr042116,Kenya,Morijo,8,1,-1.68290997,35.80660629,2354,Subsoil
+icr042134,Kenya,Morijo,9,1,-1.74763703,35.82118225,2210,Topsoil
+icr042135,Kenya,Morijo,9,1,-1.74763703,35.82118225,2210,Subsoil
+icr042152,Kenya,Morijo,10,1,-1.73084498,35.81271362,2141,Topsoil
+icr042153,Kenya,Morijo,10,1,-1.73084498,35.81271362,2141,Subsoil
+icr042170,Kenya,Morijo,11,1,-1.70667195,35.82385635,2173,Topsoil
+icr042171,Kenya,Morijo,11,1,-1.70667195,35.82385635,2173,Subsoil
+icr042189,Kenya,Morijo,12,1,-1.68407798,35.8180542,2435,Topsoil
+icr042190,Kenya,Morijo,12,1,-1.68407798,35.8180542,2435,Subsoil
+icr042208,Kenya,Morijo,13,1,-1.75810206,35.84511185,2135,Topsoil
+icr042209,Kenya,Morijo,13,1,-1.75810206,35.84511185,2135,Subsoil
+icr042227,Kenya,Morijo,14,1,-1.73154998,35.84485626,2130,Topsoil
+icr042228,Kenya,Morijo,14,1,-1.73154998,35.84485626,2130,Subsoil
+icr042247,Kenya,Morijo,15,1,-1.70844495,35.84159088,2170,Topsoil
+icr042248,Kenya,Morijo,15,1,-1.70844495,35.84159088,2170,Subsoil
+icr042265,Kenya,Morijo,16,1,-1.68765497,35.8539772,2191,Topsoil
+icr042266,Kenya,Morijo,16,1,-1.68765497,35.8539772,2191,Subsoil
+icr042790,Guinea,Fria,1,2,10.47201667,-13.424075,406,Topsoil
+icr042791,Guinea,Fria,1,2,10.47201667,-13.424075,406,Subsoil
+icr042810,Guinea,Fria,2,2,10.49729833,-13.42232167,39,Topsoil
+icr042811,Guinea,Fria,2,2,10.49729833,-13.42232167,39,Subsoil
+icr042836,Guinea,Fria,3,5,10.51886667,-13.43299667,257,Topsoil
+icr042837,Guinea,Fria,3,5,10.51886667,-13.43299667,257,Subsoil
+icr042853,Guinea,Fria,4,4,10.53704833,-13.42797333,463,Topsoil
+icr042854,Guinea,Fria,4,4,10.53704833,-13.42797333,463,Subsoil
+icr042867,Guinea,Fria,5,1,10.477555,-13.40055167,285,Topsoil
+icr042868,Guinea,Fria,5,1,10.477555,-13.40055167,285,Subsoil
+icr042896,Guinea,Fria,6,7,10.50197833,-13.40440167,50,Topsoil
+icr042897,Guinea,Fria,6,7,10.50197833,-13.40440167,50,Subsoil
+icr042908,Guinea,Fria,7,2,10.524305,-13.40126833,102,Topsoil
+icr042909,Guinea,Fria,7,2,10.524305,-13.40126833,102,Subsoil
+icr042930,Guinea,Fria,8,3,10.53327167,-13.410885,270,Topsoil
+icr042931,Guinea,Fria,8,3,10.53327167,-13.410885,270,Subsoil
+icr042946,Guinea,Fria,9,1,10.47709,-13.37363833,302,Topsoil
+icr042947,Guinea,Fria,9,1,10.47709,-13.37363833,302,Subsoil
+icr042966,Guinea,Fria,10,1,10.491285,-13.380635,238,Topsoil
+icr042967,Guinea,Fria,10,1,10.491285,-13.380635,238,Subsoil
+icr042990,Guinea,Fria,11,3,10.52136833,-13.38026167,127,Topsoil
+icr042991,Guinea,Fria,11,3,10.52136833,-13.38026167,127,Subsoil
+icr043011,Guinea,Fria,12,4,10.54048833,-13.38327833,265,Topsoil
+icr043012,Guinea,Fria,12,4,10.54048833,-13.38327833,265,Subsoil
+icr043021,Guinea,Fria,13,1,10.47198167,-13.36306333,412,Topsoil
+icr043022,Guinea,Fria,13,1,10.47198167,-13.36306333,412,Subsoil
+icr043040,Guinea,Fria,14,1,10.49347167,-13.36102833,148,Topsoil
+icr043041,Guinea,Fria,14,1,10.49347167,-13.36102833,148,Subsoil
+icr043068,Guinea,Fria,15,5,10.51575167,-13.35777833,136,Topsoil
+icr043069,Guinea,Fria,15,5,10.51575167,-13.35777833,136,Subsoil
+icr043090,Guinea,Fria,16,6,10.54417,-13.35787667,97,Topsoil
+icr043091,Guinea,Fria,16,6,10.54417,-13.35787667,97,Subsoil
+icr043132,Guinea,Boumeoul,1,1,11.90132833,-13.17387667,102,Topsoil
+icr043133,Guinea,Boumeoul,1,1,11.90132833,-13.17387667,102,Subsoil
+icr043152,Guinea,Boumeoul,2,1,11.91600667,-13.17532833,87,Topsoil
+icr043153,Guinea,Boumeoul,2,1,11.91600667,-13.17532833,87,Subsoil
+icr043172,Guinea,Boumeoul,3,1,11.94272667,-13.17404833,26,Topsoil
+icr043173,Guinea,Boumeoul,3,1,11.94272667,-13.17404833,26,Subsoil
+icr043198,Guinea,Boumeoul,4,5,11.96982,-13.17629333,45,Topsoil
+icr043199,Guinea,Boumeoul,4,5,11.96982,-13.17629333,45,Subsoil
+icr043211,Guinea,Boumeoul,5,1,11.90748167,-13.15499,79,Topsoil
+icr043212,Guinea,Boumeoul,5,1,11.90748167,-13.15499,79,Subsoil
+icr043230,Guinea,Boumeoul,6,2,11.92195167,-13.15272167,222,Topsoil
+icr043231,Guinea,Boumeoul,6,2,11.92195167,-13.15272167,222,Subsoil
+icr043248,Guinea,Boumeoul,7,2,11.94213,-13.157495,120,Topsoil
+icr043249,Guinea,Boumeoul,7,2,11.94213,-13.157495,120,Subsoil
+icr043266,Guinea,Boumeoul,8,1,11.96197,-13.153175,7,Topsoil
+icr043267,Guinea,Boumeoul,8,1,11.96197,-13.153175,7,Subsoil
+icr043287,Guinea,Boumeoul,9,2,11.90510833,-13.13042,100,Topsoil
+icr043288,Guinea,Boumeoul,9,2,11.90510833,-13.13042,100,Subsoil
+icr043299,Guinea,Boumeoul,10,2,11.928245,-13.13387,114,Topsoil
+icr043300,Guinea,Boumeoul,10,2,11.928245,-13.13387,114,Subsoil
+icr043324,Guinea,Boumeoul,11,5,11.94712667,-13.13483167,136,Topsoil
+icr043325,Guinea,Boumeoul,11,5,11.94712667,-13.13483167,136,Subsoil
+icr043332,Guinea,Boumeoul,12,1,11.96782167,-13.12979333,50,Topsoil
+icr043333,Guinea,Boumeoul,12,1,11.96782167,-13.12979333,50,Subsoil
+icr043347,Guinea,Boumeoul,13,1,11.89474,-13.107555,133,Topsoil
+icr043348,Guinea,Boumeoul,13,1,11.89474,-13.107555,133,Subsoil
+icr043363,Guinea,Boumeoul,14,1,11.92822333,-13.107235,69,Topsoil
+icr043390,Guinea,Boumeoul,15,11,11.950435,-13.11220667,74,Topsoil
+icr043391,Guinea,Boumeoul,15,11,11.950435,-13.11220667,74,Subsoil
+icr043401,Guinea,Boumeoul,16,10,11.96395833,-13.10541333,136,Topsoil
+icr043402,Guinea,Boumeoul,16,10,11.96395833,-13.10541333,136,Subsoil
+icr048450,South Africa,Madadeni,1,1,-27.6111,30.0127,1250,Topsoil
+icr048451,South Africa,Madadeni,1,1,-27.6111,30.0127,1250,Subsoil
+icr048468,South Africa,Madadeni,2,1,-27.5922,30.0235,1289,Topsoil
+icr048469,South Africa,Madadeni,2,1,-27.5922,30.0235,1289,Subsoil
+icr048485,South Africa,Madadeni,3,1,-27.5684,30.0228,1289,Topsoil
+icr048486,South Africa,Madadeni,3,1,-27.5684,30.0228,1289,Subsoil
+icr048503,South Africa,Madadeni,4,1,-27.5477,30.0232,1296,Topsoil
+icr048504,South Africa,Madadeni,4,1,-27.5477,30.0232,1296,Subsoil
+icr048520,South Africa,Madadeni,5,1,-27.6131,30.045,1277,Topsoil
+icr048521,South Africa,Madadeni,5,1,-27.6131,30.045,1277,Subsoil
+icr048528,South Africa,Madadeni,6,2,-27.5868,30.0455,1279,Topsoil
+icr048529,South Africa,Madadeni,6,2,-27.5868,30.0455,1279,Subsoil
+icr048549,South Africa,Madadeni,7,2,-27.5634,30.0408,1328,Topsoil
+icr048550,South Africa,Madadeni,7,2,-27.5634,30.0408,1328,Subsoil
+icr048566,South Africa,Madadeni,8,1,-27.535,30.0388,1377,Topsoil
+icr048567,South Africa,Madadeni,8,1,-27.535,30.0388,1377,Subsoil
+icr048584,South Africa,Madadeni,9,1,-27.602,30.06,1249,Topsoil
+icr048585,South Africa,Madadeni,9,1,-27.602,30.06,1249,Subsoil
+icr048602,South Africa,Madadeni,10,1,-27.5896,30.0597,1298,Topsoil
+icr048603,South Africa,Madadeni,10,1,-27.5896,30.0597,1298,Subsoil
+icr048622,South Africa,Madadeni,11,1,-27.5668,30.0585,1353,Topsoil
+icr048623,South Africa,Madadeni,11,1,-27.5668,30.0585,1353,Subsoil
+icr048642,South Africa,Madadeni,12,1,-27.5431,30.071,1450,Topsoil
+icr048643,South Africa,Madadeni,12,1,-27.5431,30.071,1450,Subsoil
+icr048664,South Africa,Madadeni,13,2,-27.6154,30.0861,1328,Topsoil
+icr048665,South Africa,Madadeni,13,2,-27.6154,30.0861,1328,Subsoil
+icr048682,South Africa,Madadeni,14,1,-27.5834,30.0894,1295,Topsoil
+icr048683,South Africa,Madadeni,14,1,-27.5834,30.0894,1295,Subsoil
+icr048704,South Africa,Madadeni,15,2,-27.5677,30.0907,1324,Topsoil
+icr048705,South Africa,Madadeni,15,2,-27.5677,30.0907,1324,Subsoil
+icr048721,South Africa,Madadeni,16,1,-27.545,30.0929,1416,Topsoil
+icr048722,South Africa,Madadeni,16,1,-27.545,30.0929,1416,Subsoil
+icr048740,South Africa,Hopetown,1,1,-29.835,23.9142,1204,Topsoil
+icr048741,South Africa,Hopetown,1,1,-29.835,23.9142,1204,Subsoil
+icr048755,South Africa,Hopetown,2,1,-29.8085,23.9044,1187,Topsoil
+icr048756,South Africa,Hopetown,2,1,-29.8085,23.9044,1187,Subsoil
+icr048770,South Africa,Hopetown,3,3,-29.7978,23.9075,1193,Topsoil
+icr048771,South Africa,Hopetown,3,3,-29.7978,23.9075,1193,Subsoil
+icr048786,South Africa,Hopetown,4,4,-29.7684,23.9145,1172,Topsoil
+icr048787,South Africa,Hopetown,4,4,-29.7684,23.9145,1172,Subsoil
+icr048793,South Africa,Hopetown,5,1,-29.8323,23.9373,1204,Topsoil
+icr048794,South Africa,Hopetown,5,1,-29.8323,23.9373,1204,Subsoil
+icr048820,South Africa,Hopetown,6,8,-29.8205,23.9277,1191,Topsoil
+icr048821,South Africa,Hopetown,6,8,-29.8205,23.9277,1191,Subsoil
+icr048824,South Africa,Hopetown,7,2,-29.7962,23.9288,1181,Topsoil
+icr048825,South Africa,Hopetown,7,2,-29.7962,23.9288,1181,Subsoil
+icr048837,South Africa,Hopetown,8,2,-29.7781,23.933,1173,Topsoil
+icr048838,South Africa,Hopetown,8,2,-29.7781,23.933,1173,Subsoil
+icr048854,South Africa,Hopetown,9,3,-29.8424,23.9545,1217,Topsoil
+icr048855,South Africa,Hopetown,9,3,-29.8424,23.9545,1217,Subsoil
+icr048868,South Africa,Hopetown,10,1,-29.815,23.9544,1197,Topsoil
+icr048869,South Africa,Hopetown,10,1,-29.815,23.9544,1197,Subsoil
+icr048886,South Africa,Hopetown,11,1,-29.7874,23.9515,NA,Topsoil
+icr048887,South Africa,Hopetown,11,1,-29.7874,23.9515,NA,Subsoil
+icr048899,South Africa,Hopetown,12,1,-29.7687,23.9539,NA,Topsoil
+icr048900,South Africa,Hopetown,12,1,-29.7687,23.9539,NA,Subsoil
+icr048912,South Africa,Hopetown,13,1,-29.8379,23.9832,NA,Topsoil
+icr048913,South Africa,Hopetown,13,1,-29.8379,23.9832,NA,Subsoil
+icr048931,South Africa,Hopetown,14,2,-29.8198,23.9758,NA,Topsoil
+icr048932,South Africa,Hopetown,14,3,-29.816,23.9757,NA,Topsoil
+icr048942,South Africa,Hopetown,14,10,-29.8188,23.9729,1190,Topsoil
+icr048943,South Africa,Hopetown,15,1,-29.7993,23.9782,1198,Topsoil
+icr048960,South Africa,Hopetown,15,13,-29.7994,23.9793,NA,Subsoil
+icr048961,South Africa,Hopetown,16,1,-29.7734,23.983,NA,Topsoil
+icr048977,South Africa,Prieska,1,1,-29.9721,22.7102,1072,Topsoil
+icr048978,South Africa,Prieska,1,1,-29.9721,22.7102,1072,Subsoil
+icr048985,South Africa,Prieska,2,1,-29.9494,22.7059,1070,Topsoil
+icr048986,South Africa,Prieska,2,1,-29.9494,22.7059,1070,Subsoil
+icr048992,South Africa,Prieska,2,6,-29.9487,22.7115,1079,Topsoil
+icr048993,South Africa,Prieska,2,6,-29.9487,22.7115,1079,Subsoil
+icr049013,South Africa,Prieska,4,4,-29.9058,22.7159,1071,Topsoil
+icr049014,South Africa,Prieska,4,4,-29.9058,22.7159,1071,Subsoil
+icr049022,South Africa,Prieska,5,1,-29.9716,22.7325,1056,Topsoil
+icr049023,South Africa,Prieska,5,1,-29.9716,22.7325,1056,Subsoil
+icr049044,South Africa,Prieska,6,3,-29.9505,22.7371,1060,Topsoil
+icr049045,South Africa,Prieska,6,3,-29.9505,22.7371,1060,Subsoil
+icr049056,South Africa,Prieska,7,4,-29.9345,22.7283,1070,Topsoil
+icr049057,South Africa,Prieska,7,4,-29.9345,22.7283,1070,Subsoil
+icr049068,South Africa,Prieska,8,6,-29.90012741,22.7369175,1067,Topsoil
+icr049069,South Africa,Prieska,8,6,-29.90012741,22.7369175,1067,Subsoil
+icr049074,South Africa,Prieska,9,1,-29.9813,22.7623,1073,Topsoil
+icr049075,South Africa,Prieska,9,1,-29.9813,22.7623,1073,Subsoil
+icr049098,South Africa,Prieska,11,1,-29.934,22.7603,1061,Topsoil
+icr049099,South Africa,Prieska,11,1,-29.934,22.7603,1061,Subsoil
+icr049100,South Africa,Prieska,11,2,-29.9347,22.7598,1055,Topsoil
+icr049101,South Africa,Prieska,11,2,-29.9347,22.7598,1055,Subsoil
+icr049115,South Africa,Prieska,12,1,-29.91,22.7619,1067,Topsoil
+icr049116,South Africa,Prieska,12,1,-29.91,22.7619,1067,Subsoil
+icr049130,South Africa,Prieska,13,5,-29.9771,22.7788,1071,Topsoil
+icr049131,South Africa,Prieska,13,5,-29.9771,22.7788,1071,Subsoil
+icr049152,South Africa,Prieska,15,2,-29.9329,22.7803,1053,Topsoil
+icr049153,South Africa,Prieska,15,2,-29.9329,22.7803,1053,Subsoil
+icr049156,South Africa,Prieska,15,5,-29.9279,22.7819,1049,Topsoil
+icr049157,South Africa,Prieska,15,5,-29.9279,22.7819,1049,Subsoil
+icr049174,South Africa,Prieska,16,9,-29.9066,22.7832,1053,Topsoil
+icr049175,South Africa,Prieska,16,9,-29.9066,22.7832,1053,Subsoil
+icr049177,Mozambique,Chiculecule,1,1,-22.86955833,35.26938,73,Topsoil
+icr049178,Mozambique,Chiculecule,1,1,-22.86955833,35.26938,73,Subsoil
+icr049197,Mozambique,Chiculecule,2,1,-22.85042333,35.273025,85,Topsoil
+icr049198,Mozambique,Chiculecule,2,1,-22.85042333,35.273025,85,Subsoil
+icr049217,Mozambique,Chiculecule,3,1,-22.83018333,35.27128833,91,Topsoil
+icr049218,Mozambique,Chiculecule,3,1,-22.83018333,35.27128833,91,Subsoil
+icr049237,Mozambique,Chiculecule,4,1,-22.80203,35.26829167,70,Topsoil
+icr049238,Mozambique,Chiculecule,4,1,-22.80203,35.26829167,70,Subsoil
+icr049257,Mozambique,Chiculecule,5,1,-22.87288167,35.29462,64,Topsoil
+icr049258,Mozambique,Chiculecule,5,1,-22.87288167,35.29462,64,Subsoil
+icr049277,Mozambique,Chiculecule,6,1,-22.84669833,35.28799167,89,Topsoil
+icr049278,Mozambique,Chiculecule,6,1,-22.84669833,35.28799167,89,Subsoil
+icr049297,Mozambique,Chiculecule,7,1,-22.81783333,35.28526167,86,Topsoil
+icr049298,Mozambique,Chiculecule,7,1,-22.81783333,35.28526167,86,Subsoil
+icr049317,Mozambique,Chiculecule,8,1,-22.80476167,35.28788167,75,Topsoil
+icr049318,Mozambique,Chiculecule,8,1,-22.80476167,35.28788167,75,Subsoil
+icr049337,Mozambique,Chiculecule,9,1,-22.87014333,35.313225,86,Topsoil
+icr049338,Mozambique,Chiculecule,9,1,-22.87014333,35.313225,86,Subsoil
+icr049357,Mozambique,Chiculecule,10,1,-22.849915,35.31727333,81,Topsoil
+icr049358,Mozambique,Chiculecule,10,1,-22.849915,35.31727333,81,Subsoil
+icr049377,Mozambique,Chiculecule,11,1,-22.830515,35.31782,73,Topsoil
+icr049378,Mozambique,Chiculecule,11,1,-22.830515,35.31782,73,Subsoil
+icr049397,Mozambique,Chiculecule,12,1,-22.80366,35.31284167,54,Topsoil
+icr049398,Mozambique,Chiculecule,12,1,-22.80366,35.31284167,54,Subsoil
+icr049417,Mozambique,Chiculecule,13,1,-22.87506833,35.33858167,73,Topsoil
+icr049418,Mozambique,Chiculecule,13,1,-22.87506833,35.33858167,73,Subsoil
+icr049437,Mozambique,Chiculecule,14,1,-22.84876167,35.33593,64,Topsoil
+icr049438,Mozambique,Chiculecule,14,1,-22.84876167,35.33593,64,Subsoil
+icr049457,Mozambique,Chiculecule,15,1,-22.82643,35.336955,65,Topsoil
+icr049458,Mozambique,Chiculecule,15,1,-22.82643,35.336955,65,Subsoil
+icr049477,Mozambique,Chiculecule,16,1,-22.80021333,35.33732,62,Topsoil
+icr049478,Mozambique,Chiculecule,16,1,-22.80021333,35.33732,62,Subsoil
+icr049496,Mozambique,Ihassunge,1,1,-18.04285667,36.79774333,13,Topsoil
+icr049497,Mozambique,Ihassunge,1,1,-18.04285667,36.79774333,13,Subsoil
+icr049516,Mozambique,Ihassunge,2,1,-18.02627,36.79851167,15,Topsoil
+icr049517,Mozambique,Ihassunge,2,1,-18.02627,36.79851167,15,Subsoil
+icr049536,Mozambique,Ihassunge,3,2,-17.998985,36.80058,8,Topsoil
+icr049537,Mozambique,Ihassunge,3,2,-17.998985,36.80058,8,Subsoil
+icr049556,Mozambique,Ihassunge,4,1,-17.98425333,36.79508667,3,Topsoil
+icr049557,Mozambique,Ihassunge,4,1,-17.98425333,36.79508667,3,Subsoil
+icr049576,Mozambique,Ihassunge,5,2,-18.04411167,36.82392333,2,Topsoil
+icr049577,Mozambique,Ihassunge,5,2,-18.04411167,36.82392333,2,Subsoil
+icr049596,Mozambique,Ihassunge,6,1,-18.02787167,36.81948333,5,Topsoil
+icr049597,Mozambique,Ihassunge,6,1,-18.02787167,36.81948333,5,Subsoil
+icr049616,Mozambique,Ihassunge,7,1,-18.00351833,36.81749667,8,Topsoil
+icr049617,Mozambique,Ihassunge,7,1,-18.00351833,36.81749667,8,Subsoil
+icr049635,Mozambique,Ihassunge,8,1,-17.98034833,36.82528667,9,Topsoil
+icr049636,Mozambique,Ihassunge,8,1,-17.98034833,36.82528667,9,Subsoil
+icr049655,Mozambique,Ihassunge,9,2,-18.0472,36.84010167,10,Topsoil
+icr049656,Mozambique,Ihassunge,9,2,-18.0472,36.84010167,10,Subsoil
+icr049675,Mozambique,Ihassunge,10,1,-18.02587333,36.846685,7,Topsoil
+icr049676,Mozambique,Ihassunge,10,1,-18.02587333,36.846685,7,Subsoil
+icr049695,Mozambique,Ihassunge,11,1,-18.00459167,36.84410833,5,Topsoil
+icr049696,Mozambique,Ihassunge,11,1,-18.00459167,36.84410833,5,Subsoil
+icr049715,Mozambique,Ihassunge,12,1,-17.98061,36.84061,4,Topsoil
+icr049716,Mozambique,Ihassunge,12,1,-17.98061,36.84061,4,Subsoil
+icr049735,Mozambique,Ihassunge,13,1,-18.048055,36.86693667,9,Topsoil
+icr049736,Mozambique,Ihassunge,13,1,-18.048055,36.86693667,9,Subsoil
+icr049755,Mozambique,Ihassunge,14,1,-18.02614167,36.86523833,2,Topsoil
+icr049756,Mozambique,Ihassunge,14,1,-18.02614167,36.86523833,2,Subsoil
+icr049775,Mozambique,Ihassunge,15,1,-17.99677167,36.86077167,3,Topsoil
+icr049776,Mozambique,Ihassunge,15,1,-17.99677167,36.86077167,3,Subsoil
+icr049795,Mozambique,Ihassunge,16,1,-17.977923,36.861702,-2,Topsoil
+icr049796,Mozambique,Ihassunge,16,1,-17.977923,36.861702,-2,Subsoil
+icr049815,Mozambique,Massuque,1,1,-24.24041833,34.33520333,72,Topsoil
+icr049816,Mozambique,Massuque,1,1,-24.24041833,34.33520333,72,Subsoil
+icr049835,Mozambique,Massuque,2,1,-24.22272333,34.33146167,86,Topsoil
+icr049836,Mozambique,Massuque,2,1,-24.22272333,34.33146167,86,Subsoil
+icr049855,Mozambique,Massuque,3,1,-24.19612167,34.33393167,66,Topsoil
+icr049856,Mozambique,Massuque,3,1,-24.19612167,34.33393167,66,Subsoil
+icr049875,Mozambique,Massuque,4,1,-24.16954833,34.32811,75,Topsoil
+icr049876,Mozambique,Massuque,4,1,-24.16954833,34.32811,75,Subsoil
+icr049894,Mozambique,Massuque,5,1,-24.243575,34.35064167,80,Topsoil
+icr049895,Mozambique,Massuque,5,1,-24.243575,34.35064167,80,Subsoil
+icr049914,Mozambique,Massuque,6,1,-24.21181833,34.34482833,81,Topsoil
+icr049915,Mozambique,Massuque,6,1,-24.21181833,34.34482833,81,Subsoil
+icr049934,Mozambique,Massuque,7,1,-24.18840333,34.34585833,62,Topsoil
+icr049935,Mozambique,Massuque,7,1,-24.18840333,34.34585833,62,Subsoil
+icr049954,Mozambique,Massuque,8,1,-24.17373167,34.35931333,87,Topsoil
+icr049955,Mozambique,Massuque,8,1,-24.17373167,34.35931333,87,Subsoil
+icr049974,Mozambique,Massuque,9,1,-24.24289667,34.37187333,82,Topsoil
+icr049975,Mozambique,Massuque,9,1,-24.24289667,34.37187333,82,Subsoil
+icr049994,Mozambique,Massuque,10,1,-24.21673333,34.37512,84,Topsoil
+icr049995,Mozambique,Massuque,10,1,-24.21673333,34.37512,84,Subsoil
+icr050014,Mozambique,Massuque,11,1,-24.19569833,34.37663333,91,Topsoil
+icr050015,Mozambique,Massuque,11,1,-24.19569833,34.37663333,91,Subsoil
+icr050034,Mozambique,Massuque,12,1,-24.16965333,34.38194667,83,Topsoil
+icr050035,Mozambique,Massuque,12,1,-24.16965333,34.38194667,83,Subsoil
+icr050054,Mozambique,Massuque,13,1,-24.24200667,34.39977333,69,Topsoil
+icr050055,Mozambique,Massuque,13,1,-24.24200667,34.39977333,69,Subsoil
+icr050074,Mozambique,Massuque,14,1,-24.21577667,34.398345,74,Topsoil
+icr050075,Mozambique,Massuque,14,1,-24.21577667,34.398345,74,Subsoil
+icr050094,Mozambique,Massuque,15,1,-24.190955,34.40507,72,Topsoil
+icr050095,Mozambique,Massuque,15,1,-24.190955,34.40507,72,Subsoil
+icr050114,Mozambique,Massuque,16,1,-24.175445,34.399385,77,Topsoil
+icr050115,Mozambique,Massuque,16,1,-24.175445,34.399385,77,Subsoil
+icr050134,Mozambique,Martinho,1,1,-16.17747833,38.93670333,120,Topsoil
+icr050135,Mozambique,Martinho,1,1,-16.17747833,38.93670333,120,Subsoil
+icr050154,Mozambique,Martinho,2,1,-16.162960000000002,38.94107833,121,Topsoil
+icr050155,Mozambique,Martinho,2,1,-16.162960000000002,38.94107833,121,Subsoil
+icr050174,Mozambique,Martinho,3,1,-16.1334,38.94113333,127,Topsoil
+icr050175,Mozambique,Martinho,3,1,-16.1334,38.94113333,127,Subsoil
+icr050194,Mozambique,Martinho,4,1,-16.10983333,38.93812333,115,Topsoil
+icr050195,Mozambique,Martinho,4,1,-16.10983333,38.93812333,115,Subsoil
+icr050214,Mozambique,Martinho,5,1,-16.17429833,38.96290833,129,Topsoil
+icr050215,Mozambique,Martinho,5,1,-16.17429833,38.96290833,129,Subsoil
+icr050234,Mozambique,Martinho,6,1,-16.15708333,38.95627333,113,Topsoil
+icr050235,Mozambique,Martinho,6,1,-16.15708333,38.95627333,113,Subsoil
+icr050254,Mozambique,Martinho,7,1,-16.12728667,38.95530167,150,Topsoil
+icr050255,Mozambique,Martinho,7,1,-16.12728667,38.95530167,150,Subsoil
+icr050274,Mozambique,Martinho,8,1,-16.11558,38.96545167,144,Topsoil
+icr050275,Mozambique,Martinho,8,1,-16.11558,38.96545167,144,Subsoil
+icr050294,Mozambique,Martinho,9,1,-16.178185,38.99062167,113,Topsoil
+icr050295,Mozambique,Martinho,9,1,-16.178185,38.99062167,113,Subsoil
+icr050314,Mozambique,Martinho,10,1,-16.15556667,38.98825167,115,Topsoil
+icr050315,Mozambique,Martinho,10,1,-16.15556667,38.98825167,115,Subsoil
+icr050334,Mozambique,Martinho,11,1,-16.13721833,38.9843,141,Topsoil
+icr050335,Mozambique,Martinho,11,1,-16.13721833,38.9843,141,Subsoil
+icr050354,Mozambique,Martinho,12,1,-16.11628667,38.98612833,149,Topsoil
+icr050355,Mozambique,Martinho,12,1,-16.11628667,38.98612833,149,Subsoil
+icr050374,Mozambique,Martinho,13,1,-16.17446833,39.00523333,126,Topsoil
+icr050375,Mozambique,Martinho,13,1,-16.17446833,39.00523333,126,Subsoil
+icr050394,Mozambique,Martinho,14,1,-16.14783,39.003835,145,Topsoil
+icr050395,Mozambique,Martinho,14,1,-16.14783,39.003835,145,Subsoil
+icr050414,Mozambique,Martinho,15,1,-16.13769833,39.00373,159,Topsoil
+icr050415,Mozambique,Martinho,15,1,-16.13769833,39.00373,159,Subsoil
+icr050434,Mozambique,Martinho,16,1,-16.1104,39.01113833,141,Topsoil
+icr050435,Mozambique,Martinho,16,1,-16.1104,39.01113833,141,Subsoil
+icr054165,Uganda,Namasuba,1,1,0.49136299,32.27067566,1175,Topsoil
+icr054166,Uganda,Namasuba,1,1,0.49136299,32.27067566,1175,Subsoil
+icr054183,Uganda,Namasuba,2,1,0.51586801,32.26354218,1149,Topsoil
+icr054184,Uganda,Namasuba,2,1,0.51586801,32.26354218,1149,Subsoil
+icr054201,Uganda,Namasuba,3,1,0.53347302,32.26804352,1119,Topsoil
+icr054202,Uganda,Namasuba,3,1,0.53347302,32.26804352,1119,Subsoil
+icr054220,Uganda,Namasuba,4,1,0.55131698,32.26622772,1113,Topsoil
+icr054221,Uganda,Namasuba,4,1,0.55131698,32.26622772,1113,Subsoil
+icr054238,Uganda,Namasuba,5,1,0.49764001,32.28783798,1177,Topsoil
+icr054239,Uganda,Namasuba,5,1,0.49764001,32.28783798,1177,Subsoil
+icr054258,Uganda,Namasuba,6,1,0.51271302,32.28875732,1125,Topsoil
+icr054259,Uganda,Namasuba,6,1,0.51271302,32.28875732,1125,Subsoil
+icr054277,Uganda,Namasuba,7,1,0.53307802,32.2866745,1103,Topsoil
+icr054278,Uganda,Namasuba,7,1,0.53307802,32.2866745,1103,Subsoil
+icr054293,Uganda,Namasuba,8,1,0.56445801,32.29327011,1105,Topsoil
+icr054294,Uganda,Namasuba,8,1,0.56445801,32.29327011,1105,Subsoil
+icr054313,Uganda,Namasuba,9,1,0.49551699,32.30453873,1124,Topsoil
+icr054314,Uganda,Namasuba,9,1,0.49551699,32.30453873,1124,Subsoil
+icr054333,Uganda,Namasuba,10,4,0.51432502,32.30515671,1136,Topsoil
+icr054334,Uganda,Namasuba,10,4,0.51432502,32.30515671,1136,Subsoil
+icr054344,Uganda,Namasuba,11,1,0.53860003,32.31171417,1147,Topsoil
+icr054345,Uganda,Namasuba,11,1,0.53860003,32.31171417,1147,Subsoil
+icr054360,Uganda,Namasuba,12,1,0.55428702,32.31141281,1121,Topsoil
+icr054361,Uganda,Namasuba,12,1,0.55428702,32.31141281,1121,Subsoil
+icr054374,Uganda,Namasuba,13,3,0.49447301,32.33593369,1125,Topsoil
+icr054375,Uganda,Namasuba,13,3,0.49447301,32.33593369,1125,Subsoil
+icr054387,Uganda,Namasuba,14,1,0.51074201,32.33942032,1155,Topsoil
+icr054388,Uganda,Namasuba,14,1,0.51074201,32.33942032,1155,Subsoil
+icr054410,Uganda,Namasuba,15,5,0.52495998,32.33211136,1181,Topsoil
+icr054411,Uganda,Namasuba,15,5,0.52495998,32.33211136,1181,Subsoil
+icr054418,Uganda,Namasuba,16,1,0.56465697,32.33332062,1168,Topsoil
+icr054419,Uganda,Namasuba,16,1,0.56465697,32.33332062,1168,Subsoil
+icr054437,Uganda,Hoima,1,1,1.45866,31.46679667,1210,Topsoil
+icr054438,Uganda,Hoima,1,1,1.45866,31.46679667,1210,Subsoil
+icr054456,Uganda,Hoima,2,2,1.473473333,31.46200667,1166,Topsoil
+icr054457,Uganda,Hoima,2,2,1.473473333,31.46200667,1166,Subsoil
+icr054469,Uganda,Hoima,3,1,1.507103333,31.4679,1155,Topsoil
+icr054470,Uganda,Hoima,3,1,1.507103333,31.4679,1155,Subsoil
+icr054482,Uganda,Hoima,4,1,1.527395,31.46912333,1151,Topsoil
+icr054483,Uganda,Hoima,4,1,1.527395,31.46912333,1151,Subsoil
+icr054504,Uganda,Hoima,5,3,1.459293333,31.48978667,1389,Topsoil
+icr054505,Uganda,Hoima,5,3,1.459293333,31.48978667,1389,Subsoil
+icr054515,Uganda,Hoima,6,1,1.475106667,31.48906833,1198,Topsoil
+icr054516,Uganda,Hoima,6,1,1.475106667,31.48906833,1198,Subsoil
+icr054529,Uganda,Hoima,7,1,1.502983333,31.490945,1142,Topsoil
+icr054530,Uganda,Hoima,7,1,1.502983333,31.490945,1142,Subsoil
+icr054550,Uganda,Hoima,8,5,1.524523333,31.48840667,1130,Topsoil
+icr054551,Uganda,Hoima,8,5,1.524523333,31.48840667,1130,Subsoil
+icr054564,Uganda,Hoima,9,1,1.462205,31.507475,1192,Topsoil
+icr054565,Uganda,Hoima,9,1,1.462205,31.507475,1192,Subsoil
+icr054585,Uganda,Hoima,10,2,1.480643333,31.513555,1158,Topsoil
+icr054586,Uganda,Hoima,10,2,1.480643333,31.513555,1158,Subsoil
+icr054606,Uganda,Hoima,11,6,1.501578333,31.51283333,1106,Topsoil
+icr054607,Uganda,Hoima,11,6,1.501578333,31.51283333,1106,Subsoil
+icr054618,Uganda,Hoima,12,1,1.526595,31.51443,1107,Topsoil
+icr054619,Uganda,Hoima,12,1,1.526595,31.51443,1107,Subsoil
+icr054641,Uganda,Hoima,13,3,1.456968333,31.53370833,1128,Topsoil
+icr054642,Uganda,Hoima,13,3,1.456968333,31.53370833,1128,Subsoil
+icr054656,Uganda,Hoima,14,1,1.473533333,31.52892,1107,Topsoil
+icr054657,Uganda,Hoima,14,1,1.473533333,31.52892,1107,Subsoil
+icr054676,Uganda,Hoima,15,1,1.501598333,31.53512667,1130,Topsoil
+icr054677,Uganda,Hoima,15,1,1.501598333,31.53512667,1130,Subsoil
+icr054697,Uganda,Hoima,16,2,1.524801667,31.53509333,1129,Topsoil
+icr054698,Uganda,Hoima,16,2,1.524801667,31.53509333,1129,Subsoil
+icr055563,Zambia,Chilende,1,1,-9.2127,29.6294,1160,Topsoil
+icr055564,Zambia,Chilende,1,1,-9.2127,29.6294,1160,Subsoil
+icr055583,Zambia,Chilende,2,1,-9.17906,29.6372,1104,Topsoil
+icr055584,Zambia,Chilende,2,1,-9.17906,29.6372,1104,Subsoil
+icr055603,Zambia,Chilende,3,1,-9.15515,29.6233,1096,Topsoil
+icr055604,Zambia,Chilende,3,1,-9.15515,29.6233,1096,Subsoil
+icr055623,Zambia,Chilende,4,1,-9.14338,29.6314,1090,Topsoil
+icr055624,Zambia,Chilende,4,1,-9.14338,29.6314,1090,Subsoil
+icr055643,Zambia,Chilende,5,1,-9.2096,29.6525,1213,Topsoil
+icr055663,Zambia,Chilende,6,1,-9.18733,29.6553,1201,Topsoil
+icr055664,Zambia,Chilende,6,1,-9.18733,29.6553,1201,Subsoil
+icr055683,Zambia,Chilende,7,1,-9.1579,29.6499,1088,Topsoil
+icr055684,Zambia,Chilende,7,1,-9.1579,29.6499,1088,Subsoil
+icr055703,Zambia,Chilende,8,1,-9.13688,29.6462,1076,Topsoil
+icr055704,Zambia,Chilende,8,1,-9.13688,29.6462,1076,Subsoil
+icr055723,Zambia,Chilende,9,1,-9.20366,29.6761,1194,Topsoil
+icr055724,Zambia,Chilende,9,1,-9.20366,29.6761,1194,Subsoil
+icr055742,Zambia,Chilende,10,1,-9.18553,29.6753,1181,Topsoil
+icr055743,Zambia,Chilende,10,1,-9.18553,29.6753,1181,Subsoil
+icr055762,Zambia,Chilende,11,1,-9.1576,29.6706,1113,Topsoil
+icr055763,Zambia,Chilende,11,1,-9.1576,29.6706,1113,Subsoil
+icr055782,Zambia,Chilende,12,1,-9.13654,29.6744,1081,Topsoil
+icr055783,Zambia,Chilende,12,1,-9.13654,29.6744,1081,Subsoil
+icr055802,Zambia,Chilende,13,1,-9.20711,29.6942,1210,Topsoil
+icr055803,Zambia,Chilende,13,1,-9.20711,29.6942,1210,Subsoil
+icr055822,Zambia,Chilende,14,1,-9.18747,29.7011,1251,Topsoil
+icr055823,Zambia,Chilende,14,1,-9.18747,29.7011,1251,Subsoil
+icr055842,Zambia,Chilende,15,1,-9.16099,29.695,1129,Topsoil
+icr055862,Zambia,Chilende,16,1,-9.14041,29.689,1107,Topsoil
+icr055863,Zambia,Chilende,16,1,-9.14041,29.689,1107,Subsoil
+icr055882,Zambia,Fisenge,1,1,-13.12839833,28.437565,1248,Topsoil
+icr055883,Zambia,Fisenge,1,1,-13.12839833,28.437565,1248,Subsoil
+icr055902,Zambia,Fisenge,2,1,-13.09985,28.43995333,1232,Topsoil
+icr055903,Zambia,Fisenge,2,1,-13.09985,28.43995333,1232,Subsoil
+icr055922,Zambia,Fisenge,3,2,-13.08315833,28.44561,1241,Topsoil
+icr055923,Zambia,Fisenge,3,2,-13.08315833,28.44561,1241,Subsoil
+icr055941,Zambia,Fisenge,4,1,-13.062885,28.44091,1252,Topsoil
+icr055942,Zambia,Fisenge,4,1,-13.062885,28.44091,1252,Subsoil
+icr055961,Zambia,Fisenge,5,1,-13.12469,28.47377833,1251,Topsoil
+icr055962,Zambia,Fisenge,5,1,-13.12469,28.47377833,1251,Subsoil
+icr055981,Zambia,Fisenge,6,1,-13.10106667,28.458735,1263,Topsoil
+icr055982,Zambia,Fisenge,6,1,-13.10106667,28.458735,1263,Subsoil
+icr056001,Zambia,Fisenge,7,2,-13.08003,28.47069333,1247,Topsoil
+icr056002,Zambia,Fisenge,7,2,-13.08003,28.47069333,1247,Subsoil
+icr056021,Zambia,Fisenge,8,1,-13.065403,28.473107,1119,Topsoil
+icr056022,Zambia,Fisenge,8,1,-13.065403,28.473107,1119,Subsoil
+icr056041,Zambia,Fisenge,9,1,-13.12265333,28.49141167,1247,Topsoil
+icr056042,Zambia,Fisenge,9,1,-13.12265333,28.49141167,1247,Subsoil
+icr056061,Zambia,Fisenge,10,1,-13.11281167,28.485475,1254,Topsoil
+icr056062,Zambia,Fisenge,10,1,-13.11281167,28.485475,1254,Subsoil
+icr056082,Zambia,Fisenge,11,1,-13.07921,28.49115833,1273,Subsoil
+icr056101,Zambia,Fisenge,12,2,-13.06236333,28.48207,1260,Topsoil
+icr056102,Zambia,Fisenge,12,2,-13.06236333,28.48207,1260,Subsoil
+icr056121,Zambia,Fisenge,13,1,-13.127745000000001,28.51711333,1277,Topsoil
+icr056122,Zambia,Fisenge,13,1,-13.127745000000001,28.51711333,1277,Subsoil
+icr056141,Zambia,Fisenge,14,1,-13.10194667,28.50299833,1264,Topsoil
+icr056142,Zambia,Fisenge,14,1,-13.10194667,28.50299833,1264,Subsoil
+icr056161,Zambia,Fisenge,15,1,-13.08635167,28.509135,1274,Topsoil
+icr056162,Zambia,Fisenge,15,1,-13.08635167,28.509135,1274,Subsoil
+icr056181,Zambia,Fisenge,16,1,-13.06836667,28.51594667,1276,Topsoil
+icr056182,Zambia,Fisenge,16,1,-13.06836667,28.51594667,1276,Subsoil
+icr056200,Zambia,Monga,1,1,-16.113185,28.26820667,896,Topsoil
+icr056201,Zambia,Monga,1,1,-16.113185,28.26820667,896,Subsoil
+icr056220,Zambia,Monga,2,1,-16.09294,28.26640167,1030,Topsoil
+icr056221,Zambia,Monga,2,1,-16.09294,28.26640167,1030,Subsoil
+icr056240,Zambia,Monga,3,1,-16.06627833,28.260995,1050,Topsoil
+icr056241,Zambia,Monga,3,1,-16.06627833,28.260995,1050,Subsoil
+icr056260,Zambia,Monga,4,1,-16.04487667,28.25742667,1056,Topsoil
+icr056261,Zambia,Monga,4,1,-16.04487667,28.25742667,1056,Subsoil
+icr056280,Zambia,Monga,5,2,-16.11281,28.27992667,960,Topsoil
+icr056281,Zambia,Monga,5,2,-16.11281,28.27992667,960,Subsoil
+icr056300,Zambia,Monga,6,1,-16.09358333,28.28641167,1004,Topsoil
+icr056301,Zambia,Monga,6,1,-16.09358333,28.28641167,1004,Subsoil
+icr056320,Zambia,Monga,7,1,-16.06947333,28.28348833,1058,Topsoil
+icr056321,Zambia,Monga,7,1,-16.06947333,28.28348833,1058,Subsoil
+icr056340,Zambia,Monga,8,1,-16.04143333,28.28783833,1132,Topsoil
+icr056341,Zambia,Monga,8,1,-16.04143333,28.28783833,1132,Subsoil
+icr056360,Zambia,Monga,9,1,-16.11395,28.30799833,950,Topsoil
+icr056361,Zambia,Monga,9,1,-16.11395,28.30799833,950,Subsoil
+icr056380,Zambia,Monga,10,2,-16.09050667,28.30285,943,Topsoil
+icr056381,Zambia,Monga,10,2,-16.09050667,28.30285,943,Subsoil
+icr056400,Zambia,Monga,11,1,-16.06884,28.30719667,1041,Topsoil
+icr056401,Zambia,Monga,11,1,-16.06884,28.30719667,1041,Subsoil
+icr056420,Zambia,Monga,12,1,-16.05019667,28.30818,1075,Topsoil
+icr056421,Zambia,Monga,12,1,-16.05019667,28.30818,1075,Subsoil
+icr056440,Zambia,Monga,13,1,-16.10458833,28.324225,991,Topsoil
+icr056441,Zambia,Monga,13,1,-16.10458833,28.324225,991,Subsoil
+icr056460,Zambia,Monga,14,1,-16.088815,28.32333333,962,Topsoil
+icr056461,Zambia,Monga,14,1,-16.088815,28.32333333,962,Subsoil
+icr056480,Zambia,Monga,15,1,-16.066365,28.32649833,1062,Topsoil
+icr056481,Zambia,Monga,15,1,-16.066365,28.32649833,1062,Subsoil
+icr056500,Zambia,Monga,16,1,-16.04378333,28.32967,1052,Topsoil
+icr056501,Zambia,Monga,16,1,-16.04378333,28.32967,1052,Subsoil
+icr062134,Madagascar,Didy,1,1,-18.3471,48.6935,885,Topsoil
+icr062135,Madagascar,Didy,1,1,-18.3471,48.6935,885,Subsoil
+icr062155,Madagascar,Didy,2,1,-18.3172,48.6883,226,Topsoil
+icr062156,Madagascar,Didy,2,1,-18.3172,48.6883,226,Subsoil
+icr062175,Madagascar,Didy,3,1,-18.2959,48.692,1135,Topsoil
+icr062176,Madagascar,Didy,3,1,-18.2959,48.692,1135,Subsoil
+icr062195,Madagascar,Didy,4,1,-18.2759,48.6875,1188,Topsoil
+icr062196,Madagascar,Didy,4,1,-18.2759,48.6875,1188,Subsoil
+icr062215,Madagascar,Didy,5,1,-18.3362,48.71,1057,Topsoil
+icr062216,Madagascar,Didy,5,1,-18.3362,48.71,1057,Subsoil
+icr062237,Madagascar,Didy,6,2,-18.3233,48.7092,995,Topsoil
+icr062238,Madagascar,Didy,6,2,-18.3233,48.7092,995,Subsoil
+icr062255,Madagascar,Didy,7,1,-18.2919,48.7134,1104,Topsoil
+icr062256,Madagascar,Didy,7,1,-18.2919,48.7134,1104,Subsoil
+icr062275,Madagascar,Didy,8,1,-18.2724,48.7098,1158,Topsoil
+icr062276,Madagascar,Didy,8,1,-18.2724,48.7098,1158,Subsoil
+icr062294,Madagascar,Didy,9,1,-18.349,48.7392,1150,Topsoil
+icr062295,Madagascar,Didy,9,1,-18.349,48.7392,1150,Subsoil
+icr062314,Madagascar,Didy,10,1,-18.3162,48.7348,1004,Topsoil
+icr062315,Madagascar,Didy,10,1,-18.3162,48.7348,1004,Subsoil
+icr062334,Madagascar,Didy,11,1,-18.2968,48.7352,967,Topsoil
+icr062335,Madagascar,Didy,11,1,-18.2968,48.7352,967,Subsoil
+icr062353,Madagascar,Didy,12,1,-18.2763,48.7363,1000,Topsoil
+icr062354,Madagascar,Didy,12,1,-18.2763,48.7363,1000,Subsoil
+icr062373,Madagascar,Didy,13,1,-18.3387,48.7558,1000,Topsoil
+icr062374,Madagascar,Didy,13,1,-18.3387,48.7558,1000,Subsoil
+icr062395,Madagascar,Didy,14,2,-18.3094,48.7565,944,Topsoil
+icr062396,Madagascar,Didy,14,2,-18.3094,48.7565,944,Subsoil
+icr062413,Madagascar,Didy,15,1,-18.2982,48.7534,1011,Topsoil
+icr062414,Madagascar,Didy,15,1,-18.2982,48.7534,1011,Subsoil
+icr062433,Madagascar,Didy,16,1,-18.2793,48.7545,1012,Topsoil
+icr062434,Madagascar,Didy,16,1,-18.2793,48.7545,1012,Subsoil
+icr068101,Niger,Nyalagari,1,2,13.367585,1.735376667,93,Topsoil
+icr068102,Niger,Nyalagari,1,2,13.367585,1.735376667,93,Subsoil
+icr068131,Niger,Nyalagari,2,7,13.393575,1.735128333,81,Topsoil
+icr068132,Niger,Nyalagari,2,7,13.393575,1.735128333,81,Subsoil
+icr068149,Niger,Nyalagari,3,6,13.418405,1.731593333,126,Topsoil
+icr068150,Niger,Nyalagari,3,6,13.418405,1.731593333,126,Subsoil
+icr068161,Niger,Nyalagari,4,2,13.43555333,1.738738333,118,Topsoil
+icr068162,Niger,Nyalagari,4,2,13.43555333,1.738738333,118,Subsoil
+icr068181,Niger,Nyalagari,5,2,13.37571833,1.759763333,138,Topsoil
+icr068182,Niger,Nyalagari,5,2,13.37571833,1.759763333,138,Subsoil
+icr068199,Niger,Nyalagari,6,1,13.39504,1.75692,173,Topsoil
+icr068200,Niger,Nyalagari,6,1,13.39504,1.75692,173,Subsoil
+icr068221,Niger,Nyalagari,7,2,13.41339833,1.754711667,191,Topsoil
+icr068222,Niger,Nyalagari,7,2,13.41339833,1.754711667,191,Subsoil
+icr068239,Niger,Nyalagari,8,1,13.44397,1.754626667,198,Topsoil
+icr068240,Niger,Nyalagari,8,1,13.44397,1.754626667,198,Subsoil
+icr068265,Niger,Nyalagari,9,4,13.371465,1.779663333,189,Topsoil
+icr068266,Niger,Nyalagari,9,4,13.371465,1.779663333,189,Subsoil
+icr068279,Niger,Nyalagari,10,1,13.38991667,1.77919,103,Topsoil
+icr068280,Niger,Nyalagari,10,1,13.38991667,1.77919,103,Subsoil
+icr068301,Niger,Nyalagari,11,2,13.41907833,1.786608333,187,Topsoil
+icr068302,Niger,Nyalagari,11,2,13.41907833,1.786608333,187,Subsoil
+icr068321,Niger,Nyalagari,12,2,13.43786,1.777961667,217,Topsoil
+icr068322,Niger,Nyalagari,12,2,13.43786,1.777961667,217,Subsoil
+icr068339,Niger,Nyalagari,13,1,13.37199833,1.804516667,219,Topsoil
+icr068340,Niger,Nyalagari,13,1,13.37199833,1.804516667,219,Subsoil
+icr068361,Niger,Nyalagari,14,2,13.38568167,1.798298333,201,Topsoil
+icr068362,Niger,Nyalagari,14,2,13.38568167,1.798298333,201,Subsoil
+icr068381,Niger,Nyalagari,15,2,13.404805,1.802671667,243,Topsoil
+icr068382,Niger,Nyalagari,15,2,13.404805,1.802671667,243,Subsoil
+icr068399,Niger,Nyalagari,16,1,13.43122,1.799123333,236,Topsoil
+icr068400,Niger,Nyalagari,16,1,13.43122,1.799123333,236,Subsoil
+icr068419,Nigeria,Pampaida,1,3,11.28078,8.123596667,626,Topsoil
+icr068420,Nigeria,Pampaida,1,3,11.28078,8.123596667,626,Subsoil
+icr068439,Nigeria,Pampaida,2,1,11.307105,8.119573333,630,Topsoil
+icr068440,Nigeria,Pampaida,2,1,11.307105,8.119573333,630,Subsoil
+icr068459,Nigeria,Pampaida,3,1,11.33028667,8.124355,613,Topsoil
+icr068460,Nigeria,Pampaida,3,1,11.33028667,8.124355,613,Subsoil
+icr068481,Nigeria,Pampaida,4,2,11.35407333,8.121323333,612,Topsoil
+icr068482,Nigeria,Pampaida,4,2,11.35407333,8.121323333,612,Subsoil
+icr068499,Nigeria,Pampaida,5,1,11.29146167,8.145926667,617,Topsoil
+icr068500,Nigeria,Pampaida,5,1,11.29146167,8.145926667,617,Subsoil
+icr068521,Nigeria,Pampaida,6,2,11.31266,8.148253333,610,Topsoil
+icr068522,Nigeria,Pampaida,6,2,11.31266,8.148253333,610,Subsoil
+icr068539,Nigeria,Pampaida,7,1,11.33524167,8.150375,561,Topsoil
+icr068540,Nigeria,Pampaida,7,1,11.33524167,8.150375,561,Subsoil
+icr068559,Nigeria,Pampaida,8,1,11.35515,8.146985,597,Topsoil
+icr068560,Nigeria,Pampaida,8,1,11.35515,8.146985,597,Subsoil
+icr068579,Nigeria,Pampaida,9,1,11.28065833,8.166768333,592,Topsoil
+icr068580,Nigeria,Pampaida,9,1,11.28065833,8.166768333,592,Subsoil
+icr068599,Nigeria,Pampaida,10,1,11.30869,8.175328333,593,Topsoil
+icr068600,Nigeria,Pampaida,10,1,11.30869,8.175328333,593,Subsoil
+icr068619,Nigeria,Pampaida,11,1,11.332955,8.173293333,599,Topsoil
+icr068639,Nigeria,Pampaida,12,1,11.35259,8.169905,589,Topsoil
+icr068640,Nigeria,Pampaida,12,1,11.35259,8.169905,589,Subsoil
+icr068662,Nigeria,Pampaida,13,4,11.28576667,8.197546667,564,Topsoil
+icr068663,Nigeria,Pampaida,13,4,11.28576667,8.197546667,564,Subsoil
+icr068677,Nigeria,Pampaida,14,1,11.30931667,8.19152,584,Topsoil
+icr068678,Nigeria,Pampaida,14,1,11.30931667,8.19152,584,Subsoil
+icr068697,Nigeria,Pampaida,15,1,11.32778667,8.192435,563,Topsoil
+icr068698,Nigeria,Pampaida,15,1,11.32778667,8.192435,563,Subsoil
+icr068717,Nigeria,Pampaida,16,1,11.34667,8.194856667,588,Topsoil
+icr068718,Nigeria,Pampaida,16,1,11.34667,8.194856667,588,Subsoil
+icr069789,Mali,Tambabougou,1,1,14.809575,-7.843511667,333,Topsoil
+icr069790,Mali,Tambabougou,1,1,14.809575,-7.843511667,333,Subsoil
+icr069809,Mali,Tambabougou,2,1,14.83139,-7.843868333,399,Topsoil
+icr069810,Mali,Tambabougou,2,1,14.83139,-7.843868333,399,Subsoil
+icr069829,Mali,Tambabougou,3,1,14.85631333,-7.846765,288,Topsoil
+icr069830,Mali,Tambabougou,3,1,14.85631333,-7.846765,288,Subsoil
+icr069849,Mali,Tambabougou,4,1,14.87954,-7.8447,255,Topsoil
+icr069850,Mali,Tambabougou,4,1,14.87954,-7.8447,255,Subsoil
+icr069869,Mali,Tambabougou,5,1,14.80671333,-7.825015,225,Topsoil
+icr069870,Mali,Tambabougou,5,1,14.80671333,-7.825015,225,Subsoil
+icr069889,Mali,Tambabougou,6,1,14.83103333,-7.823068333,383,Topsoil
+icr069890,Mali,Tambabougou,6,1,14.83103333,-7.823068333,383,Subsoil
+icr069909,Mali,Tambabougou,7,1,14.858365,-7.82084,271,Topsoil
+icr069910,Mali,Tambabougou,7,1,14.858365,-7.82084,271,Subsoil
+icr069929,Mali,Tambabougou,8,1,14.869855,-7.819491667,432,Topsoil
+icr069930,Mali,Tambabougou,8,1,14.869855,-7.819491667,432,Subsoil
+icr069949,Mali,Tambabougou,9,1,14.80238833,-7.802876667,256,Topsoil
+icr069950,Mali,Tambabougou,9,1,14.80238833,-7.802876667,256,Subsoil
+icr069969,Mali,Tambabougou,10,1,14.83648167,-7.809873333,296,Topsoil
+icr069970,Mali,Tambabougou,10,1,14.83648167,-7.809873333,296,Subsoil
+icr069989,Mali,Tambabougou,11,1,14.85474833,-7.80709,250,Topsoil
+icr069990,Mali,Tambabougou,11,1,14.85474833,-7.80709,250,Subsoil
+icr070009,Mali,Tambabougou,12,1,14.87538667,-7.795621667,264,Topsoil
+icr070010,Mali,Tambabougou,12,1,14.87538667,-7.795621667,264,Subsoil
+icr070029,Mali,Tambabougou,13,1,14.80921167,-7.78246,166,Topsoil
+icr070030,Mali,Tambabougou,13,1,14.80921167,-7.78246,166,Subsoil
+icr070049,Mali,Tambabougou,14,1,14.83130167,-7.780153333,321,Topsoil
+icr070050,Mali,Tambabougou,14,1,14.83130167,-7.780153333,321,Subsoil
+icr070069,Mali,Tambabougou,15,1,14.853915,-7.781675,344,Topsoil
+icr070070,Mali,Tambabougou,15,1,14.853915,-7.781675,344,Subsoil
+icr070089,Mali,Tambabougou,16,2,14.87451333,-7.780065,269,Topsoil
+icr070090,Mali,Tambabougou,16,2,14.87451333,-7.780065,269,Subsoil
+icr070112,Nigeria,Kutigi,1,4,9.166063333,5.678096667,266,Topsoil
+icr070113,Nigeria,Kutigi,1,4,9.166063333,5.678096667,266,Subsoil
+icr070124,Nigeria,Kutigi,2,2,9.191568333,5.671851667,205,Topsoil
+icr070125,Nigeria,Kutigi,2,2,9.191568333,5.671851667,205,Subsoil
+icr070142,Nigeria,Kutigi,3,1,9.221401667,5.666751667,61,Topsoil
+icr070143,Nigeria,Kutigi,3,1,9.221401667,5.666751667,61,Subsoil
+icr070164,Nigeria,Kutigi,4,2,9.233073333,5.676535,150,Topsoil
+icr070165,Nigeria,Kutigi,4,2,9.233073333,5.676535,150,Subsoil
+icr070193,Nigeria,Kutigi,5,8,9.166866667,5.69213,186,Topsoil
+icr070194,Nigeria,Kutigi,5,8,9.166866667,5.69213,186,Subsoil
+icr070202,Nigeria,Kutigi,6,4,9.192731667,5.697721667,137,Topsoil
+icr070203,Nigeria,Kutigi,6,4,9.192731667,5.697721667,137,Subsoil
+icr070246,Nigeria,Kutigi,8,6,9.241345,5.689193333,148,Topsoil
+icr070247,Nigeria,Kutigi,8,6,9.241345,5.689193333,148,Subsoil
+icr070262,Nigeria,Kutigi,9,4,9.17576,5.711345,155,Topsoil
+icr070263,Nigeria,Kutigi,9,4,9.17576,5.711345,155,Subsoil
+icr070276,Nigeria,Kutigi,10,1,9.192781667,5.719468333,137,Topsoil
+icr070277,Nigeria,Kutigi,10,1,9.192781667,5.719468333,137,Subsoil
+icr070288,Nigeria,Kutigi,11,1,9.21169,5.715875,127,Topsoil
+icr070289,Nigeria,Kutigi,11,1,9.21169,5.715875,127,Subsoil
+icr070308,Nigeria,Kutigi,12,1,9.237658333,5.717488333,164,Topsoil
+icr070309,Nigeria,Kutigi,12,1,9.237658333,5.717488333,164,Subsoil
+icr070328,Nigeria,Kutigi,13,1,9.170196667,5.738131667,167,Topsoil
+icr070329,Nigeria,Kutigi,13,1,9.170196667,5.738131667,167,Subsoil
+icr070348,Nigeria,Kutigi,14,1,9.188533333,5.742303333,178,Topsoil
+icr070349,Nigeria,Kutigi,14,1,9.188533333,5.742303333,178,Subsoil
+icr070370,Nigeria,Kutigi,15,3,9.217246667,5.73423,117,Topsoil
+icr070371,Nigeria,Kutigi,15,3,9.217246667,5.73423,117,Subsoil
+icr070386,Nigeria,Kutigi,16,1,9.239531667,5.744221667,137,Topsoil
+icr070387,Nigeria,Kutigi,16,2,9.24007,5.734768333,146,Topsoil
+icr072246,Angola,Sanza Pompo,1,1,-7.37775,15.68749167,1078,Topsoil
+icr072247,Angola,Sanza Pompo,1,1,-7.37775,15.68749167,1078,Subsoil
+icr072266,Angola,Sanza Pompo,2,1,-7.351243333,15.68781667,1045,Topsoil
+icr072267,Angola,Sanza Pompo,2,1,-7.351243333,15.68781667,1045,Subsoil
+icr072286,Angola,Sanza Pompo,3,1,-7.331673333,15.687965,1047,Topsoil
+icr072287,Angola,Sanza Pompo,3,1,-7.331673333,15.687965,1047,Subsoil
+icr072306,Angola,Sanza Pompo,4,1,-7.315181667,15.69147833,1002,Topsoil
+icr072307,Angola,Sanza Pompo,4,1,-7.315181667,15.69147833,1002,Subsoil
+icr072325,Angola,Sanza Pompo,4,10,-7.315401667,15.69508167,979,Subsoil
+icr072326,Angola,Sanza Pompo,5,1,-7.373935,15.719655,1023,Topsoil
+icr072345,Angola,Sanza Pompo,6,1,-7.356638333,15.71737333,NA,Topsoil
+icr072346,Angola,Sanza Pompo,6,1,-7.356638333,15.71737333,NA,Subsoil
+icr072365,Angola,Sanza Pompo,7,1,-7.340811667,15.71909667,987,Topsoil
+icr072366,Angola,Sanza Pompo,7,1,-7.340811667,15.71909667,987,Subsoil
+icr072385,Angola,Sanza Pompo,8,1,-7.31065,15.71785667,973,Topsoil
+icr072386,Angola,Sanza Pompo,8,1,-7.31065,15.71785667,973,Subsoil
+icr072405,Angola,Sanza Pompo,9,1,-7.372465,15.73818833,1011,Topsoil
+icr072406,Angola,Sanza Pompo,9,1,-7.372465,15.73818833,1011,Subsoil
+icr072425,Angola,Sanza Pompo,10,1,-7.361311667,15.73790167,995,Topsoil
+icr072426,Angola,Sanza Pompo,10,1,-7.361311667,15.73790167,995,Subsoil
+icr072445,Angola,Sanza Pompo,11,1,-7.337718333,15.73058833,961,Topsoil
+icr072446,Angola,Sanza Pompo,11,1,-7.337718333,15.73058833,961,Subsoil
+icr072465,Angola,Sanza Pompo,12,1,-7.315528333,15.74003333,960,Topsoil
+icr072466,Angola,Sanza Pompo,12,1,-7.315528333,15.74003333,960,Subsoil
+icr072485,Angola,Sanza Pompo,13,1,-7.372681667,15.76295333,970,Topsoil
+icr072486,Angola,Sanza Pompo,13,1,-7.372681667,15.76295333,970,Subsoil
+icr072505,Angola,Sanza Pompo,14,1,-7.359855,15.76168,965,Topsoil
+icr072506,Angola,Sanza Pompo,14,1,-7.359855,15.76168,965,Subsoil
+icr072525,Angola,Sanza Pompo,15,1,-7.333075,15.76078667,1013,Topsoil
+icr072526,Angola,Sanza Pompo,15,1,-7.333075,15.76078667,1013,Subsoil
+icr072544,Angola,Sanza Pompo,16,2,-7.31389,15.76066667,984,Topsoil
+icr072545,Angola,Sanza Pompo,16,2,-7.31389,15.76066667,984,Subsoil
+icr072596,Angola,Mucope,1,1,-16.26941333,14.883505,1141,Topsoil
+icr072597,Angola,Mucope,1,1,-16.26941333,14.883505,1141,Subsoil
+icr072616,Angola,Mucope,2,1,-16.24470833,14.88468667,1146,Topsoil
+icr072617,Angola,Mucope,2,1,-16.24470833,14.88468667,1146,Subsoil
+icr072636,Angola,Mucope,3,1,-16.21611333,14.88083,1145,Topsoil
+icr072637,Angola,Mucope,3,1,-16.21611333,14.88083,1145,Subsoil
+icr072656,Angola,Mucope,4,1,-16.196175,14.87335667,1143,Topsoil
+icr072657,Angola,Mucope,4,1,-16.196175,14.87335667,1143,Subsoil
+icr072676,Angola,Mucope,5,1,-16.26719667,14.89980667,1136,Topsoil
+icr072677,Angola,Mucope,5,1,-16.26719667,14.89980667,1136,Subsoil
+icr072696,Angola,Mucope,6,1,-16.24029,14.90458833,1137,Topsoil
+icr072697,Angola,Mucope,6,1,-16.24029,14.90458833,1137,Subsoil
+icr072716,Angola,Mucope,7,1,-16.225095,14.89889,1144,Topsoil
+icr072717,Angola,Mucope,7,1,-16.225095,14.89889,1144,Subsoil
+icr072736,Angola,Mucope,8,1,-16.19894167,14.89918167,1139,Topsoil
+icr072737,Angola,Mucope,8,1,-16.19894167,14.89918167,1139,Subsoil
+icr072756,Angola,Mucope,9,1,-16.26354667,14.930115,1137,Topsoil
+icr072757,Angola,Mucope,9,1,-16.26354667,14.930115,1137,Subsoil
+icr072776,Angola,Mucope,10,1,-16.24473333,14.92850333,1137,Topsoil
+icr072777,Angola,Mucope,10,1,-16.24473333,14.92850333,1137,Subsoil
+icr072796,Angola,Mucope,11,1,-16.21921167,14.93248,1140,Topsoil
+icr072797,Angola,Mucope,11,1,-16.21921167,14.93248,1140,Subsoil
+icr072816,Angola,Mucope,12,1,-16.203565,14.92257333,1144,Topsoil
+icr072817,Angola,Mucope,12,1,-16.203565,14.92257333,1144,Subsoil
+icr072836,Angola,Mucope,13,1,-16.268775,14.958435,1143,Topsoil
+icr072837,Angola,Mucope,13,1,-16.268775,14.958435,1143,Subsoil
+icr072856,Angola,Mucope,14,1,-16.24256167,14.94835667,1131,Topsoil
+icr072857,Angola,Mucope,14,1,-16.24256167,14.94835667,1131,Subsoil
+icr072876,Angola,Mucope,15,1,-16.221305,14.94596167,1142,Topsoil
+icr072877,Angola,Mucope,15,1,-16.221305,14.94596167,1142,Subsoil
+icr072896,Angola,Mucope,16,1,-16.20006,14.95128667,1142,Topsoil
+icr072897,Angola,Mucope,16,1,-16.20006,14.95128667,1142,Subsoil
+icr072948,Angola,Bimbe,1,2,-11.772835,15.87541167,1766,Topsoil
+icr072949,Angola,Bimbe,1,2,-11.772835,15.87541167,1766,Subsoil
+icr072968,Angola,Bimbe,2,1,-11.75044833,15.87774167,1811,Topsoil
+icr072969,Angola,Bimbe,2,1,-11.75044833,15.87774167,1811,Subsoil
+icr072988,Angola,Bimbe,3,1,-11.72324667,15.88526667,1794,Topsoil
+icr072989,Angola,Bimbe,3,1,-11.72324667,15.88526667,1794,Subsoil
+icr073008,Angola,Bimbe,4,1,-11.70413667,15.88675,1692,Topsoil
+icr073009,Angola,Bimbe,4,1,-11.70413667,15.88675,1692,Subsoil
+icr073028,Angola,Bimbe,5,1,-11.77340167,15.90902167,1800,Topsoil
+icr073029,Angola,Bimbe,5,1,-11.77340167,15.90902167,1800,Subsoil
+icr073048,Angola,Bimbe,6,1,-11.75164667,15.904305,1812,Topsoil
+icr073049,Angola,Bimbe,6,1,-11.75164667,15.904305,1812,Subsoil
+icr073068,Angola,Bimbe,7,1,-11.72861167,15.90537,1772,Topsoil
+icr073069,Angola,Bimbe,7,1,-11.72861167,15.90537,1772,Subsoil
+icr073088,Angola,Bimbe,8,1,-11.70184,15.905035,1781,Topsoil
+icr073089,Angola,Bimbe,8,1,-11.70184,15.905035,1781,Subsoil
+icr073128,Angola,Bimbe,10,1,-11.74299833,15.925165,1778,Topsoil
+icr073129,Angola,Bimbe,10,1,-11.74299833,15.925165,1778,Subsoil
+icr073148,Angola,Bimbe,11,1,-11.72815,15.92955167,1733,Topsoil
+icr073149,Angola,Bimbe,11,1,-11.72815,15.92955167,1733,Subsoil
+icr073168,Angola,Bimbe,12,1,-11.70322333,15.92522667,1722,Topsoil
+icr073169,Angola,Bimbe,12,1,-11.70322333,15.92522667,1722,Subsoil
+icr073188,Angola,Bimbe,13,1,-11.77607833,15.95362833,1761,Topsoil
+icr073189,Angola,Bimbe,13,1,-11.77607833,15.95362833,1761,Subsoil
+icr073208,Angola,Bimbe,14,1,-11.75424667,15.95240333,1706,Topsoil
+icr073209,Angola,Bimbe,14,1,-11.75424667,15.95240333,1706,Subsoil
+icr073228,Angola,Bimbe,15,1,-11.72477,15.94343,1731,Topsoil
+icr073229,Angola,Bimbe,15,1,-11.72477,15.94343,1731,Subsoil
+icr073248,Angola,Bimbe,16,1,-11.70006667,15.9523,1730,Topsoil
+icr073249,Angola,Bimbe,16,1,-11.70006667,15.9523,1730,Subsoil
+icr073300,Angola,Luimbale,1,1,-12.35919,15.14388333,1674,Topsoil
+icr073301,Angola,Luimbale,1,1,-12.35919,15.14388333,1674,Subsoil
+icr073320,Angola,Luimbale,2,1,-12.33987333,15.14360333,1664,Topsoil
+icr073321,Angola,Luimbale,2,1,-12.33987333,15.14360333,1664,Subsoil
+icr073340,Angola,Luimbale,3,1,-12.31628333,15.15200333,1658,Topsoil
+icr073341,Angola,Luimbale,3,1,-12.31628333,15.15200333,1658,Subsoil
+icr073361,Angola,Luimbale,4,2,-12.30484,15.14741667,1586,Topsoil
+icr073362,Angola,Luimbale,4,2,-12.30484,15.14741667,1586,Subsoil
+icr073379,Angola,Luimbale,5,1,-12.3554,15.16175667,1768,Topsoil
+icr073380,Angola,Luimbale,5,1,-12.3554,15.16175667,1768,Subsoil
+icr073399,Angola,Luimbale,6,1,-12.34284,15.17547833,1746,Topsoil
+icr073400,Angola,Luimbale,6,1,-12.34284,15.17547833,1746,Subsoil
+icr073419,Angola,Luimbale,7,1,-12.31856,15.17408167,1640,Topsoil
+icr073420,Angola,Luimbale,7,1,-12.31856,15.17408167,1640,Subsoil
+icr073439,Angola,Luimbale,8,1,-12.297935,15.17505,1597,Topsoil
+icr073440,Angola,Luimbale,8,1,-12.297935,15.17505,1597,Subsoil
+icr073459,Angola,Luimbale,9,2,-12.349295,15.20264667,1730,Topsoil
+icr073460,Angola,Luimbale,9,2,-12.349295,15.20264667,1730,Subsoil
+icr073479,Angola,Luimbale,10,1,-12.345895,15.19027833,1726,Topsoil
+icr073480,Angola,Luimbale,10,1,-12.345895,15.19027833,1726,Subsoil
+icr073499,Angola,Luimbale,11,1,-12.31855667,15.2063,1709,Topsoil
+icr073500,Angola,Luimbale,11,1,-12.31855667,15.2063,1709,Subsoil
+icr073519,Angola,Luimbale,12,1,-12.295335,15.19546833,1632,Topsoil
+icr073520,Angola,Luimbale,12,1,-12.295335,15.19546833,1632,Subsoil
+icr073539,Angola,Luimbale,13,1,-12.357305,15.21692167,1919,Topsoil
+icr073540,Angola,Luimbale,13,1,-12.357305,15.21692167,1919,Subsoil
+icr073558,Angola,Luimbale,14,1,-12.32752333,15.22182667,1680,Topsoil
+icr073559,Angola,Luimbale,14,1,-12.32752333,15.22182667,1680,Subsoil
+icr073578,Angola,Luimbale,15,1,-12.31476833,15.21382333,1698,Topsoil
+icr073579,Angola,Luimbale,15,1,-12.31476833,15.21382333,1698,Subsoil
+icr073598,Angola,Luimbale,16,1,-12.29723833,15.22342333,1610,Topsoil
+icr073599,Angola,Luimbale,16,1,-12.29723833,15.22342333,1610,Subsoil
+icr073649,Zimbabwe,Kenilworth,1,1,-19.425122000000002,28.724613,1233,Topsoil
+icr073650,Zimbabwe,Kenilworth,1,1,-19.425122000000002,28.724613,1233,Subsoil
+icr073670,Zimbabwe,Kenilworth,2,2,-19.41344,28.733862,1240,Topsoil
+icr073671,Zimbabwe,Kenilworth,2,2,-19.41344,28.733862,1240,Subsoil
+icr073686,Zimbabwe,Kenilworth,3,1,-19.38535333,28.72538333,1238,Topsoil
+icr073687,Zimbabwe,Kenilworth,3,1,-19.38535333,28.72538333,1238,Subsoil
+icr073703,Zimbabwe,Kenilworth,4,1,-19.372857,28.721183,1227,Topsoil
+icr073704,Zimbabwe,Kenilworth,4,1,-19.372857,28.721183,1227,Subsoil
+icr073723,Zimbabwe,Kenilworth,5,1,-19.43525,28.754072,1246,Topsoil
+icr073724,Zimbabwe,Kenilworth,5,1,-19.43525,28.754072,1246,Subsoil
+icr073743,Zimbabwe,Kenilworth,6,1,-19.4141,28.74545833,1246,Topsoil
+icr073744,Zimbabwe,Kenilworth,6,1,-19.4141,28.74545833,1246,Subsoil
+icr073762,Zimbabwe,Kenilworth,7,1,-19.38859667,28.74953333,1249,Topsoil
+icr073763,Zimbabwe,Kenilworth,7,1,-19.38859667,28.74953333,1249,Subsoil
+icr073799,Zimbabwe,Kenilworth,9,1,-19.42756167,28.76724667,1256,Topsoil
+icr073800,Zimbabwe,Kenilworth,9,1,-19.42756167,28.76724667,1256,Subsoil
+icr073819,Zimbabwe,Kenilworth,10,1,-19.41003,28.76292667,1261,Topsoil
+icr073839,Zimbabwe,Kenilworth,11,1,-19.39583167,28.76500833,1256,Topsoil
+icr073840,Zimbabwe,Kenilworth,11,1,-19.39583167,28.76500833,1256,Subsoil
+icr073857,Zimbabwe,Kenilworth,12,1,-19.36441167,28.77160167,1250,Topsoil
+icr073858,Zimbabwe,Kenilworth,12,1,-19.36441167,28.77160167,1250,Subsoil
+icr073877,Zimbabwe,Kenilworth,13,1,-19.437477,28.792972,1298,Topsoil
+icr073878,Zimbabwe,Kenilworth,13,1,-19.437477,28.792972,1298,Subsoil
+icr073897,Zimbabwe,Kenilworth,14,1,-19.410165,28.794548,1292,Topsoil
+icr073898,Zimbabwe,Kenilworth,14,1,-19.410165,28.794548,1292,Subsoil
+icr073917,Zimbabwe,Kenilworth,15,1,-19.392763,28.802128,1274,Topsoil
+icr073918,Zimbabwe,Kenilworth,15,1,-19.392763,28.802128,1274,Subsoil
+icr073937,Zimbabwe,Kenilworth,16,1,-19.373928,28.786663,1260,Topsoil
+icr073938,Zimbabwe,Kenilworth,16,1,-19.373928,28.786663,1260,Subsoil
+icr073988,Zimbabwe,Gambisa,1,2,-18.142,29.4097,948,Topsoil
+icr073989,Zimbabwe,Gambisa,1,2,-18.142,29.4097,948,Subsoil
+icr074002,Zimbabwe,Gambisa,2,1,-18.1109,29.4157,972,Topsoil
+icr074003,Zimbabwe,Gambisa,2,1,-18.1109,29.4157,972,Subsoil
+icr074018,Zimbabwe,Gambisa,3,1,-18.0948,29.4155,989,Topsoil
+icr074019,Zimbabwe,Gambisa,3,1,-18.0948,29.4155,989,Subsoil
+icr074030,Zimbabwe,Gambisa,4,1,-18.066,29.4092,950,Topsoil
+icr074031,Zimbabwe,Gambisa,4,1,-18.066,29.4092,950,Subsoil
+icr074045,Zimbabwe,Gambisa,5,1,-18.137,29.4347,975,Topsoil
+icr074046,Zimbabwe,Gambisa,5,1,-18.137,29.4347,975,Subsoil
+icr074062,Zimbabwe,Gambisa,6,1,-18.1169,29.4375,974,Topsoil
+icr074063,Zimbabwe,Gambisa,6,1,-18.1169,29.4375,974,Subsoil
+icr074082,Zimbabwe,Gambisa,7,1,-18.0858,29.4351,936,Topsoil
+icr074083,Zimbabwe,Gambisa,7,1,-18.0858,29.4351,936,Subsoil
+icr074102,Zimbabwe,Gambisa,8,1,-18.0663,29.4295,933,Topsoil
+icr074103,Zimbabwe,Gambisa,8,1,-18.0663,29.4295,933,Subsoil
+icr074122,Zimbabwe,Gambisa,9,1,-18.1381,29.4551,952,Topsoil
+icr074123,Zimbabwe,Gambisa,9,1,-18.1381,29.4551,952,Subsoil
+icr074140,Zimbabwe,Gambisa,10,1,-18.1141,29.4552,971,Topsoil
+icr074141,Zimbabwe,Gambisa,10,1,-18.1141,29.4552,971,Subsoil
+icr074159,Zimbabwe,Gambisa,11,1,-18.0962,29.4588,983,Topsoil
+icr074160,Zimbabwe,Gambisa,11,1,-18.0962,29.4588,983,Subsoil
+icr074175,Zimbabwe,Gambisa,12,1,-18.0749,29.4566,949,Topsoil
+icr074176,Zimbabwe,Gambisa,12,1,-18.0749,29.4566,949,Subsoil
+icr074193,Zimbabwe,Gambisa,13,2,-18.1315,29.4801,971,Topsoil
+icr074194,Zimbabwe,Gambisa,13,2,-18.1315,29.4801,971,Subsoil
+icr074211,Zimbabwe,Gambisa,14,1,-18.111,29.485,987,Topsoil
+icr074212,Zimbabwe,Gambisa,14,1,-18.111,29.485,987,Subsoil
+icr074231,Zimbabwe,Gambisa,15,1,-18.0911,29.4842,999,Topsoil
+icr074232,Zimbabwe,Gambisa,15,1,-18.0911,29.4842,999,Subsoil
+icr074248,Zimbabwe,Gambisa,16,1,-18.0683,29.4841,962,Topsoil
+icr074249,Zimbabwe,Gambisa,16,1,-18.0683,29.4841,962,Subsoil
+icr074298,Botswana,Paje,1,1,-21.7905,26.458,1060,Topsoil
+icr074299,Botswana,Paje,1,1,-21.7905,26.458,1060,Subsoil
+icr074318,Botswana,Paje,2,1,-21.7779,26.4554,1062,Topsoil
+icr074319,Botswana,Paje,2,1,-21.7779,26.4554,1062,Subsoil
+icr074336,Botswana,Paje,3,1,-21.7522,26.4592,1061,Topsoil
+icr074337,Botswana,Paje,3,1,-21.7522,26.4592,1061,Subsoil
+icr074356,Botswana,Paje,4,1,-21.7213,26.457,1078,Topsoil
+icr074357,Botswana,Paje,4,1,-21.7213,26.457,1078,Subsoil
+icr074376,Botswana,Paje,5,1,-21.7919,26.4815,1060,Topsoil
+icr074377,Botswana,Paje,5,1,-21.7919,26.4815,1060,Subsoil
+icr074396,Botswana,Paje,6,1,-21.7771,26.4829,1046,Topsoil
+icr074397,Botswana,Paje,6,1,-21.7771,26.4829,1046,Subsoil
+icr074413,Botswana,Paje,7,1,-21.7559,26.4813,1053,Topsoil
+icr074414,Botswana,Paje,7,1,-21.7559,26.4813,1053,Subsoil
+icr074433,Botswana,Paje,8,1,-21.7275,26.4797,1063,Topsoil
+icr074434,Botswana,Paje,8,1,-21.7275,26.4797,1063,Subsoil
+icr074454,Botswana,Paje,9,2,-21.7992,26.5087,1050,Topsoil
+icr074455,Botswana,Paje,9,2,-21.7992,26.5087,1050,Subsoil
+icr074470,Botswana,Paje,10,1,-21.7756,26.5008,1051,Topsoil
+icr074471,Botswana,Paje,10,1,-21.7756,26.5008,1051,Subsoil
+icr074489,Botswana,Paje,11,1,-21.749,26.5039,1051,Topsoil
+icr074490,Botswana,Paje,11,1,-21.749,26.5039,1051,Subsoil
+icr074509,Botswana,Paje,12,1,-21.7232,26.4957,1057,Topsoil
+icr074510,Botswana,Paje,12,1,-21.7232,26.4957,1057,Subsoil
+icr074529,Botswana,Paje,13,1,-21.7908,26.5175,1048,Topsoil
+icr074530,Botswana,Paje,13,1,-21.7908,26.5175,1048,Subsoil
+icr074544,Botswana,Paje,14,1,-21.7707,26.526,1054,Topsoil
+icr074545,Botswana,Paje,14,1,-21.7707,26.526,1054,Subsoil
+icr074560,Botswana,Paje,15,1,-21.7483,26.5266,1052,Topsoil
+icr074561,Botswana,Paje,15,1,-21.7483,26.5266,1052,Subsoil
+icr074580,Botswana,Paje,16,1,-21.731,26.5229,1046,Topsoil
+icr074581,Botswana,Paje,16,1,-21.731,26.5229,1046,Subsoil
+icr074631,Botswana,Gumare,1,1,-19.4157,22.0154,970,Topsoil
+icr074632,Botswana,Gumare,1,1,-19.4157,22.0154,970,Subsoil
+icr074651,Botswana,Gumare,2,1,-19.3975,22.0256,969,Topsoil
+icr074652,Botswana,Gumare,2,1,-19.3975,22.0256,969,Subsoil
+icr074671,Botswana,Gumare,3,1,-19.3805,22.0165,974,Topsoil
+icr074672,Botswana,Gumare,3,1,-19.3805,22.0165,974,Subsoil
+icr074691,Botswana,Gumare,4,1,-19.3495,22.0128,978,Topsoil
+icr074692,Botswana,Gumare,4,1,-19.3495,22.0128,978,Subsoil
+icr074711,Botswana,Gumare,5,1,-19.4158,22.0395,962,Topsoil
+icr074712,Botswana,Gumare,5,1,-19.4158,22.0395,962,Subsoil
+icr074731,Botswana,Gumare,6,1,-19.3952,22.039,966,Topsoil
+icr074732,Botswana,Gumare,6,1,-19.3952,22.039,966,Subsoil
+icr074751,Botswana,Gumare,7,1,-19.3695,22.0389,969,Topsoil
+icr074752,Botswana,Gumare,7,1,-19.3695,22.0389,969,Subsoil
+icr074771,Botswana,Gumare,8,1,-19.341,22.0368,967,Topsoil
+icr074772,Botswana,Gumare,8,1,-19.341,22.0368,967,Subsoil
+icr074791,Botswana,Gumare,9,1,-19.4123,22.06,969,Topsoil
+icr074792,Botswana,Gumare,9,1,-19.4123,22.06,969,Subsoil
+icr074811,Botswana,Gumare,10,1,-19.3947,22.0671,968,Topsoil
+icr074812,Botswana,Gumare,10,1,-19.3947,22.0671,968,Subsoil
+icr074831,Botswana,Gumare,11,1,-19.3763,22.062,966,Topsoil
+icr074832,Botswana,Gumare,11,1,-19.3763,22.062,966,Subsoil
+icr074851,Botswana,Gumare,12,1,-19.3513,22.0571,967,Topsoil
+icr074852,Botswana,Gumare,12,1,-19.3513,22.0571,967,Subsoil
+icr074871,Botswana,Gumare,13,1,-19.4209,22.0793,963,Topsoil
+icr074872,Botswana,Gumare,13,1,-19.4209,22.0793,963,Subsoil
+icr074891,Botswana,Gumare,14,1,-19.3945,22.0855,968,Topsoil
+icr074911,Botswana,Gumare,15,1,-19.3686,22.0829,977,Topsoil
+icr074912,Botswana,Gumare,15,1,-19.3686,22.0829,977,Subsoil
+icr074931,Botswana,Gumare,16,1,-19.3415,22.0791,969,Topsoil
+icr074932,Botswana,Gumare,16,1,-19.3415,22.0791,969,Subsoil
+icr074983,Botswana,Shoshong,1,1,-23.0742,26.3949,1102.8,Topsoil
+icr074984,Botswana,Shoshong,1,1,-23.0742,26.3949,1102.8,Subsoil
+icr075003,Botswana,Shoshong,2,1,-23.0591,26.389,1110.5,Topsoil
+icr075004,Botswana,Shoshong,2,1,-23.0591,26.389,1110.5,Subsoil
+icr075023,Botswana,Shoshong,3,1,-23.0258,26.3959,1114.7,Topsoil
+icr075024,Botswana,Shoshong,3,1,-23.0258,26.3959,1114.7,Subsoil
+icr075043,Botswana,Shoshong,4,1,-23.0055,26.3972,1138.4,Topsoil
+icr075044,Botswana,Shoshong,4,1,-23.0055,26.3972,1138.4,Subsoil
+icr075063,Botswana,Shoshong,5,1,-23.0765,26.4193,1094.2,Topsoil
+icr075064,Botswana,Shoshong,5,1,-23.0765,26.4193,1094.2,Subsoil
+icr075083,Botswana,Shoshong,6,1,-23.0578,26.4171,1098.7,Topsoil
+icr075084,Botswana,Shoshong,6,1,-23.0578,26.4171,1098.7,Subsoil
+icr075103,Botswana,Shoshong,7,1,-23.0299,26.419,1112.7,Topsoil
+icr075104,Botswana,Shoshong,7,1,-23.0299,26.419,1112.7,Subsoil
+icr075123,Botswana,Shoshong,8,1,-23.0111,26.418,1130.5,Topsoil
+icr075124,Botswana,Shoshong,8,1,-23.0111,26.418,1130.5,Subsoil
+icr075143,Botswana,Shoshong,9,1,-23.0707,26.4356,1098,Topsoil
+icr075144,Botswana,Shoshong,9,1,-23.0707,26.4356,1098,Subsoil
+icr075163,Botswana,Shoshong,10,1,-23.0585,26.4374,1105,Topsoil
+icr075164,Botswana,Shoshong,10,1,-23.0585,26.4374,1105,Subsoil
+icr075183,Botswana,Shoshong,11,1,-23.0323,26.441,1112.5,Topsoil
+icr075184,Botswana,Shoshong,11,1,-23.0323,26.441,1112.5,Subsoil
+icr075203,Botswana,Shoshong,12,1,-23.0063,26.4425,1125.8,Topsoil
+icr075204,Botswana,Shoshong,12,1,-23.0063,26.4425,1125.8,Subsoil
+icr075224,Botswana,Shoshong,13,2,-23.0776,26.7766,1135,Topsoil
+icr075225,Botswana,Shoshong,13,2,-23.0776,26.7766,1135,Subsoil
+icr075240,Botswana,Shoshong,14,1,-23.0594,26.457,1107.4,Topsoil
+icr075241,Botswana,Shoshong,14,1,-23.0594,26.457,1107.4,Subsoil
+icr075260,Botswana,Shoshong,15,1,-23.0312,26.4632,1108,Topsoil
+icr075261,Botswana,Shoshong,15,1,-23.0312,26.4632,1108,Subsoil
+icr075280,Botswana,Shoshong,16,1,-23.0042,26.4664,1119.4,Topsoil
+icr075281,Botswana,Shoshong,16,1,-23.0042,26.4664,1119.4,Subsoil
+icr075331,Zimbabwe,Chiqumbakwe,1,1,-17.8653,31.8363,1421,Topsoil
+icr075332,Zimbabwe,Chiqumbakwe,1,1,-17.8653,31.8363,1421,Subsoil
+icr075350,Zimbabwe,Chiqumbakwe,2,1,-17.8307,31.8367,1429,Topsoil
+icr075351,Zimbabwe,Chiqumbakwe,2,1,-17.8307,31.8367,1429,Subsoil
+icr075370,Zimbabwe,Chiqumbakwe,3,1,-17.8199,31.8338,1441,Topsoil
+icr075371,Zimbabwe,Chiqumbakwe,3,1,-17.8199,31.8338,1441,Subsoil
+icr075390,Zimbabwe,Chiqumbakwe,4,2,-17.7845,31.8373,1447,Topsoil
+icr075391,Zimbabwe,Chiqumbakwe,4,2,-17.7845,31.8373,1447,Subsoil
+icr075410,Zimbabwe,Chiqumbakwe,5,1,-17.852,31.8612,1423,Topsoil
+icr075411,Zimbabwe,Chiqumbakwe,5,1,-17.852,31.8612,1423,Subsoil
+icr075430,Zimbabwe,Chiqumbakwe,6,1,-17.8328,31.8576,1447,Topsoil
+icr075431,Zimbabwe,Chiqumbakwe,6,1,-17.8328,31.8576,1447,Subsoil
+icr075450,Zimbabwe,Chiqumbakwe,7,2,-17.8176,31.8616,1448,Topsoil
+icr075451,Zimbabwe,Chiqumbakwe,7,2,-17.8176,31.8616,1448,Subsoil
+icr075469,Zimbabwe,Chiqumbakwe,8,1,-17.7908,31.8557,1416,Topsoil
+icr075470,Zimbabwe,Chiqumbakwe,8,1,-17.7908,31.8557,1416,Subsoil
+icr075490,Zimbabwe,Chiqumbakwe,9,2,-17.8564,31.8759,1455,Topsoil
+icr075491,Zimbabwe,Chiqumbakwe,9,2,-17.8564,31.8759,1455,Subsoil
+icr075508,Zimbabwe,Chiqumbakwe,10,1,-17.8301,31.8726,1415,Topsoil
+icr075509,Zimbabwe,Chiqumbakwe,10,1,-17.8301,31.8726,1415,Subsoil
+icr075528,Zimbabwe,Chiqumbakwe,11,1,-17.8183,31.8831,1398,Topsoil
+icr075529,Zimbabwe,Chiqumbakwe,11,1,-17.8183,31.8831,1398,Subsoil
+icr075548,Zimbabwe,Chiqumbakwe,12,1,-17.7929,31.8807,1409,Topsoil
+icr075549,Zimbabwe,Chiqumbakwe,12,1,-17.7929,31.8807,1409,Subsoil
+icr075567,Zimbabwe,Chiqumbakwe,13,1,-17.8659,31.8962,1460,Topsoil
+icr075568,Zimbabwe,Chiqumbakwe,13,1,-17.8659,31.8962,1460,Subsoil
+icr075587,Zimbabwe,Chiqumbakwe,14,1,-17.8355,31.9065,960,Topsoil
+icr075588,Zimbabwe,Chiqumbakwe,14,1,-17.8355,31.9065,960,Subsoil
+icr075607,Zimbabwe,Chiqumbakwe,15,1,-17.8097,31.9012,1395,Topsoil
+icr075608,Zimbabwe,Chiqumbakwe,15,1,-17.8097,31.9012,1395,Subsoil
+icr075626,Zimbabwe,Chiqumbakwe,16,1,-17.7865,31.9016,1375,Topsoil
+icr075627,Zimbabwe,Chiqumbakwe,16,1,-17.7865,31.9016,1375,Subsoil
+icr075676,Zambia,Musungwa,1,1,-15.897394,26.093142,990,Topsoil
+icr075677,Zambia,Musungwa,1,1,-15.897394,26.093142,990,Subsoil
+icr075696,Zambia,Musungwa,2,1,-15.867407,26.098539,992,Topsoil
+icr075697,Zambia,Musungwa,2,1,-15.867407,26.098539,992,Subsoil
+icr075716,Zambia,Musungwa,3,1,-15.85138333,26.095875,991,Topsoil
+icr075717,Zambia,Musungwa,3,1,-15.85138333,26.095875,991,Subsoil
+icr075736,Zambia,Musungwa,4,2,-15.827109,26.095398,991,Topsoil
+icr075737,Zambia,Musungwa,4,2,-15.827109,26.095398,991,Subsoil
+icr075756,Zambia,Musungwa,5,1,-15.896971,26.115347,992,Topsoil
+icr075757,Zambia,Musungwa,5,1,-15.896971,26.115347,992,Subsoil
+icr075776,Zambia,Musungwa,6,1,-15.87001333,26.118435,994,Topsoil
+icr075777,Zambia,Musungwa,6,1,-15.87001333,26.118435,994,Subsoil
+icr075796,Zambia,Musungwa,7,1,-15.857948,26.111965,987,Topsoil
+icr075797,Zambia,Musungwa,7,1,-15.857948,26.111965,987,Subsoil
+icr075816,Zambia,Musungwa,8,1,-15.830405,26.121272,990,Topsoil
+icr075817,Zambia,Musungwa,8,1,-15.830405,26.121272,990,Subsoil
+icr075836,Zambia,Musungwa,9,1,-15.896332,26.142028,996,Topsoil
+icr075837,Zambia,Musungwa,9,1,-15.896332,26.142028,996,Subsoil
+icr075856,Zambia,Musungwa,10,1,-15.87658167,26.13388333,985,Topsoil
+icr075857,Zambia,Musungwa,10,1,-15.87658167,26.13388333,985,Subsoil
+icr075876,Zambia,Musungwa,11,1,-15.84979333,26.140195,994,Topsoil
+icr075877,Zambia,Musungwa,11,1,-15.84979333,26.140195,994,Subsoil
+icr075896,Zambia,Musungwa,12,1,-15.83095833,26.13990833,989,Topsoil
+icr075897,Zambia,Musungwa,12,1,-15.83095833,26.13990833,989,Subsoil
+icr075916,Zambia,Musungwa,13,1,-15.89698167,26.166365,983,Topsoil
+icr075917,Zambia,Musungwa,13,1,-15.89698167,26.166365,983,Subsoil
+icr075936,Zambia,Musungwa,14,1,-15.871185,26.163502,992,Topsoil
+icr075937,Zambia,Musungwa,14,1,-15.871185,26.163502,992,Subsoil
+icr075957,Zambia,Musungwa,15,1,-15.845438,26.164093,989,Subsoil
+icr075976,Zambia,Musungwa,16,1,-15.819795,26.16895,996,Topsoil
+icr075977,Zambia,Musungwa,16,1,-15.819795,26.16895,996,Subsoil
+icr076347,Madagascar,Analavory,1,2,-19.021194,46.636952,1028.900024,Topsoil
+icr076348,Madagascar,Analavory,1,2,-19.021194,46.636952,1028.900024,Subsoil
+icr076364,Madagascar,Analavory,2,1,-19.006766,46.629129,1049.599976,Topsoil
+icr076365,Madagascar,Analavory,2,1,-19.006766,46.629129,1049.599976,Subsoil
+icr076384,Madagascar,Analavory,3,1,-18.973476,46.63606,1152.900024,Topsoil
+icr076385,Madagascar,Analavory,3,1,-18.973476,46.63606,1152.900024,Subsoil
+icr076404,Madagascar,Analavory,4,1,-18.953178,46.6373,989.0999756,Topsoil
+icr076405,Madagascar,Analavory,4,1,-18.953178,46.6373,989.0999756,Subsoil
+icr076424,Madagascar,Analavory,5,1,-19.024152,46.659441,1132.800049,Topsoil
+icr076425,Madagascar,Analavory,5,1,-19.024152,46.659441,1132.800049,Subsoil
+icr076444,Madagascar,Analavory,6,1,-19.005444,46.657214,1145.5,Topsoil
+icr076445,Madagascar,Analavory,6,1,-19.005444,46.657214,1145.5,Subsoil
+icr076464,Madagascar,Analavory,7,1,-18.977533,46.659112,1130.800049,Topsoil
+icr076465,Madagascar,Analavory,7,1,-18.977533,46.659112,1130.800049,Subsoil
+icr076484,Madagascar,Analavory,8,1,-18.958817,46.658112,1050.199951,Topsoil
+icr076485,Madagascar,Analavory,8,1,-18.958817,46.658112,1050.199951,Subsoil
+icr076502,Madagascar,Analavory,9,1,-19.018352,46.675688,1157.699951,Topsoil
+icr076503,Madagascar,Analavory,9,1,-19.018352,46.675688,1157.699951,Subsoil
+icr076522,Madagascar,Analavory,10,1,-19.002544,46.677495,1170.900024,Topsoil
+icr076523,Madagascar,Analavory,10,1,-19.002544,46.677495,1170.900024,Subsoil
+icr076541,Madagascar,Analavory,11,1,-18.980003,46.681078,1215.599976,Topsoil
+icr076542,Madagascar,Analavory,11,1,-18.980003,46.681078,1215.599976,Subsoil
+icr076561,Madagascar,Analavory,12,1,-18.953984,46.68258,1094.300049,Topsoil
+icr076562,Madagascar,Analavory,12,1,-18.953984,46.68258,1094.300049,Subsoil
+icr076581,Madagascar,Analavory,13,1,-19.025504,46.706172,1252.900024,Topsoil
+icr076582,Madagascar,Analavory,13,1,-19.025504,46.706172,1252.900024,Subsoil
+icr076601,Madagascar,Analavory,14,1,-19.007042,46.697128,1336.199951,Topsoil
+icr076602,Madagascar,Analavory,14,1,-19.007042,46.697128,1336.199951,Subsoil
+icr076621,Madagascar,Analavory,15,1,-18.978952,46.703312,1247.800049,Topsoil
+icr076622,Madagascar,Analavory,15,1,-18.978952,46.703312,1247.800049,Subsoil
+icr076640,Madagascar,Analavory,16,1,-18.951871,46.706503,1284.5,Topsoil
+icr076641,Madagascar,Analavory,16,1,-18.951871,46.706503,1284.5,Subsoil
