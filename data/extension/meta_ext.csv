@@ -1,573 +1,573 @@
-point_id,site_name,country_name,country_code,lat,long,alt,sample_id,depth,slope_position,topographic_position,material
-cod_wal1_p1,Ikoma,Democratic Republic of Congo,cod,-2.58479,28.71757,1701,cod_wal1_p1_50-60,50-60,NA,valley,soil
-cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,cod_wal1_p2_20-30,20-30,NA,valley,soil
-cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,cod_wal1_p2_30-40,30-40,NA,valley,soil
-cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,cod_wal1_p2_60-70,60-70,NA,valley,soil
-cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,cod_wal1_p2_90-94,90-94,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_0-10,0-10,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_10-20,10-20,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_20-30,20-30,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_30-40,30-40,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_40-50,40-50,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_50-60,50-60,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_70-80,70-80,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_80-82,80-82,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_0-10,0-10,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_10-20,10-20,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_20-30,20-30,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_30-40,30-40,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_40-50,40-50,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_50-60,50-60,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_60-70,60-70,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_70-80,70-80,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_80-90,80-90,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_90-94,90-94,NA,valley,soil
-cod_wal2_p2,Ikoma,Democratic Republic of Congo,cod,-2.58588,28.71346,1705,cod_wal2_p2_20-30,20-30,NA,valley,soil
-cod_wal2_p3,Ikoma,Democratic Republic of Congo,cod,-2.58587,28.7134,1706,cod_wal2_p3_0-10,0-10,NA,valley,soil
-cod_wal2_p3,Ikoma,Democratic Republic of Congo,cod,-2.58587,28.7134,1706,cod_wal2_p3_50-60,50-60,NA,valley,soil
-cod_wal2_p3,Ikoma,Democratic Republic of Congo,cod,-2.58587,28.7134,1706,cod_wal2_p3_70-80,70-80,NA,valley,soil
-cod_wal2_p4,Ikoma,Democratic Republic of Congo,cod,-2.58588,28.71331,1705,cod_wal2_p4_40-50,40-50,NA,valley,soil
-cod_wal2_p5,Ikoma,Democratic Republic of Congo,cod,-2.58595,28.71328,1703,cod_wal2_p5_50-60,50-60,NA,valley,soil
-cod_wal2_p5,Ikoma,Democratic Republic of Congo,cod,-2.58595,28.71328,1703,cod_wal2_p5_80-90,80-90,NA,valley,soil
-cod_wal3_p1,Ikoma,Democratic Republic of Congo,cod,-2.57585,28.71911,1753,cod_wal3_p1_50-60,50-60,NA,valley,soil
-cod_wal3_p2,Ikoma,Democratic Republic of Congo,cod,-2.57611,28.71969,1745,cod_wal3_p2_0-10,0-10,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_0-10,0-10,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_10-20,10-20,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_20-30,20-30,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_30-40,30-40,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_40-50,40-50,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_50-60,50-60,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_60-70,60-70,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_70-80,70-80,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_80-90,80-90,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_90-99,90-99.5,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_0-10,0-10,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_10-20,10-20,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_20-30,20-30,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_30-40,30-40,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_40-50,40-50,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_50-60,50-60,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_60-70,60-70,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_70-80,70-80,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_80-90,80-90,NA,valley,soil
-cod_wal3_p6,Ikoma,Democratic Republic of Congo,cod,-2.57644,28.7202,1744,cod_wal3_p6_40-50,40-50,NA,valley,soil
-cod_wal3_p6,Ikoma,Democratic Republic of Congo,cod,-2.57644,28.7202,1744,cod_wal3_p6_50-60,50-60,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_0-10,0-10,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_10-20,10-20,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_20-23,20-23,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_23-40,23-40,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_40-50,40-50,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_50-60,50-60,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_60-70,60-70,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_70-80,70-80,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_80-90,80-90,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_90-100,90-100,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_0-10,0-10,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_10-20,10-20,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_20-30,20-30,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_30-40,30-40,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_40-50,40-50,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_50-60,50-60,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_60-70,60-70,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_70-80,70-80,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_80-87,80-87,NA,valley,soil
-cod_kal1_p4,Kalambo,Democratic Republic of Congo,cod,-2.40046,28.84293,1468,cod_kal1_p4_0-10,0-10,NA,valley,soil
-cod_kal1_p5,Kalambo,Democratic Republic of Congo,cod,-2.40069,28.84302,1471,cod_kal1_p5_10-20,10-20,NA,valley,soil
-cod_kal1_p5,Kalambo,Democratic Republic of Congo,cod,-2.40069,28.84302,1471,cod_kal1_p5_60-70,60-70,NA,valley,soil
-cod_kal1_p6,Kalambo,Democratic Republic of Congo,cod,-2.40089,28.84318,1471,cod_kal1_p6_60-70,60-70,NA,valley,soil
-cod_kal1_p6,Kalambo,Democratic Republic of Congo,cod,-2.40089,28.84318,1471,cod_kal1_p6_80-87,80-87,NA,valley,soil
-cod_kal1_p7,Kalambo,Democratic Republic of Congo,cod,-2.40097,28.84339,1460,cod_kal1_p7_50-60,50-60,NA,valley,soil
-cod_mud1_p1,Lukananda,Democratic Republic of Congo,cod,-2.34689,28.76169,1863,cod_mud1_p1_80-86,80-86,NA,valley,soil
-cod_mud1_p2,Lukananda,Democratic Republic of Congo,cod,-2.34703,28.76169,1861,cod_mud1_p2_0-10,0-10,NA,valley,soil
-cod_tchi1_p1,Tchibinda,Democratic Republic of Congo,cod,-2.32067,28.75897,2080,cod_tchi1_p1_30-40,30-40,NA,valley,soil
-cod_tchi1_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32079,28.75951,2083,cod_tchi1_p2_10-20,10-20,NA,valley,soil
-cod_tchi1_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32079,28.75951,2083,cod_tchi1_p2_90-103,90-103,NA,valley,soil
-cod_tchi1_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3208,28.75957,2080,cod_tchi1_p3_100-107,100-107,NA,valley,soil
-cod_tchi1_p4,Tchibinda,Democratic Republic of Congo,cod,-2.32077,28.75977,2075,cod_tchi1_p4_60-70,60-70,NA,valley,soil
-cod_tchi1_p6,Tchibinda,Democratic Republic of Congo,cod,-2.32101,28.76044,2062,cod_tchi1_p6_10-20,10-20,NA,valley,soil
-cod_tchi1_p6,Tchibinda,Democratic Republic of Congo,cod,-2.32101,28.76044,2062,cod_tchi1_p6_30-40,30-40,NA,valley,soil
-cod_tchi1_p7,Tchibinda,Democratic Republic of Congo,cod,-2.32104,28.76081,2066,cod_tchi1_p7_10-20,10-20,NA,valley,soil
-cod_tchi2_p1,Tchibinda,Democratic Republic of Congo,cod,-2.32487,28.75882,2057,cod_tchi2_p1_50-60,50-60,NA,valley,soil
-cod_tchi2_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32481,28.75889,2057,cod_tchi2_p2_0-10,0-10,NA,valley,soil
-cod_tchi2_p3,Tchibinda,Democratic Republic of Congo,cod,-2.32473,28.75897,2054,cod_tchi2_p3_0-10,0-10,NA,valley,soil
-cod_tchi3_p1,Tchibinda,Democratic Republic of Congo,cod,-2.31756,28.7636,2011,cod_tchi3_p1_40-50,40-50,NA,valley,soil
-cod_tchi3_p2,Tchibinda,Democratic Republic of Congo,cod,-2.31728,28.76383,2009,cod_tchi3_p2_20-30,20-30,NA,valley,soil
-cod_tchi3_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3172,28.76398,2013,cod_tchi3_p3_30-40,30-40,NA,valley,soil
-cod_tchi3_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3172,28.76398,2013,cod_tchi3_p3_60-70,60-70,NA,valley,soil
-cod_tchi3_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3172,28.76398,2013,cod_tchi3_p3_90-98,90-98,NA,valley,soil
-uga_mita1_p1,Mitandi cell,Uganda,uga,0.59542,30.15147,1750,uga_mita1_p1_20-30,20-30,NA,valley,soil
-uga_mita1_p1,Mitandi cell,Uganda,uga,0.59542,30.15147,1750,uga_mita1_p1_80-92,80-92,NA,valley,soil
-uga_mita1_p2,Mitandi cell,Uganda,uga,0.59558,30.15164,1750,uga_mita1_p2_10-20,10-20,NA,valley,soil
-uga_mita1_p2,Mitandi cell,Uganda,uga,0.59558,30.15164,1750,uga_mita1_p2_80-90,80-90,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_0-10,0-10,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_10-20,10-20,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_20-30,20-30,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_30-40,30-40,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_40-50,40-50,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_50-60,50-60,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_60-70,60-70,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_70-80,70-80,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_80-90,80-90,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_90-99,90-99,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_0-10,0-10,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_10-20,10-20,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_20-30,20-30,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_30-40,30-40,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_40-50,40-50,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_50-60,50-60,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_60-70,60-70,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_70-80,70-80,NA,valley,soil
-uga_isu1_p1,Isule cell,Uganda,uga,0.60022,30.15868,1656,uga_isu1_p1_60-70,60-70,NA,valley,soil
-uga_isu1_p2,Isule cell,Uganda,uga,0.60033,30.15886,1659,uga_isu1_p2_10-20,10-20,NA,valley,soil
-uga_buja1_p1,Bujabara cell,Uganda,uga,0.55423,30.15071,1590,uga_buja1_p1_0-10,0-10,NA,valley,soil
-uga_buja1_p1,Bujabara cell,Uganda,uga,0.55423,30.15071,1590,uga_buja1_p1_50-60,50-60,NA,valley,soil
-uga_buja1_p3,Bujabara cell,Uganda,uga,0.55481,30.15099,1594,uga_buja1_p3_90-100,90-100,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_0-10,0-10,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_10-20,10-20,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_20-30,20-30,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_30-40,30-40,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_40-50,40-50,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_50-60,50-60,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_60-70,60-70,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_70-80,70-80,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_80-90,80-90,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_90-100,90-100,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_100-108,100-108,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_0-10,0-10,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_10-20,10-20,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_20-30,20-30,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_30-40,30-40,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_40-50,40-50,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_50-60,50-60,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_60-70,60-70,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_70-80,70-80,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_80-92,80-92,NA,valley,soil
-uga_saak2_p2,Saaka,Uganda,uga,0.68864,30.25293,1561,uga_saak2_p2_40-50,40-50,NA,valley,soil
-uga_saak2_p3,Saaka,Uganda,uga,0.68843,30.25323,1561,uga_saak2_p3_40-50,40-50,NA,valley,soil
-uga_saak3_p1,Saaka,Uganda,uga,0.69149,30.24789,1576,uga_saak3_p1_40-50,40-50,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_0-10,0-10,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_10-20,10-20,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_20-30,20-30,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_30-40,30-40,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_40-50,40-50,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_50-60,50-60,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_60-70,60-70,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_70-80,70-80,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_80-90,80-90,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_90-94,90-94,NA,valley,soil
-uga_saak3_p3,Saaka,Uganda,uga,0.69162,30.24785,1566,uga_saak3_p3_20-30,20-30,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_0-10,0-10,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_10-20,10-20,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_20-30,20-30,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_30-40,30-40,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_40-50,40-50,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_50-60,50-60,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_60-70,60-70,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_70-80,70-80,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_80-90,80-90,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_90-100,90-100,NA,valley,soil
-uga_kyan1_p2,Kyanyawara,Uganda,uga,0.56703,30.3341,1465,uga_kyan1_p2_100-109,100-109,NA,valley,soil
-uga_kyan1_p3,Kyanyawara,Uganda,uga,0.56713,30.33401,1454,uga_kyan1_p3_30-40,30-40,NA,valley,soil
-uga_kyan1_p3,Kyanyawara,Uganda,uga,0.56713,30.33401,1454,uga_kyan1_p3_70-80,70-80,NA,valley,soil
-uga_nyan1_p1,Nyanuango,Uganda,uga,0.59569,30.64418,1335,uga_nyan1_p1_10-20,10-20,NA,valley,soil
-uga_nyan1_p1,Nyanuango,Uganda,uga,0.59569,30.64418,1335,uga_nyan1_p1_40-50,40-50,NA,valley,soil
-uga_nyan1_p1,Nyanuango,Uganda,uga,0.59569,30.64418,1335,uga_nyan1_p1_80-90,80-90,NA,valley,soil
-uga_nyan1_p1,Nyanuango,Uganda,uga,0.59569,30.64418,1335,uga_nyan1_p1_90-95,90-95,NA,valley,soil
-uga_nyan1_p2,Nyanuango,Uganda,uga,0.59556,30.64418,1343,uga_nyan1_p2_20-30,20-30,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_0-10,0-10,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_10-20,10-20,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_20-30,20-30,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_30-40,30-40,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_40-50,40-50,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_50-60,50-60,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_60-70,60-70,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_70-80,70-80,NA,valley,soil
-uga_nyan1_p3,Nyanuango,Uganda,uga,0.59546,30.64424,1343,uga_nyan1_p3_80-90,80-90,NA,valley,soil
-cod_wal1_p1,Ikoma,Democratic Republic of Congo,cod,-2.58479,28.71757,1701,cod_wal1_p1_ct1,ct1,NA,valley,soil
-cod_wal1_p1,Ikoma,Democratic Republic of Congo,cod,-2.58479,28.71757,1701,cod_wal1_p1_ct10,ct10,NA,valley,soil
-cod_wal1_p2,Ikoma,Democratic Republic of Congo,cod,-2.58484,28.71759,1688,cod_wal1_p2_ct4,ct4,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_ct1,ct1,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_ct2,ct2,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_ct3,ct3,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_ct4,ct4,NA,valley,soil
-cod_wal1_p3,Ikoma,Democratic Republic of Congo,cod,-2.58487,28.71761,1704,cod_wal1_p3_ct5,ct5,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct1,ct1,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct2,ct2,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct3,ct3,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct4,ct4,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct5,ct5,NA,valley,soil
-cod_wal2_p1,Ikoma,Democratic Republic of Congo,cod,-2.5859,28.71354,1721,cod_wal2_p1_ct6,ct6,NA,valley,soil
-cod_wal2_p4,Ikoma,Democratic Republic of Congo,cod,-2.58588,28.71331,1705,cod_wal2_p4_ct6,ct6,NA,valley,soil
-cod_wal2_p5,Ikoma,Democratic Republic of Congo,cod,-2.58595,28.71328,1703,cod_wal2_p5_ct9,ct9,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct1,ct1,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct2,ct2,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct3,ct3,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct4,ct4,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct5,ct5,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct6,ct6,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct7,ct7,NA,valley,soil
-cod_wal3_p3,Ikoma,Democratic Republic of Congo,cod,-2.57621,28.71977,1745,cod_wal3_p3_ct8,ct8,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct1,ct1,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct2,ct2,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct3,ct3,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct4,ct4,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct5,ct5,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct6,ct6,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct7,ct7,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct8,ct8,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct9,ct9,NA,valley,soil
-cod_wal3_p5,Ikoma,Democratic Republic of Congo,cod,-2.57558,28.71922,1756,cod_wal3_p5_ct10,ct10,NA,valley,soil
-cod_wal3_p6,Ikoma,Democratic Republic of Congo,cod,-2.57644,28.7202,1744,cod_wal3_p6_ct1,ct1,NA,valley,soil
-cod_wal3_p6,Ikoma,Democratic Republic of Congo,cod,-2.57644,28.7202,1744,cod_wal3_p6_ct6,ct6,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct1,ct1,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct2,ct2,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct3,ct3,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct4,ct4,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct5,ct5,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct6,ct6,NA,valley,soil
-cod_kal1_p2,Kalambo,Democratic Republic of Congo,cod,-2.40019,28.84275,1473,cod_kal1_p2_ct7,ct7,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct1,ct1,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct2,ct2,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct3,ct3,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct4,ct4,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct5,ct5,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct6,ct6,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct7,ct7,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct8,ct8,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct9,ct9,NA,valley,soil
-cod_kal1_p3,Kalambo,Democratic Republic of Congo,cod,-2.40042,28.84286,1450,cod_kal1_p3_ct10,ct10,NA,valley,soil
-cod_kal1_p5,Kalambo,Democratic Republic of Congo,cod,-2.40069,28.84302,1471,cod_kal1_p5_ct2,ct2,NA,valley,soil
-cod_kal1_p5,Kalambo,Democratic Republic of Congo,cod,-2.40069,28.84302,1471,cod_kal1_p5_ct7,ct7,NA,valley,soil
-cod_tchi1_p2,Tchibinda,Democratic Republic of Congo,cod,-2.32079,28.75951,2083,cod_tchi1_p2_ct9,ct9,NA,valley,soil
-cod_tchi1_p4,Tchibinda,Democratic Republic of Congo,cod,-2.32077,28.75977,2075,cod_tchi1_p4_ct3,ct3,NA,valley,soil
-cod_tchi1_p5,Tchibinda,Democratic Republic of Congo,cod,-2.3209,28.76007,2074,cod_tchi1_p5_ct4,ct4,NA,valley,soil
-cod_tchi1_p7,Tchibinda,Democratic Republic of Congo,cod,-2.32104,28.76081,2066,cod_tchi1_p7_ct2,ct2,NA,valley,soil
-cod_tchi3_p2,Tchibinda,Democratic Republic of Congo,cod,-2.31728,28.76383,2009,cod_tchi3_p2_ct4,ct4,NA,valley,soil
-cod_tchi3_p3,Tchibinda,Democratic Republic of Congo,cod,-2.3172,28.76398,2013,cod_tchi3_p3_ct7,ct7,NA,valley,soil
-uga_mita1_p1,Mitandi cell,Uganda,uga,0.59542,30.15147,1750,uga_mita1_p1_ct4,ct4,NA,valley,soil
-uga_mita1_p1,Mitandi cell,Uganda,uga,0.59542,30.15147,1750,uga_mita1_p1_ct9,ct9,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct1,ct1,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct2,ct2,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct3,ct3,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct4,ct4,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct5,ct5,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct6,ct6,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct7,ct7,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct8,ct8,NA,valley,soil
-uga_mita1_p3,Mitandi cell,Uganda,uga,0.59553,30.15178,1751,uga_mita1_p3_ct9,ct9,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct1,ct1,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct2,ct2,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct3,ct3,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct4,ct4,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct5,ct5,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct6,ct6,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct7,ct7,NA,valley,soil
-uga_saak1_p2,Saaka,Uganda,uga,0.69349,30.24861,1558,uga_saak1_p2_ct8,ct8,NA,valley,soil
-uga_isu1_p1,Isule cell,Uganda,uga,0.60022,30.15868,1656,uga_isu1_p1_ct3,ct3,NA,valley,soil
-uga_isu1_p1,Isule cell,Uganda,uga,0.60022,30.15868,1656,uga_isu1_p1_ct8,ct8,NA,valley,soil
-uga_isu1_p2,Isule cell,Uganda,uga,0.60033,30.15886,1659,uga_isu1_p2_ct9,ct9,NA,valley,soil
-uga_buja1_p1,Bujabara cell,Uganda,uga,0.55423,30.15071,1590,uga_buja1_p1_ct2,ct2,NA,valley,soil
-uga_buja1_p1,Bujabara cell,Uganda,uga,0.55423,30.15071,1590,uga_buja1_p1_ct10,ct10,NA,valley,soil
-uga_buja1_p2,Bujabara cell,Uganda,uga,0.55464,30.15099,1596,uga_buja1_p2_ct9,ct9,NA,valley,soil
-uga_buja1_p2,Bujabara cell,Uganda,uga,0.55464,30.15099,1596,uga_buja1_p2_ct10,ct10,NA,valley,soil
-uga_buja1_p3,Bujabara cell,Uganda,uga,0.55481,30.15099,1594,uga_buja1_p3_ct5,ct5,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct1,ct1,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct2,ct2,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct3,ct3,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct4,ct4,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct5,ct5,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct6,ct6,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct7,ct7,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct8,ct8,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct9,ct9,NA,valley,soil
-uga_buja1_p4,Bujabara cell,Uganda,uga,0.55504,30.15105,1598,uga_buja1_p4_ct10,ct10,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct1,ct1,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct2,ct2,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct3,ct3,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct4,ct4,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct5,ct5,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct6,ct6,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct7,ct7,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct8,ct8,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct9,ct9,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct10,ct10,NA,valley,soil
-uga_saak2_p1,Saaka,Uganda,uga,0.68862,30.25296,1545,uga_saak2_p1_ct11,ct11,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct1,ct1,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct2,ct2,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct3,ct3,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct4,ct4,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct5,ct5,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct6,ct6,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct7,ct7,NA,valley,soil
-uga_saak3_p2,Saaka,Uganda,uga,0.69157,30.24789,1564,uga_saak3_p2_ct8,ct8,NA,valley,soil
-uga_saak3_p3,Saaka,Uganda,uga,0.69162,30.24785,1566,uga_saak3_p3_ct4,ct4,NA,valley,soil
-21_uga_ntu_p1,Ntuntu,Uganda,uga,0.835972,30.51175,1274,21_uga_ntu_p1_20-30,20-30,NA,valley,soil
-21_uga_ntu_p1,Ntuntu,Uganda,uga,0.835972,30.51175,1274,21_uga_ntu_p1_110-120,110-120,NA,valley,soil
-21_uga_ntu_SL,Ntuntu,Uganda,uga,0.83641,30.51143,1274,21_uga_ntu_SL_10-20,10-20,Mid-slope,slope,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_0-10,0-10,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_10-20,10-20,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_20-30,20-30,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_30-40,30-40,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_40-50,40-50,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_50-60,50-60,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_60-70,60-70,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_70-80,70-80,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_80-90,80-90,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_90-100,90-100,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_100-110,100-110,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_110-120,110-120,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_120-130,120-130,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_130-140,130-140,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_140-150,140-150,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_150-160,150-160,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_160-170,160-170,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_170-180,170-180,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_180-190,180-190,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_190-200,190-200,NA,valley,soil
-21_uga_nyan_p1,Nyantunga A,Uganda,uga,0.595694,30.644111,1343,21_uga_nyan_p1_200-207,200-207,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_0-10,0-10,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_10-20,10-20,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_20-30,20-30,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_30-40,30-40,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_40-50,40-50,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_50-60,50-60,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_60-70,60-70,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_70-80,70-80,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_80-90,80-90,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_90-100,90-100,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_100-110,100-110,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_110-120,110-120,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_120-130,120-130,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_130-140,130-140,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_140-150,140-150,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_150-160,150-160,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_160-170,160-170,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_170-180,170-180,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_180-190,180-190,NA,valley,soil
-21_uga_kaj_p1,Kajuma-Itara,Uganda,uga,0.836917,30.500833,1265,21_uga_kaj_p1_190-200,190-200,NA,valley,soil
-21_uga_mita_p1,Mitandi cell,Uganda,uga,0.5955,30.151778,1757,21_uga_mita_p1_0-10,0-10,NA,valley,soil
-21_uga_mita_p1,Mitandi cell,Uganda,uga,0.5955,30.151778,1757,21_uga_mita_p1_110-120,110-120,NA,valley,soil
-21_uga_mita_p1,Mitandi cell,Uganda,uga,0.5955,30.151778,1757,21_uga_mita_p1_120-130,120-130,NA,valley,soil
-21_uga_mita_p1,Mitandi cell,Uganda,uga,0.5955,30.151778,1757,21_uga_mita_p1_190-200,190-200,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_0-10,0-10,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_10-20,10-20,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_20-30,20-30,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_30-40,30-40,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_40-50,40-50,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_50-60,50-60,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_60-70,60-70,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_70-80,70-80,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_80-90,80-90,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_90-100,90-100,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_100-114,100-114,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_114-120,114-120,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_120-130,120-130,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_130-140,130-140,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_140-150,140-150,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_150-160,150-160,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_160-170,160-170,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_170-180,170-180,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_180-190,180-190,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_190-200,190-200,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_200-210,200-210,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_210-220,210-220,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_220-230,220-230,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_230-240,230-240,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_240-250,240-250,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_250-260,250-260,NA,valley,soil
-21_uga_rus_p1,Ruseke,Uganda,uga,0.53718,30.14144,1621,21_uga_rus_p1_260-265,260-265,NA,valley,soil
-21_uga_kik_p1,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,21_uga_kik_p1_10-20,10-20,NA,valley,soil
-21_uga_kik_p1,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,21_uga_kik_p1_50-60,50-60,NA,valley,soil
-21_uga_kik_p1,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,21_uga_kik_p1_100-110,100-110,NA,valley,soil
-21_uga_kik_p2,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,21_uga_kik_p2_40-50,40-50,NA,valley,soil
-21_uga_kik_p2,Kikonzo Cell,Uganda,uga,0.55461,30.13971,1685,21_uga_kik_p2_150-160,150-160,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_0-10,0-10,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_10-20,10-20,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_20-30,20-30,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_30-40,30-40,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_40-50,40-50,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_50-60,50-60,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_60-70,60-70,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_70-80,70-80,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_80-90,80-90,NA,valley,soil
-21_uga_muk_p1,Mukonomura,Uganda,uga,0.55901,30.80445,1249,21_uga_muk_p1_90-100,90-100,NA,valley,soil
-21_uga_muk_SL,Mukonomura,Uganda,uga,0.55847,30.80452,1265,21_uga_muk_SL_0-10,0-10,Mid-slope,slope,soil
-21_uga_muk_p2,Mukonomura,Uganda,uga,0.55887,30.8044,1252,21_uga_muk_p2_20-30,20-30,NA,valley,soil
-21_uga_muk_p2,Mukonomura,Uganda,uga,0.55887,30.8044,1252,21_uga_muk_p2_70-80,70-80,NA,valley,soil
-21_uga_muk_p2,Mukonomura,Uganda,uga,0.55887,30.8044,1252,21_uga_muk_p2_100-110,100-110,NA,valley,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_0-10,0-10,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_10-20,10-20,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_20-30,20-30,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_30-40,30-40,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_40-50,40-50,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_50-60,50-60,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_60-70,60-70,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_70-80,70-80,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_80-90,80-90,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_90-100,90-100,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_100-110,100-110,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_110-120,110-120,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_120-130,120-130,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_130-140,130-140,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_140-150,140-150,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_150-160,150-160,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_160-170,160-170,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_170-180,170-180,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_180-190,180-190,NA,plateau,soil
-21_uga_muk2_PLAT,Mukonomura,Uganda,uga,0.55695,30.80449,1283,21_uga_muk2_PLAT_190-197,190-197,NA,plateau,soil
-21_uga_muk2_p2,Mukonomura,Uganda,uga,0.55551,30.80419,1245,21_uga_muk2_p2_10-20,10-20,NA,valley,soil
-21_uga_muk2_p2,Mukonomura,Uganda,uga,0.55551,30.80419,1245,21_uga_muk2_p2_90-100,90-100,NA,valley,soil
-21_uga_muk2_p1,Mukonomura,Uganda,uga,0.55549,30.80434,1247,21_uga_muk2_p1_20-30,20-30,NA,valley,soil
-21_uga_muk2_SL,Mukonomura,Uganda,uga,0.55575,30.80429,1253,21_uga_muk2_SL_10-20,10-20,Mid-slope,slope,soil
-21_uga_muk2_SL,Mukonomura,Uganda,uga,0.55575,30.80429,1253,21_uga_muk2_SL_20-30,20-30,Mid-slope,slope,soil
-21_uga_bug_SL,Bugaya,Uganda,uga,0.54993,30.14695,1632,21_uga_bug_SL_10-20,10-20,upper slope,slope,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile01,0-10,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile02,10-55,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile03,55-95,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile04,95-140,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile05,140-192,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile06,192-230,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile07,230-274,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile08,274-329,NA,profile,soil
-21_uga_kai_profile,Kaisenda Cell,Uganda,uga,0.55928,30.13234,1708,21_uga_kais_profile09,329-400,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile01,0-5,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile02,5-40,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile03,40-145,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile04,145-210,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile05,210-280,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile06,280-315,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile07,315-390,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile08,390-472,NA,profile,soil
-21_uga_mati_profile,Matiri,Uganda,uga,0.55739,30.83124,1204,21_uga_mati_profile09,472-572,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile01,0-20,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile02,20-60,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile03,60-90,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile04,90-110,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile05,110-150,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile06,150-200,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile07,200-240,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile08,240-270,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile09,270-300,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile10,300-330,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile11,330-360,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile12,360-390,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile13,390-420,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile14,420-450,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile15,450-480,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile16,480-520,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile17,520-530,NA,profile,rock
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile18,530-560,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile19,560-590,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile20,590-620,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile21,620-650,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile22,650-680,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile23,680-710,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile24,710-740,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile25,740-770,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile26,770-800,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile27,800-830,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile28,830-860,NA,profile,soil
-21_cod_ikul_profileA,Ikulubi,Democratic Republic of Congo,cod,-2.614775,28.70496,1705,21_cod_ikul_profile29,860-890,NA,profile,soil
-21_cod_ikul_profileB,Ikulubi,Democratic Republic of Congo,cod,-2.614913,28.704795,1705,21_cod_ikul_profile01B,0-30,NA,profile,soil
-21_COD_KAL_SL1,Kalambo,Democratic Republic of Congo,cod,-2.39301,28.84111,1526,21CODKALSL1_010,0-10,Upper slope,slope,soil
-21_COD_KAL_SL1,Kalambo,Democratic Republic of Congo,cod,-2.39301,28.84111,1526,21CODKALSL1_1020,10-20,Upper slope,slope,soil
-21_COD_KAL_SL1,Kalambo,Democratic Republic of Congo,cod,-2.39301,28.84111,1526,21CODKALSL1_2030,20-30,Upper slope,slope,soil
-22_COD_KASH_SL1,KASHUNGURI 4,Democratic Republic of Congo,cod,-2.40174,28.84243,1501,22CODKASHSL1_010,0-10,Mid slope,slope,soil
-22_COD_KASH_SL1,KASHUNGURI 4,Democratic Republic of Congo,cod,-2.40174,28.84243,1501,22CODKASHSL1_1020,10-20,Mid slope,slope,soil
-22_COD_KASH_SL1,KASHUNGURI 4,Democratic Republic of Congo,cod,-2.40174,28.84243,1501,22CODKASHSL1_2030,20-30,Mid slope,slope,soil
-22_COD_KONG_SL2,KONGE,Democratic Republic of Congo,cod,-2.38667,28.78736,1656,22CODKONGSL2_010,0-10,Upper slope,slope,soil
-22_COD_KONG_SL2,KONGE,Democratic Republic of Congo,cod,-2.38667,28.78736,1656,22CODKONGSL2_1020,10-20,Upper slope,slope,soil
-22_COD_KONG_SL2,KONGE,Democratic Republic of Congo,cod,-2.38667,28.78736,1656,22CODKONGSL2_2030,20-30,Upper slope,slope,soil
-22_COD_BUGU_SL4,BUGULI,Democratic Republic of Congo,cod,-2.55312,28.58575,1936,22CODBUGUSL4_010,0-10,Upper slope,slope,soil
-22_COD_BUGU_SL4,BUGULI,Democratic Republic of Congo,cod,-2.55312,28.58575,1936,22CODBUGUSL4_1020,10-20,Upper slope,slope,soil
-22_COD_BUGU_SL4,BUGULI,Democratic Republic of Congo,cod,-2.55312,28.58575,1936,22CODBUGUSL4_2030,20-30,Upper slope,slope,soil
-22_COD_KAHI_SL1,KAHIMBARI,Democratic Republic of Congo,cod,-2.59847,28.722,1753,22CODKAHISL1_010,0-10,Upper slope,slope,soil
-22_COD_KAHI_SL1,KAHIMBARI,Democratic Republic of Congo,cod,-2.59847,28.722,1753,22CODKAHISL1_1020,10-20,Upper slope,slope,soil
-22_COD_KAHI_SL1,KAHIMBARI,Democratic Republic of Congo,cod,-2.59847,28.722,1753,22CODKAHISL1_2030,20-30,Upper slope,slope,soil
-22_COD_NTEV_SL1,NTEVU,Democratic Republic of Congo,cod,-2.45092,28.80287,1664,22CODNTEVSL1_010,0-10,Upper slope,slope,soil
-22_COD_NTEV_SL1,NTEVU,Democratic Republic of Congo,cod,-2.45092,28.80287,1664,22CODNTEVSL1_1020,10-20,Upper slope,slope,soil
-22_COD_NTEV_SL1,NTEVU,Democratic Republic of Congo,cod,-2.45092,28.80287,1664,22CODNTEVSL1_2030,20-30,Upper slope,slope,soil
-22_COD_MWIS_SL1,MWISHENGE,Democratic Republic of Congo,cod,-2.44731,28.80394,1725,22CODMWISSL1_010,0-10,Upper slope,slope,soil
-22_COD_MWIS_SL1,MWISHENGE,Democratic Republic of Congo,cod,-2.44731,28.80394,1725,22CODMWISSL1_1020,10-20,Upper slope,slope,soil
-22_COD_MWIS_SL1,MWISHENGE,Democratic Republic of Congo,cod,-2.44731,28.80394,1725,22CODMWISSL1_2030,20-30,Upper slope,slope,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_0-10,0-10,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_10-20,10-20,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_20-30,20-30,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_30-40,30-40,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_40-50,40-50,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_50-60,50-60,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_60-70,60-70,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_70-80,70-80,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_80-90,80-90,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_90-100,90-100,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_100-110,100-110,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_110-120,110-120,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_120-130,120-130,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_130-140,130-140,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_140-150,140-150,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_150-160,150-160,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_160-170,160-170,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_170-180,170-180,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_180-190,180-190,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_190-200,190-200,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_200-210,200-210,valley,valley,soil
-22_uga_ntu_p1,Ntuntu,Uganda,uga,0.84628,30.51143,1281,22UGANTUP1_210-220,210-220,valley,valley,soil
-22_uga_ntu_sl8,Ntuntu,Uganda,uga,0.84798,30.51021,1387,22UGANTUSL8_0-10,0-10,upper slope,slope,soil
-22_uga_ntu_sl8,Ntuntu,Uganda,uga,0.84798,30.51021,1387,22UGANTUSL8_10-20,10-20,upper slope,slope,soil
-22_uga_ntu_sl8,Ntuntu,Uganda,uga,0.84798,30.51021,1387,22UGANTUSL8_20-30,20-30,upper slope,slope,soil
-22_uga_ntu_sl11,Ntuntu,Uganda,uga,0.84047,30.5078,1285,22UGANTUSL11_0-10,0-10,Mid slope,slope,soil
-22_uga_ntu_sl11,Ntuntu,Uganda,uga,0.84047,30.5078,1285,22UGANTUSL11_10-20,10-20,Mid slope,slope,soil
-22_uga_ntu_sl11,Ntuntu,Uganda,uga,0.84047,30.5078,1285,22UGANTUSL11_20-30,20-30,Mid slope,slope,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_0-10,0-10,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_10-20,10-20,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_20-30,20-30,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_30-40,30-40,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_40-50,40-50,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_50-60,50-60,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_60-70,60-70,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_70-80,70-80,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_80-90,80-90,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_90-100,90-100,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_100-110,100-110,valley,valley,soil
-22_uga_kihu_p2,Kihuuna,Uganda,uga,0.57848,30.86117,1246,22UGAKIHUP2_110-120,110-120,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_0-10,0-10,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_10-20,10-20,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_20-30,20-30,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_30-40,30-40,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_40-50,40-50,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_50-60,50-60,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_60-70,60-70,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_70-80,70-80,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_80-90,80-90,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_90-100,90-100,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_100-112,100-112,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_115-120,115-120,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_120-130,120-130,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_130-140,130-140,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_140-150,140-150,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_150-160,150-160,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_160-170,160-170,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_170-180,170-180,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_180-190,180-190,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_190-205,190-205,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_205-210,205-210,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_210-220,210-220,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_220-230,220-230,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_230-240,230-240,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_240-250,240-250,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_250-260,250-260,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_260-270,260-270,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_270-280,270-280,valley,valley,soil
-22_cod_kala_p4,Kalambo,Democratic Republic of Congo,cod,-2.3911,28.84078,1445,22CODKALAP4_280-294,280-294,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_0-10,0-10,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_10-20,10-20,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_20-30,20-30,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_30-40,30-40,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_40-50,40-50,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_50-60,50-60,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_60-70,60-70,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_70-80,70-80,valley,valley,soil
-22_cod_luka_p1,Lukananda,Democratic Republic of Congo,cod,-2.34439,28.75808,1828,22CODLUKAP1_80-97,80-97,valley,valley,soil
-22_cod_kaba_SL,Kabamba,Democratic Republic of Congo,cod,-2.19943,28.84606,1557,22CODKABASL_0-10,0-10,upper slope,slope,soil
-22_cod_kaba_SL,Kabamba,Democratic Republic of Congo,cod,-2.19943,28.84606,1557,22CODKABASL_10-20,10-20,upper slope,slope,soil
-22_cod_kaba_SL,Kabamba,Democratic Republic of Congo,cod,-2.19943,28.84606,1557,22CODKABASL_20-30,20-30,upper slope,slope,soil
+sample_id,sample_location,country_name,country_code,site_name,gps_long,gps_lat,altitude,topographic_position
+cod_wal1_p1_50-60,cod_wal1_p1,Democratic Republic of Congo,cod,Ikoma,28.71757,-2.58479,1701,valley
+cod_wal1_p2_20-30,cod_wal1_p2,Democratic Republic of Congo,cod,Ikoma,28.71759,-2.58484,1688,valley
+cod_wal1_p2_30-40,cod_wal1_p2,Democratic Republic of Congo,cod,Ikoma,28.71759,-2.58484,1688,valley
+cod_wal1_p2_60-70,cod_wal1_p2,Democratic Republic of Congo,cod,Ikoma,28.71759,-2.58484,1688,valley
+cod_wal1_p2_90-94,cod_wal1_p2,Democratic Republic of Congo,cod,Ikoma,28.71759,-2.58484,1688,valley
+cod_wal1_p3_0-10,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_10-20,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_20-30,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_30-40,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_40-50,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_50-60,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_70-80,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_80-82,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal2_p1_0-10,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_10-20,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_20-30,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_30-40,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_40-50,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_50-60,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_60-70,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_70-80,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_80-90,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_90-94,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p2_20-30,cod_wal2_p2,Democratic Republic of Congo,cod,Ikoma,28.71346,-2.58588,1705,valley
+cod_wal2_p3_0-10,cod_wal2_p3,Democratic Republic of Congo,cod,Ikoma,28.7134,-2.58587,1706,valley
+cod_wal2_p3_50-60,cod_wal2_p3,Democratic Republic of Congo,cod,Ikoma,28.7134,-2.58587,1706,valley
+cod_wal2_p3_70-80,cod_wal2_p3,Democratic Republic of Congo,cod,Ikoma,28.7134,-2.58587,1706,valley
+cod_wal2_p4_40-50,cod_wal2_p4,Democratic Republic of Congo,cod,Ikoma,28.71331,-2.58588,1705,valley
+cod_wal2_p5_50-60,cod_wal2_p5,Democratic Republic of Congo,cod,Ikoma,28.71328,-2.58595,1703,valley
+cod_wal2_p5_80-90,cod_wal2_p5,Democratic Republic of Congo,cod,Ikoma,28.71328,-2.58595,1703,valley
+cod_wal3_p1_50-60,cod_wal3_p1,Democratic Republic of Congo,cod,Ikoma,28.71911,-2.57585,1753,valley
+cod_wal3_p2_0-10,cod_wal3_p2,Democratic Republic of Congo,cod,Ikoma,28.71969,-2.57611,1745,valley
+cod_wal3_p3_0-10,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_10-20,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_20-30,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_30-40,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_40-50,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_50-60,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_60-70,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_70-80,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_80-90,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_90-99,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p5_0-10,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_10-20,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_20-30,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_30-40,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_40-50,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_50-60,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_60-70,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_70-80,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_80-90,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p6_40-50,cod_wal3_p6,Democratic Republic of Congo,cod,Ikoma,28.7202,-2.57644,1744,valley
+cod_wal3_p6_50-60,cod_wal3_p6,Democratic Republic of Congo,cod,Ikoma,28.7202,-2.57644,1744,valley
+cod_kal1_p2_0-10,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_10-20,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_20-23,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_23-40,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_40-50,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_50-60,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_60-70,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_70-80,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_80-90,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_90-100,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p3_0-10,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_10-20,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_20-30,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_30-40,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_40-50,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_50-60,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_60-70,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_70-80,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_80-87,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p4_0-10,cod_kal1_p4,Democratic Republic of Congo,cod,Kalambo,28.84293,-2.40046,1468,valley
+cod_kal1_p5_10-20,cod_kal1_p5,Democratic Republic of Congo,cod,Kalambo,28.84302,-2.40069,1471,valley
+cod_kal1_p5_60-70,cod_kal1_p5,Democratic Republic of Congo,cod,Kalambo,28.84302,-2.40069,1471,valley
+cod_kal1_p6_60-70,cod_kal1_p6,Democratic Republic of Congo,cod,Kalambo,28.84318,-2.40089,1471,valley
+cod_kal1_p6_80-87,cod_kal1_p6,Democratic Republic of Congo,cod,Kalambo,28.84318,-2.40089,1471,valley
+cod_kal1_p7_50-60,cod_kal1_p7,Democratic Republic of Congo,cod,Kalambo,28.84339,-2.40097,1460,valley
+cod_mud1_p1_80-86,cod_mud1_p1,Democratic Republic of Congo,cod,Lukananda,28.76169,-2.34689,1863,valley
+cod_mud1_p2_0-10,cod_mud1_p2,Democratic Republic of Congo,cod,Lukananda,28.76169,-2.34703,1861,valley
+cod_tchi1_p1_30-40,cod_tchi1_p1,Democratic Republic of Congo,cod,Tchibinda,28.75897,-2.32067,2080,valley
+cod_tchi1_p2_10-20,cod_tchi1_p2,Democratic Republic of Congo,cod,Tchibinda,28.75951,-2.32079,2083,valley
+cod_tchi1_p2_90-103,cod_tchi1_p2,Democratic Republic of Congo,cod,Tchibinda,28.75951,-2.32079,2083,valley
+cod_tchi1_p3_100-107,cod_tchi1_p3,Democratic Republic of Congo,cod,Tchibinda,28.75957,-2.3208,2080,valley
+cod_tchi1_p4_60-70,cod_tchi1_p4,Democratic Republic of Congo,cod,Tchibinda,28.75977,-2.32077,2075,valley
+cod_tchi1_p6_10-20,cod_tchi1_p6,Democratic Republic of Congo,cod,Tchibinda,28.76044,-2.32101,2062,valley
+cod_tchi1_p6_30-40,cod_tchi1_p6,Democratic Republic of Congo,cod,Tchibinda,28.76044,-2.32101,2062,valley
+cod_tchi1_p7_10-20,cod_tchi1_p7,Democratic Republic of Congo,cod,Tchibinda,28.76081,-2.32104,2066,valley
+cod_tchi2_p1_50-60,cod_tchi2_p1,Democratic Republic of Congo,cod,Tchibinda,28.75882,-2.32487,2057,valley
+cod_tchi2_p2_0-10,cod_tchi2_p2,Democratic Republic of Congo,cod,Tchibinda,28.75889,-2.32481,2057,valley
+cod_tchi2_p3_0-10,cod_tchi2_p3,Democratic Republic of Congo,cod,Tchibinda,28.75897,-2.32473,2054,valley
+cod_tchi3_p1_40-50,cod_tchi3_p1,Democratic Republic of Congo,cod,Tchibinda,28.7636,-2.31756,2011,valley
+cod_tchi3_p2_20-30,cod_tchi3_p2,Democratic Republic of Congo,cod,Tchibinda,28.76383,-2.31728,2009,valley
+cod_tchi3_p3_30-40,cod_tchi3_p3,Democratic Republic of Congo,cod,Tchibinda,28.76398,-2.3172,2013,valley
+cod_tchi3_p3_60-70,cod_tchi3_p3,Democratic Republic of Congo,cod,Tchibinda,28.76398,-2.3172,2013,valley
+cod_tchi3_p3_90-98,cod_tchi3_p3,Democratic Republic of Congo,cod,Tchibinda,28.76398,-2.3172,2013,valley
+uga_mita1_p1_20-30,uga_mita1_p1,Uganda,uga,Mitandi cell,30.15147,0.59542,1750,valley
+uga_mita1_p1_80-92,uga_mita1_p1,Uganda,uga,Mitandi cell,30.15147,0.59542,1750,valley
+uga_mita1_p2_10-20,uga_mita1_p2,Uganda,uga,Mitandi cell,30.15164,0.59558,1750,valley
+uga_mita1_p2_80-90,uga_mita1_p2,Uganda,uga,Mitandi cell,30.15164,0.59558,1750,valley
+uga_mita1_p3_0-10,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_10-20,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_20-30,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_30-40,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_40-50,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_50-60,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_60-70,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_70-80,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_80-90,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_90-99,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_saak1_p2_0-10,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_10-20,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_20-30,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_30-40,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_40-50,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_50-60,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_60-70,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_70-80,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_isu1_p1_60-70,uga_isu1_p1,Uganda,uga,Isule cell,30.15868,0.60022,1656,valley
+uga_isu1_p2_10-20,uga_isu1_p2,Uganda,uga,Isule cell,30.15886,0.60033,1659,valley
+uga_buja1_p1_0-10,uga_buja1_p1,Uganda,uga,Bujabara cell,30.15071,0.55423,1590,valley
+uga_buja1_p1_50-60,uga_buja1_p1,Uganda,uga,Bujabara cell,30.15071,0.55423,1590,valley
+uga_buja1_p3_90-100,uga_buja1_p3,Uganda,uga,Bujabara cell,30.15099,0.55481,1594,valley
+uga_buja1_p4_0-10,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_10-20,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_20-30,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_30-40,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_40-50,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_50-60,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_60-70,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_70-80,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_80-90,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_90-100,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_100-108,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_saak2_p1_0-10,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_10-20,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_20-30,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_30-40,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_40-50,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_50-60,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_60-70,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_70-80,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_80-92,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p2_40-50,uga_saak2_p2,Uganda,uga,Saaka,30.25293,0.68864,1561,valley
+uga_saak2_p3_40-50,uga_saak2_p3,Uganda,uga,Saaka,30.25323,0.68843,1561,valley
+uga_saak3_p1_40-50,uga_saak3_p1,Uganda,uga,Saaka,30.24789,0.69149,1576,valley
+uga_saak3_p2_0-10,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_10-20,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_20-30,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_30-40,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_40-50,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_50-60,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_60-70,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_70-80,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_80-90,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_90-94,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p3_20-30,uga_saak3_p3,Uganda,uga,Saaka,30.24785,0.69162,1566,valley
+uga_kyan1_p2_0-10,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_10-20,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_20-30,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_30-40,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_40-50,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_50-60,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_60-70,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_70-80,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_80-90,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_90-100,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p2_100-109,uga_kyan1_p2,Uganda,uga,Kyanyawara,30.3341,0.56703,1465,valley
+uga_kyan1_p3_30-40,uga_kyan1_p3,Uganda,uga,Kyanyawara,30.33401,0.56713,1454,valley
+uga_kyan1_p3_70-80,uga_kyan1_p3,Uganda,uga,Kyanyawara,30.33401,0.56713,1454,valley
+uga_nyan1_p1_10-20,uga_nyan1_p1,Uganda,uga,Nyanuango,30.64418,0.59569,1335,valley
+uga_nyan1_p1_40-50,uga_nyan1_p1,Uganda,uga,Nyanuango,30.64418,0.59569,1335,valley
+uga_nyan1_p1_80-90,uga_nyan1_p1,Uganda,uga,Nyanuango,30.64418,0.59569,1335,valley
+uga_nyan1_p1_90-95,uga_nyan1_p1,Uganda,uga,Nyanuango,30.64418,0.59569,1335,valley
+uga_nyan1_p2_20-30,uga_nyan1_p2,Uganda,uga,Nyanuango,30.64418,0.59556,1343,valley
+uga_nyan1_p3_0-10,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_10-20,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_20-30,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_30-40,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_40-50,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_50-60,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_60-70,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_70-80,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+uga_nyan1_p3_80-90,uga_nyan1_p3,Uganda,uga,Nyanuango,30.64424,0.59546,1343,valley
+cod_wal1_p1_ct1,cod_wal1_p1,Democratic Republic of Congo,cod,Ikoma,28.71757,-2.58479,1701,valley
+cod_wal1_p1_ct10,cod_wal1_p1,Democratic Republic of Congo,cod,Ikoma,28.71757,-2.58479,1701,valley
+cod_wal1_p2_ct4,cod_wal1_p2,Democratic Republic of Congo,cod,Ikoma,28.71759,-2.58484,1688,valley
+cod_wal1_p3_ct1,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_ct2,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_ct3,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_ct4,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal1_p3_ct5,cod_wal1_p3,Democratic Republic of Congo,cod,Ikoma,28.71761,-2.58487,1704,valley
+cod_wal2_p1_ct1,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_ct2,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_ct3,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_ct4,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_ct5,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p1_ct6,cod_wal2_p1,Democratic Republic of Congo,cod,Ikoma,28.71354,-2.5859,1721,valley
+cod_wal2_p4_ct6,cod_wal2_p4,Democratic Republic of Congo,cod,Ikoma,28.71331,-2.58588,1705,valley
+cod_wal2_p5_ct9,cod_wal2_p5,Democratic Republic of Congo,cod,Ikoma,28.71328,-2.58595,1703,valley
+cod_wal3_p3_ct1,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct2,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct3,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct4,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct5,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct6,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct7,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p3_ct8,cod_wal3_p3,Democratic Republic of Congo,cod,Ikoma,28.71977,-2.57621,1745,valley
+cod_wal3_p5_ct1,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct2,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct3,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct4,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct5,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct6,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct7,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct8,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct9,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p5_ct10,cod_wal3_p5,Democratic Republic of Congo,cod,Ikoma,28.71922,-2.57558,1756,valley
+cod_wal3_p6_ct1,cod_wal3_p6,Democratic Republic of Congo,cod,Ikoma,28.7202,-2.57644,1744,valley
+cod_wal3_p6_ct6,cod_wal3_p6,Democratic Republic of Congo,cod,Ikoma,28.7202,-2.57644,1744,valley
+cod_kal1_p2_ct1,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct2,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct3,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct4,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct5,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct6,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p2_ct7,cod_kal1_p2,Democratic Republic of Congo,cod,Kalambo,28.84275,-2.40019,1473,valley
+cod_kal1_p3_ct1,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct2,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct3,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct4,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct5,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct6,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct7,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct8,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct9,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p3_ct10,cod_kal1_p3,Democratic Republic of Congo,cod,Kalambo,28.84286,-2.40042,1450,valley
+cod_kal1_p5_ct2,cod_kal1_p5,Democratic Republic of Congo,cod,Kalambo,28.84302,-2.40069,1471,valley
+cod_kal1_p5_ct7,cod_kal1_p5,Democratic Republic of Congo,cod,Kalambo,28.84302,-2.40069,1471,valley
+cod_tchi1_p2_ct9,cod_tchi1_p2,Democratic Republic of Congo,cod,Tchibinda,28.75951,-2.32079,2083,valley
+cod_tchi1_p4_ct3,cod_tchi1_p4,Democratic Republic of Congo,cod,Tchibinda,28.75977,-2.32077,2075,valley
+cod_tchi1_p5_ct4,cod_tchi1_p5,Democratic Republic of Congo,cod,Tchibinda,28.76007,-2.3209,2074,valley
+cod_tchi1_p7_ct2,cod_tchi1_p7,Democratic Republic of Congo,cod,Tchibinda,28.76081,-2.32104,2066,valley
+cod_tchi3_p2_ct4,cod_tchi3_p2,Democratic Republic of Congo,cod,Tchibinda,28.76383,-2.31728,2009,valley
+cod_tchi3_p3_ct7,cod_tchi3_p3,Democratic Republic of Congo,cod,Tchibinda,28.76398,-2.3172,2013,valley
+uga_mita1_p1_ct4,uga_mita1_p1,Uganda,uga,Mitandi cell,30.15147,0.59542,1750,valley
+uga_mita1_p1_ct9,uga_mita1_p1,Uganda,uga,Mitandi cell,30.15147,0.59542,1750,valley
+uga_mita1_p3_ct1,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct2,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct3,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct4,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct5,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct6,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct7,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct8,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_mita1_p3_ct9,uga_mita1_p3,Uganda,uga,Mitandi cell,30.15178,0.59553,1751,valley
+uga_saak1_p2_ct1,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct2,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct3,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct4,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct5,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct6,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct7,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_saak1_p2_ct8,uga_saak1_p2,Uganda,uga,Saaka,30.24861,0.69349,1558,valley
+uga_isu1_p1_ct3,uga_isu1_p1,Uganda,uga,Isule cell,30.15868,0.60022,1656,valley
+uga_isu1_p1_ct8,uga_isu1_p1,Uganda,uga,Isule cell,30.15868,0.60022,1656,valley
+uga_isu1_p2_ct9,uga_isu1_p2,Uganda,uga,Isule cell,30.15886,0.60033,1659,valley
+uga_buja1_p1_ct2,uga_buja1_p1,Uganda,uga,Bujabara cell,30.15071,0.55423,1590,valley
+uga_buja1_p1_ct10,uga_buja1_p1,Uganda,uga,Bujabara cell,30.15071,0.55423,1590,valley
+uga_buja1_p2_ct9,uga_buja1_p2,Uganda,uga,Bujabara cell,30.15099,0.55464,1596,valley
+uga_buja1_p2_ct10,uga_buja1_p2,Uganda,uga,Bujabara cell,30.15099,0.55464,1596,valley
+uga_buja1_p3_ct5,uga_buja1_p3,Uganda,uga,Bujabara cell,30.15099,0.55481,1594,valley
+uga_buja1_p4_ct1,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct2,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct3,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct4,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct5,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct6,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct7,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct8,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct9,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_buja1_p4_ct10,uga_buja1_p4,Uganda,uga,Bujabara cell,30.15105,0.55504,1598,valley
+uga_saak2_p1_ct1,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct2,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct3,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct4,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct5,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct6,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct7,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct8,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct9,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct10,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak2_p1_ct11,uga_saak2_p1,Uganda,uga,Saaka,30.25296,0.68862,1545,valley
+uga_saak3_p2_ct1,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct2,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct3,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct4,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct5,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct6,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct7,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p2_ct8,uga_saak3_p2,Uganda,uga,Saaka,30.24789,0.69157,1564,valley
+uga_saak3_p3_ct4,uga_saak3_p3,Uganda,uga,Saaka,30.24785,0.69162,1566,valley
+21_uga_ntu_p1_20-30,21_uga_ntu_p1,Uganda,uga,Ntuntu,30.51175,0.835972,1274,valley
+21_uga_ntu_p1_110-120,21_uga_ntu_p1,Uganda,uga,Ntuntu,30.51175,0.835972,1274,valley
+21_uga_ntu_SL_10-20,21_uga_ntu_SL,Uganda,uga,Ntuntu,30.51143,0.83641,1274,slope
+21_uga_nyan_p1_0-10,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_10-20,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_20-30,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_30-40,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_40-50,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_50-60,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_60-70,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_70-80,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_80-90,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_90-100,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_100-110,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_110-120,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_120-130,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_130-140,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_140-150,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_150-160,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_160-170,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_170-180,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_180-190,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_190-200,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_nyan_p1_200-207,21_uga_nyan_p1,Uganda,uga,Nyantunga A,30.644111,0.595694,1343,valley
+21_uga_kaj_p1_0-10,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_10-20,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_20-30,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_30-40,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_40-50,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_50-60,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_60-70,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_70-80,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_80-90,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_90-100,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_100-110,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_110-120,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_120-130,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_130-140,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_140-150,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_150-160,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_160-170,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_170-180,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_180-190,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_kaj_p1_190-200,21_uga_kaj_p1,Uganda,uga,Kajuma-Itara,30.500833,0.836917,1265,valley
+21_uga_mita_p1_0-10,21_uga_mita_p1,Uganda,uga,Mitandi cell,30.151778,0.5955,1757,valley
+21_uga_mita_p1_110-120,21_uga_mita_p1,Uganda,uga,Mitandi cell,30.151778,0.5955,1757,valley
+21_uga_mita_p1_120-130,21_uga_mita_p1,Uganda,uga,Mitandi cell,30.151778,0.5955,1757,valley
+21_uga_mita_p1_190-200,21_uga_mita_p1,Uganda,uga,Mitandi cell,30.151778,0.5955,1757,valley
+21_uga_rus_p1_0-10,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_10-20,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_20-30,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_30-40,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_40-50,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_50-60,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_60-70,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_70-80,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_80-90,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_90-100,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_100-114,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_114-120,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_120-130,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_130-140,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_140-150,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_150-160,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_160-170,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_170-180,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_180-190,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_190-200,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_200-210,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_210-220,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_220-230,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_230-240,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_240-250,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_250-260,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_rus_p1_260-265,21_uga_rus_p1,Uganda,uga,Ruseke,30.14144,0.53718,1621,valley
+21_uga_kik_p1_10-20,21_uga_kik_p1,Uganda,uga,Kikonzo Cell,30.13971,0.55461,1685,valley
+21_uga_kik_p1_50-60,21_uga_kik_p1,Uganda,uga,Kikonzo Cell,30.13971,0.55461,1685,valley
+21_uga_kik_p1_100-110,21_uga_kik_p1,Uganda,uga,Kikonzo Cell,30.13971,0.55461,1685,valley
+21_uga_kik_p2_40-50,21_uga_kik_p2,Uganda,uga,Kikonzo Cell,30.13971,0.55461,1685,valley
+21_uga_kik_p2_150-160,21_uga_kik_p2,Uganda,uga,Kikonzo Cell,30.13971,0.55461,1685,valley
+21_uga_muk_p1_0-10,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_10-20,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_20-30,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_30-40,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_40-50,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_50-60,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_60-70,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_70-80,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_80-90,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_p1_90-100,21_uga_muk_p1,Uganda,uga,Mukonomura,30.80445,0.55901,1249,valley
+21_uga_muk_SL_0-10,21_uga_muk_SL,Uganda,uga,Mukonomura,30.80452,0.55847,1265,slope
+21_uga_muk_p2_20-30,21_uga_muk_p2,Uganda,uga,Mukonomura,30.8044,0.55887,1252,valley
+21_uga_muk_p2_70-80,21_uga_muk_p2,Uganda,uga,Mukonomura,30.8044,0.55887,1252,valley
+21_uga_muk_p2_100-110,21_uga_muk_p2,Uganda,uga,Mukonomura,30.8044,0.55887,1252,valley
+21_uga_muk2_PLAT_0-10,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_10-20,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_20-30,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_30-40,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_40-50,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_50-60,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_60-70,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_70-80,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_80-90,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_90-100,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_100-110,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_110-120,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_120-130,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_130-140,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_140-150,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_150-160,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_160-170,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_170-180,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_180-190,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_PLAT_190-197,21_uga_muk2_PLAT,Uganda,uga,Mukonomura,30.80449,0.55695,1283,plateau
+21_uga_muk2_p2_10-20,21_uga_muk2_p2,Uganda,uga,Mukonomura,30.80419,0.55551,1245,valley
+21_uga_muk2_p2_90-100,21_uga_muk2_p2,Uganda,uga,Mukonomura,30.80419,0.55551,1245,valley
+21_uga_muk2_p1_20-30,21_uga_muk2_p1,Uganda,uga,Mukonomura,30.80434,0.55549,1247,valley
+21_uga_muk2_SL_10-20,21_uga_muk2_SL,Uganda,uga,Mukonomura,30.80429,0.55575,1253,slope
+21_uga_muk2_SL_20-30,21_uga_muk2_SL,Uganda,uga,Mukonomura,30.80429,0.55575,1253,slope
+21_uga_bug_SL_10-20,21_uga_bug_SL,Uganda,uga,Bugaya,30.14695,0.54993,1632,slope
+21_uga_kais_profile01,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile02,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile03,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile04,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile05,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile06,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile07,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile08,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_kais_profile09,21_uga_kai_profile,Uganda,uga,Kaisenda Cell,30.13234,0.55928,1708,profile
+21_uga_mati_profile01,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile02,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile03,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile04,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile05,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile06,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile07,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile08,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_uga_mati_profile09,21_uga_mati_profile,Uganda,uga,Matiri,30.83124,0.55739,1204,profile
+21_cod_ikul_profile01,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile02,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile03,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile04,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile05,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile06,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile07,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile08,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile09,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile10,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile11,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile12,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile13,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile14,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile15,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile16,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile17,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile18,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile19,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile20,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile21,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile22,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile23,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile24,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile25,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile26,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile27,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile28,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile29,21_cod_ikul_profileA,Democratic Republic of Congo,cod,Ikulubi,28.70496,-2.614775,1705,profile
+21_cod_ikul_profile01B,21_cod_ikul_profileB,Democratic Republic of Congo,cod,Ikulubi,28.704795,-2.614913,1705,profile
+21CODKALSL1_010,21_COD_KAL_SL1,Democratic Republic of Congo,cod,Kalambo,28.84111,-2.39301,1526,slope
+21CODKALSL1_1020,21_COD_KAL_SL1,Democratic Republic of Congo,cod,Kalambo,28.84111,-2.39301,1526,slope
+21CODKALSL1_2030,21_COD_KAL_SL1,Democratic Republic of Congo,cod,Kalambo,28.84111,-2.39301,1526,slope
+22CODKASHSL1_010,22_COD_KASH_SL1,Democratic Republic of Congo,cod,KASHUNGURI 4,28.84243,-2.40174,1501,slope
+22CODKASHSL1_1020,22_COD_KASH_SL1,Democratic Republic of Congo,cod,KASHUNGURI 4,28.84243,-2.40174,1501,slope
+22CODKASHSL1_2030,22_COD_KASH_SL1,Democratic Republic of Congo,cod,KASHUNGURI 4,28.84243,-2.40174,1501,slope
+22CODKONGSL2_010,22_COD_KONG_SL2,Democratic Republic of Congo,cod,KONGE,28.78736,-2.38667,1656,slope
+22CODKONGSL2_1020,22_COD_KONG_SL2,Democratic Republic of Congo,cod,KONGE,28.78736,-2.38667,1656,slope
+22CODKONGSL2_2030,22_COD_KONG_SL2,Democratic Republic of Congo,cod,KONGE,28.78736,-2.38667,1656,slope
+22CODBUGUSL4_010,22_COD_BUGU_SL4,Democratic Republic of Congo,cod,BUGULI,28.58575,-2.55312,1936,slope
+22CODBUGUSL4_1020,22_COD_BUGU_SL4,Democratic Republic of Congo,cod,BUGULI,28.58575,-2.55312,1936,slope
+22CODBUGUSL4_2030,22_COD_BUGU_SL4,Democratic Republic of Congo,cod,BUGULI,28.58575,-2.55312,1936,slope
+22CODKAHISL1_010,22_COD_KAHI_SL1,Democratic Republic of Congo,cod,KAHIMBARI,28.722,-2.59847,1753,slope
+22CODKAHISL1_1020,22_COD_KAHI_SL1,Democratic Republic of Congo,cod,KAHIMBARI,28.722,-2.59847,1753,slope
+22CODKAHISL1_2030,22_COD_KAHI_SL1,Democratic Republic of Congo,cod,KAHIMBARI,28.722,-2.59847,1753,slope
+22CODNTEVSL1_010,22_COD_NTEV_SL1,Democratic Republic of Congo,cod,NTEVU,28.80287,-2.45092,1664,slope
+22CODNTEVSL1_1020,22_COD_NTEV_SL1,Democratic Republic of Congo,cod,NTEVU,28.80287,-2.45092,1664,slope
+22CODNTEVSL1_2030,22_COD_NTEV_SL1,Democratic Republic of Congo,cod,NTEVU,28.80287,-2.45092,1664,slope
+22CODMWISSL1_010,22_COD_MWIS_SL1,Democratic Republic of Congo,cod,MWISHENGE,28.80394,-2.44731,1725,slope
+22CODMWISSL1_1020,22_COD_MWIS_SL1,Democratic Republic of Congo,cod,MWISHENGE,28.80394,-2.44731,1725,slope
+22CODMWISSL1_2030,22_COD_MWIS_SL1,Democratic Republic of Congo,cod,MWISHENGE,28.80394,-2.44731,1725,slope
+22UGANTUP1_0-10,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_10-20,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_20-30,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_30-40,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_40-50,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_50-60,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_60-70,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_70-80,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_80-90,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_90-100,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_100-110,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_110-120,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_120-130,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_130-140,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_140-150,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_150-160,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_160-170,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_170-180,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_180-190,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_190-200,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_200-210,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUP1_210-220,22_uga_ntu_p1,Uganda,uga,Ntuntu,30.51143,0.84628,1281,valley
+22UGANTUSL8_0-10,22_uga_ntu_sl8,Uganda,uga,Ntuntu,30.51021,0.84798,1387,slope
+22UGANTUSL8_10-20,22_uga_ntu_sl8,Uganda,uga,Ntuntu,30.51021,0.84798,1387,slope
+22UGANTUSL8_20-30,22_uga_ntu_sl8,Uganda,uga,Ntuntu,30.51021,0.84798,1387,slope
+22UGANTUSL11_0-10,22_uga_ntu_sl11,Uganda,uga,Ntuntu,30.5078,0.84047,1285,slope
+22UGANTUSL11_10-20,22_uga_ntu_sl11,Uganda,uga,Ntuntu,30.5078,0.84047,1285,slope
+22UGANTUSL11_20-30,22_uga_ntu_sl11,Uganda,uga,Ntuntu,30.5078,0.84047,1285,slope
+22UGAKIHUP2_0-10,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_10-20,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_20-30,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_30-40,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_40-50,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_50-60,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_60-70,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_70-80,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_80-90,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_90-100,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_100-110,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22UGAKIHUP2_110-120,22_uga_kihu_p2,Uganda,uga,Kihuuna,30.86117,0.57848,1246,valley
+22CODKALAP4_0-10,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_10-20,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_20-30,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_30-40,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_40-50,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_50-60,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_60-70,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_70-80,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_80-90,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_90-100,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_100-112,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_115-120,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_120-130,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_130-140,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_140-150,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_150-160,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_160-170,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_170-180,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_180-190,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_190-205,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_205-210,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_210-220,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_220-230,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_230-240,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_240-250,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_250-260,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_260-270,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_270-280,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODKALAP4_280-294,22_cod_kala_p4,Democratic Republic of Congo,cod,Kalambo,28.84078,-2.3911,1445,valley
+22CODLUKAP1_0-10,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_10-20,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_20-30,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_30-40,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_40-50,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_50-60,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_60-70,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_70-80,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODLUKAP1_80-97,22_cod_luka_p1,Democratic Republic of Congo,cod,Lukananda,28.75808,-2.34439,1828,valley
+22CODKABASL_0-10,22_cod_kaba_SL,Democratic Republic of Congo,cod,Kabamba,28.84606,-2.19943,1557,slope
+22CODKABASL_10-20,22_cod_kaba_SL,Democratic Republic of Congo,cod,Kabamba,28.84606,-2.19943,1557,slope
+22CODKABASL_20-30,22_cod_kaba_SL,Democratic Republic of Congo,cod,Kabamba,28.84606,-2.19943,1557,slope
